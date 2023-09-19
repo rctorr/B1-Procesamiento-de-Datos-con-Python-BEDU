@@ -29,7 +29,7 @@
 ### LANZAR JUPYTERLAB VÍA MyBinder
 Si por alguna razón tu instalación de Python Miniconda o Jupyter-Lab no están funcionando, entonces puedes dar click en el siguiente icono para lanzar una versión web de Jupyter-Lab y trabajar de forma temporal.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rctorr/B1-Procesamiento-de-Datos-con-Python-BEDU)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rctorr/B1-Procesamiento-de-Datos-con-Python-BEDU/master)
 
 ### LANZAR JUPYTERLAB VÍA EL SITIO PRINCIPAL DE JUPYTER
 Una alternativa muy recomendada es usar la opción de probar JuPyter Lab directo desde la página principal y se puede acceder desde el siguiente link, sólo es importante recordar que el trabajo realizado se podría perder cuando se cierre el navegador ya que es una versión beta.
