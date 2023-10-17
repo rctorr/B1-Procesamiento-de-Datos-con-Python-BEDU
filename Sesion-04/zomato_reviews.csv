@@ -1,0 +1,1183 @@
+,has_online_delivery,currency,name,cuisines,location.address,location.city,user_rating.rating_text
+1,1,Rs.,Hauz Khas Social,"Continental, American, Asian, North Indian","9-A & 12, Hauz Khas Village, New Delhi",New Delhi,Very Good
+2,0,Rs.,Qubitos - The Terrace Cafe,"Thai, European, Mexican, North Indian, Chinese, Cafe","C-7, Vishal Enclave, Opposite Metro Pillar 417, Rajouri Garden, New Delhi",New Delhi,Excellent
+3,1,Rs.,The Hudson Cafe,"Cafe, Italian, Continental, Chinese","2524, 1st Floor, Hudson Lane, Delhi University-GTB Nagar, New Delhi",New Delhi,Very Good
+4,0,Rs.,Summer House Cafe,"Italian, Continental","1st Floor, DDA Shopping Complex, Aurobindo Place, Hauz Khas, New Delhi",New Delhi,Very Good
+5,0,Rs.,38 Barracks,"North Indian, Italian, Asian, American","M-38, Outer Circle, Connaught Place, New Delhi",New Delhi,Very Good
+6,1,Rs.,Spezia Bistro,"Cafe, Continental, Chinese, Italian","2525, 1st Floor, Hudson Lane, Delhi University-GTB Nagar, New Delhi",New Delhi,Excellent
+7,0,Rs.,Manhattan Brewery & Bar Exchange,"Finger Food, American, Continental, North Indian, Italian","1st Floor, Global Foyer Mall, Sector 43, Golf Course Road, Gurgaon",Gurgaon,Excellent
+8,0,Rs.,The Wine Company,"Italian, European","Cyber Hub, DLF Cyber City, Gurgaon",Gurgaon,Poor
+9,0,Rs.,Farzi Cafe,Modern Indian,"38/39, Level 1, Block E , Inner Circle, Connaught Place, New Delhi",New Delhi,Very Good
+10,1,Rs.,Indian Grill Room,"North Indian, Mughlai","315, 3rd Floor, Suncity Business Tower, Golf Course Road, Gurgaon",Gurgaon,Excellent
+11,0,Rs.,Cafeteria & Co.,"Continental, Mexican","G 14, Hudson Lane, Vijay Nagar, New Delhi",New Delhi,Excellent
+12,0,Rs.,Farzi Cafe,Modern Indian,"7-8, Ground Floor, Cyber Hub, DLF Cyber City, Gurgaon",Gurgaon,Very Good
+13,0,Rs.,Molecule Air Bar,"Continental, North Indian, Italian, Chinese","4th Floor, SCO 53, Main Market, Sector 29, Gurgaon",Gurgaon,Very Good
+14,1,Rs.,HotMess,"North Indian, Mediterranean, Asian, Fast Food","M-11, Middle Circle, Connaught Place, New Delhi",New Delhi,Very Good
+15,0,Rs.,My Bar Headquarters,"North Indian, Mughlai, Chinese","N-49, 2nd Floor, Connaught Place, New Delhi",New Delhi,Good
+16,0,Rs.,FLYP@MTV,"North Indian, Mexican, Italian, Continental","N/57 & N/60, 1st Floor, Outer Circle, Connaught Place, New Delhi",New Delhi,Good
+17,0,Rs.,Tamasha,"Finger Food, North Indian, Continental, Italian","28, Kasturba Gandhi Marg, Connaught Place, New Delhi",New Delhi,Good
+18,0,Rs.,The Barbeque Company,"North Indian, Chinese, Continental","HL 1-2, L Block, Jail Road, New Delhi",New Delhi,Very Good
+19,1,Rs.,Saravana Bhavan,South Indian,"P-13, Connaught Circus, Connaught Place, New Delhi",New Delhi,Very Good
+20,0,Rs.,Odeon Social,"Continental, American, Asian, North Indian","1st Floor, 23, Odeon Building, Radial 5, D Block, Connaught Place, New Delhi",New Delhi,Very Good
+21,0,Rs.,Spice Kraft,"Continental, Middle Eastern, Asian","54/1/2A, Hazra Road, Ballygunge Phari, Near Hazra Law College, Ballygunge, Kolkata",Kolkata,Excellent
+22,1,Rs.,Hoppipola,"Italian, Mexican, American, Mediterranean","4th Floor, Acropolis Mall, 1858/1, Rajdanga Main Road, Kasba, Kolkata",Kolkata,Very Good
+23,0,Rs.,Barbeque Nation,"North Indian, Chinese","24, 1st Floor, Park Center Building, Park Street Area, Kolkata",Kolkata,Excellent
+24,1,Rs.,Peter Cat,"Continental, North Indian","18A, Park Street, Park Street Area, Kolkata",Kolkata,Very Good
+25,0,Rs.,Barbeque Nation,"North Indian, Chinese","K1, RDB Boulevard, Block EP & GP, Sector 5, Salt Lake",Kolkata,Excellent
+26,0,Rs.,What's Up,"Cafe, Chinese, Continental","122A, Southern Avenue, Kolkata",Kolkata,Very Good
+27,1,Rs.,6 Ballygunge Place,Bengali,"6, Ballygunge Place, Ballygunge, Kolkata",Kolkata,Very Good
+28,1,Rs.,TGI Friday's,"Tex-Mex, American","Forum Mall, 10/3, Elgin Road, Elgin, Kolkata",Kolkata,Very Good
+29,0,Rs.,The Irish House,"European, American","5th Floor, Quest Mall, 33, Syed Ali Amir Avenue, Ballygunge, Kolkata",Kolkata,Very Good
+30,1,Rs.,Asia Kitchen by Mainland China,"Asian, Chinese","4th Floor, Acropolis Mall, 1858/1, Rajdanga Main Road, Kasba, Kolkata",Kolkata,Excellent
+31,1,Rs.,India Restaurant,"Biryani, North Indian, Chinese, Mughlai","Ground Floor, 1st Floor, 2nd Floor, 34, Karl Marx Sarani, Kidderpore, Kolkata",Kolkata,Excellent
+32,0,Rs.,Nawwarah,"Chinese, Cafe, North Indian, Desserts","48A, Syed Amir Ali Avenue, Ballygunge, Kolkata",Kolkata,Good
+33,0,Rs.,Santa's Fantasea,"Seafood, Chinese","9, Ballygunge Terrace, Near Anjali Jewellers, Golpark, Kolkata",Kolkata,Very Good
+34,0,Rs.,Mumbai Local,"North Indian, Chinese, Street Food","19, Ballygunge Park Road, Near Quest Mall, Ballygunge, Kolkata",Kolkata,Very Good
+35,0,Rs.,Sigree Global Grill,North Indian,"1st Floor, Silver Spring Arcade, EM Bypass, Science City Area, Kolkata",Kolkata,Very Good
+36,1,Rs.,BarBQ,"Chinese, North Indian","43-47-55, Park Street Area, Kolkata",Kolkata,Very Good
+37,1,Rs.,Mocambo,"Continental, Italian, North Indian","25B Park Street, Park Street Area, Kolkata",Kolkata,Good
+38,0,Rs.,Gabbar's Bar & Kitchen,"North Indian, Chinese, Mexican, Italian","11/1, Ho Chi Minh Sarani, Camac Street Area, Kolkata",Kolkata,Very Good
+39,0,Rs.,Ocean Grill,"Continental, Seafood, North Indian, Asian","1st Floor, Infinity Benchmark, Near RDB Cinemas, Block GP, Sector 5, Salt Lake",Kolkata,Good
+40,0,Rs.,Flame & Grill,"North Indian, Continental","4th Floor, Mani Square Mall, 164/1, E.M. Bypass, Kankurgachi, Kolkata",Kolkata,Good
+41,0,Rs.,Farzi Cafe,Modern Indian,"Kamala Mills, Near Radio Mirchi Office, Lower Parel, Mumbai",Mumbai,Very Good
+42,1,Rs.,The Fusion Kitchen,"North Indian, Italian, Chinese, Mexican","Shop 1, Opposite Veda Building, Near Bhavdevi Garage, Holy Cross Road, IC colony, Borivali West, Mumbai",Mumbai,Excellent
+43,1,Rs.,Tea Villa Cafe,"Cafe, Italian, Desserts, Fast Food, Chinese, Tea","31, Opposite Globus, Hill Road, Bandra West",Mumbai,Very Good
+44,0,Rs.,Mumbai Vibe,"Cafe, Continental, North Indian, Italian, Chinese, Bakery, Desserts, Finger Food","Ganga Jamuna Block, 14th Road, Linking Road, Bandra West",Mumbai,Good
+45,0,Rs.,38 Degree East,"North Indian, Chinese, Thai","Panchkutir, Pawarwardi, Adhishankracharya Marg, Opposite Powai Lake, JVLR,Powai, Mumbai",Mumbai,Good
+46,0,Rs.,Mirchi And Mime,"North Indian, South Indian, Mughlai","Transocean House, Lake Boulevard, Hiranandani Business Park, Powai, Mumbai",Mumbai,Excellent
+47,0,Rs.,R' ADDA,"Street Food, Burger, Desserts, Italian, Pizza, North Indian, European, Finger Food","Ramee Guestline Hotel, 462, A B Nair Road, Juhu, Mumbai",Mumbai,Very Good
+48,0,Rs.,The American Joint,"Healthy Food, American, Burger, Salad","The Ahcl Homes Tower, Chikuwadi New Link Road, Borivali West, Mumbai",Mumbai,Average
+49,0,Rs.,Grandmama's Cafe,"Continental, Italian","Hotel Royal Garden, Ground Floor, Juhu Tara Road, Juhu, Mumbai",Mumbai,Good
+50,1,Rs.,SpiceKlub,North Indian,"8A, Janta Industrial Estate, Opposite Phoenix Mills, Senapati Bapat Road, Lower Parel, Mumbai",Mumbai,Very Good
+51,0,Rs.,Stacks And Racks,"American, Burger, Fast Food","Shop 1, Ganga Nivas, Opposite Toyota Showroom, Link Road, Malad West, Mumbai",Mumbai,Excellent
+52,1,Rs.,Tea Villa Cafe,"Cafe, Italian, Desserts, Fast Food, Chinese, Tea","28, Aaram Nagar 1, Opposite Dariya Mahal, Versova, Andheri West",Mumbai,Very Good
+53,0,Rs.,Cafe Hydro,Asian,"Esspee Tower, Rajendra Nagar, Dattapada Road, Borivali East, Mumbai",Mumbai,Very Good
+54,0,Rs.,Tea Villa Cafe,"Cafe, Italian, Desserts, Fast Food, Chinese, Tea","Shop 1& 2, Y-Building, Flower Valley, Opposite Viviana Mall,Eastern Express Highway, Majiwada, Thane West",Mumbai,Good
+55,1,Rs.,Joey's Pizza,Pizza,"Shop 1, Plot D, Samruddhi Complex, Chincholi Bunder Road, Mindspace, Malad West, Mumbai",Mumbai,Excellent
+56,0,Rs.,Joey's Pizza,Pizza,"6 & 7, Upvan Building, Near Indian Oil Colony, DN Nagar, Azad Nagar, Mumbai",Mumbai,Very Good
+57,1,Rs.,The Rolling Pin,"Bakery, Desserts, Cafe","12, Janta Industrial Estate, Senapat Bapat Road, Lower Parel, Mumbai",Mumbai,Good
+58,1,Rs.,Tea Villa Cafe,"Cafe, Italian, Desserts, Fast Food, Chinese, Tea","Pardhy House, Opposite Jain Temple, Junction of MG Road and Hanuman Road, Vile Parle East, Mumbai",Mumbai,Good
+59,0,Rs.,145 Kala Ghoda,"Fast Food, Beverages, Desserts","145, Kala Ghoda, Fort, Mumbai",Mumbai,Very Good
+60,0,Rs.,The English Department Bar & Diner,"Italian, Continental, Mexican, Japanese, American, British","Malad link Road, Near Inorbit Mall Junction, Malad West, Mumbai",Mumbai,Good
+61,0,Rs.,Flechazo,"Asian, Mediterranean, North Indian","9/1, 1st Floor, Above Surya Nissan, VRR Orchid, Doddanakkundi, Marathahalli, Bangalore",Bangalore,Very Good
+62,0,Rs.,Toit,"Italian, American, Pizza","298, Namma Metro Pillar 62, 100 Feet Road, Indiranagar, Bangalore",Bangalore,Excellent
+63,1,Rs.,Truffles,"American, Burger, Cafe","28, 4th 'B' Cross, Koramangala 5th Block, Bangalore",Bangalore,Excellent
+64,0,Rs.,ECHOES Koramangala,"Continental, American, Italian, North Indian, Chinese, Cafe","44, 4th B Cross, Koramangala 5th Block, Bangalore",Bangalore,Excellent
+65,1,Rs.,Big Brewsky,"Finger Food, North Indian, Italian, Continental, Thai, South Indian","Behind MK Retail, Before WIPRO Corporate Office, Sarjapur Road, Bangalore",Bangalore,Excellent
+66,0,Rs.,Farzi Cafe,Modern Indian,"202, Level 2, UB City, Vittal Mallya Road, Lavelle Road, Bangalore",Bangalore,Very Good
+67,0,Rs.,Koramangala Social,"Continental, American","118, Koramangala Industrial Area, Koramangala 7th Block, Bangalore",Bangalore,Excellent
+68,0,Rs.,Onesta,"Pizza, Cafe, Italian","215, 216 & 220, Devasandra Village, Kasaba Hobli, New BEL Road, Bangalore",Bangalore,Excellent
+69,0,Rs.,Three Dots & A Dash,"European, Continental","840/1,100 Feet Road, Metro Pillar 56-57, Indiranagar, Bangalore",Bangalore,Good
+70,0,Rs.,Glen's Bakehouse,"Bakery, Desserts, Cafe","297, 100 Feet Road, Indiranagar, Bangalore",Bangalore,Very Good
+71,1,Rs.,Onesta,"Pizza, Cafe, Italian","501, Binnamangala Extension, 1st stage, C.M.H Road, Indiranagar, Bangalore",Bangalore,Very Good
+72,0,Rs.,AB's - Absolute Barbecues,"European, Mediterranean, North Indian","90/4, 3rd Floor, Outer Ring Road, Munnekollaly Village, Marathahalli, Bangalore",Bangalore,Excellent
+73,1,Rs.,Eat Street,"North Indian, Chinese, Italian, Street Food, Desserts","11, 80 Feet Road, Opposite Indian Oil Petrol Pump, Koramangala 6th Block, Bangalore",Bangalore,Very Good
+74,0,Rs.,Hoot,"Continental, Italian, North Indian","BBMP 2034/69, Block 2, Kaikondrahalli, Varthur Hobli, Sarjapur Road, Bangalore",Bangalore,Good
+75,0,Rs.,Communiti,Continental,"67 & 68, Brigade Solitaire, Opposite to Advaith Hyundai, Residency Road, Bangalore",Bangalore,Very Good
+76,0,Rs.,Onesta,"Pizza, Cafe, Italian","Site 15, 15th Cross, 100 Feet Road, 4th Phase, JP Nagar, Bangalore",Bangalore,Excellent
+77,1,Rs.,The Fatty Bao - Asian Gastro Bar,Asian,"610, 3rd Floor, 12th Main, Off 80 Feet Road, Indiranagar, Bangalore",Bangalore,Excellent
+78,1,Rs.,Sultans of Spice,"North Indian, Mughlai","BluPetal Hotel, 60 Jyoti Nivas College Road, Koramangala 5th Block, Bangalore",Bangalore,Very Good
+79,1,Rs.,Bombay Brasserie,Modern Indian,"2989/B, 12th Main Road, HAL 2nd Stage, Indiranagar, Bangalore",Bangalore,Very Good
+80,0,Rs.,The Black Pearl,"North Indian, European, Mediterranean","105, 1st A Cross Road, Jyothi Nivas College Road, Koramangala 5th Block, Bangalore",Bangalore,Very Good
+81,0,Rs.,Farzi Cafe,Modern Indian,"Level 1 & 2, Fortaleza Complex, East Avenue, Kalyani Nagar, Pune",Pune,Very Good
+82,0,Rs.,Le Plaisir,"European, Desserts","759/125, Rajkamal, Opposite Kelkar Eye Hospital, Prabhat Road, Deccan Gymkhana, Pune",Pune,Excellent
+83,1,Rs.,Tales & Spirits,"Italian, Continental, Cafe","Plot 64, Shivaji Housing Society, Senapati Bapat Road, Pune",Pune,Very Good
+84,0,Rs.,The Urban Foundry,"North Indian, Asian","1, Balewadi High Street, Cummins India Office Campus, Baner-Balewadi Link Road, Pune",Pune,Excellent
+85,0,Rs.,Barbeque Ville,North Indian,"257, Green Valley, Near Mankar Chowk, Kaspate Vasti, Wakad, Pune",Pune,Very Good
+86,0,Rs.,The Little Next Door,"Finger Food, Italian, Spanish, Greek","D-10, Central Avenue, Kalyani Nagar, Pune",Pune,Very Good
+87,0,Rs.,Apache,Finger Food,"Shop 3, Turning Point, Behind Phoenix Mall, Viman Nagar, Pune",Pune,Very Good
+88,0,Rs.,Kargo,"Charcoal Grill, Italian, North Indian, European, Indonesian, Thai","Shop 1&2, Marvel Alaina, Lane  8, Near Godrej Nature's Basket, Koregaon Park, Pune",Pune,Very Good
+89,0,Rs.,Mineority By Saby,"North Indian, North Eastern, Continental","Level 1/2, Fortaleza Complex, Kalyani Nagar, Pune",Pune,Very Good
+90,0,Rs.,Agent Jack's Bar,"Continental, North Indian, Italian","Terrace, B Wing, ICC Trade Tower, Senapati Bapat Road, Pune",Pune,Very Good
+91,0,Rs.,Teddy Boy,"North Indian, Continental, Finger Food","9th Floor, Deron Heights, Above Ranka Jewellers, Baner, Pune",Pune,Good
+92,1,Rs.,Sautéed Stories,"Cafe, Italian, Continental","Plot 5, Between Lane 5/6, North Main Road, Opposite Wellness Forever, Koregaon Park, Pune",Pune,Very Good
+93,0,Rs.,Barbeque Nation,"North Indian, Mughlai","3rd Floor, R Deccan Mall, Near Deccan Gymkhana, JM Road, Pune",Pune,Excellent
+94,1,Rs.,Effingut Brewerkz,"Continental, North Indian, Mughlai, Burmese","End of Lane Number 6, Koregaon Park, Pune",Pune,Very Good
+95,0,Rs.,The Sassy Spoon,"European, Asian, Mediterranean, Modern Indian, Desserts, Finger Food","Lane 7, Sanskriti Lifestyle Complex, Koregaon Park, Pune",Pune,Very Good
+96,1,Rs.,18 Degrees Resto Lounge,"North Indian, Mediterranean, Chinese","8th & 9th Floor, Spot 18 Mall, Pimple Saudagar, Pune",Pune,Good
+97,1,Rs.,Chili's,"Mexican, American, Tex-Mex","UG 49, Phoenix Market City, Nagar Road, Viman Nagar, Pune",Pune,Excellent
+98,1,Rs.,Effingut Brewerkz,"Continental, North Indian, Mughlai, Burmese","4, Deron Heights, Next to Ranka Jewellers, Baner, Pune",Pune,Very Good
+99,0,Rs.,German Bakery Wunderbar,"Italian, German, Continental","153/A, Varun Complex, Near Demech House, Law College Road, Pune",Pune,Very Good
+100,1,Rs.,Blue Water,"North Indian, Chinese, Continental","Punawale, Near Basket Bridge,Off Aundh-Ravet BRT, Ravet, Pune",Pune,Very Good
+101,0,Rs.,AB's - Absolute Barbecues,"European, Mediterranean, North Indian","No. 8-2-618/10-11,2nd Floor, Krishe Amethyst, Road No.1, Banjara Hills, Hyderabad",Hyderabad,Excellent
+102,1,Rs.,Chili's,"Mexican, American, Tex-Mex, Burger","Flat 48, Ground Floor, Opposite Vengal Rao Park, Road 1, Banjara Hills, Hyderabad",Hyderabad,Excellent
+103,0,Rs.,Prost Brew Pub,"Italian, Continental, Chinese","882/A Road No 45, Jubilee Hills, Hyderabad",Hyderabad,Very Good
+104,1,Rs.,Chili's,"Mexican, American, Tex-Mex, Burger","F 48, 1st Floor, Inorbit Mall, Hitech City, Hyderabad",Hyderabad,Excellent
+105,0,Rs.,United Kitchens of India,"North Indian, Andhra, Chettinad, Bengali, Mughlai, Chinese","Road 45, Jubilee Hills, Hyderabad",Hyderabad,Very Good
+106,0,Rs.,Mocha Bar,"North Indian, Continental, Italian","161, Road 13, Jubilee Hills, Hyderabad",Hyderabad,Very Good
+107,0,Rs.,Dock Forty Five,"Continental, Asian","1067, Road 45, Jubilee Hills, Hyderabad",Hyderabad,Very Good
+108,0,Rs.,AB's - Absolute Barbecues,"European, Mediterranean, North Indian","Plot 483, 4th Floor, Pemmasani Complex, Bajaj Electronics Building, Near Madhapur Police Station, Road 36, Jubilee Hills, Hyderabad",Hyderabad,Excellent
+109,0,Rs.,The Fisherman's Wharf,"Seafood, Continental, Goan, Asian, Andhra","304, Puppalaguda, Financial District,ISB - Outer Ring Road, Gachibowli, Hyderabad",Hyderabad,Good
+110,1,Rs.,The Grand Trunk Road,"North Indian, Chinese","16, Image Garden Road, Madhapur, Hyderabad",Hyderabad,Good
+111,0,Rs.,Sahib’s Barbeque by Ohri’s,"Hyderabadi, Awadhi","First Floor, Shilparamam Complex, Opposite Cyber Tower, Hitech City, Hyderabad",Hyderabad,Very Good
+112,1,Rs.,Exotica,"Mughlai, North Indian, Chinese","Opposite Audi Showroom, 5th Floor, 12th Square Building, Road 12, Banjara Hills, Hyderabad",Hyderabad,Very Good
+113,1,Rs.,Saffron Mantra,"North Indian, Chinese","The Purple Leaf Hotel, Karkhana, Secunderabad",Secunderabad,Very Good
+114,0,Rs.,Conçu,"Bakery, Desserts","479/B, Road 21, Jubilee Hills, Hyderabad",Hyderabad,Excellent
+115,0,Rs.,Jonathan's Kitchen - Holiday Inn Express & Suites,"North Indian, Japanese, Italian","Holiday Inn Express & Suites, Gachibowli, Hyderabad",Hyderabad,Very Good
+116,1,Rs.,Olive Bistro,"Mediterranean, Italian, European","Road 46, Inside Durgam Cheruvu, Jubilee Hills, Hyderabad",Hyderabad,Very Good
+117,1,Rs.,Pine & Dine,"North Indian, South Indian, Chinese","Plot 73, Jubilee Enclave, Hitech City, Hyderabad",Hyderabad,Very Good
+118,1,Rs.,Heart Cup Coffee,"Cafe, Continental, North Indian, Chinese","B 7 & 8, Jubilee Garden, Behind TCS Building, E Park, Kondapur, Hyderabad",Hyderabad,Very Good
+119,0,Rs.,Coffee Cup,"Cafe, Continental","E 89, Above Canara Bank, Sainikpuri, Secunderabad",Secunderabad,Excellent
+120,0,Rs.,Churrolto,"Desserts, Cafe, Mexican","Ground Floor, Shop 3, Opposite IndusInd Bank, Madhapur Main Road, Madhapur, Hyderabad",Hyderabad,Excellent
+121,0,Rs.,Coal Barbecues,"North Indian, Mediterranean, Asian, Arabian","17-18, Rajalakshmi Nagar, 7th Cross Street, 100 Feet Bypass Road, Velachery, Chennai",Chennai,Excellent
+122,0,Rs.,Maplai,"South Indian, Chettinad","14, Sterling Avenue, Nungambakkam, Chennai",Chennai,Very Good
+123,1,Rs.,Haunted,"North Indian, Chinese, Arabian","273, F13, New Number 71, 2nd Main Road, Anna Nagar East, Chennai",Chennai,Good
+124,1,Rs.,Chili's,"Mexican, American, Tex-Mex, Burger","49 & 50 L, Express Avenue Mall, White's Road, Royapettah, Chennai",Chennai,Excellent
+125,1,Rs.,Basil With A Twist,"Continental, Cafe, Spanish, Italian, European, Greek, Mediterranean","58-A, Habibullah Road, T. Nagar, Chennai",Chennai,Excellent
+126,0,Rs.,Pind,"North Indian, Chinese","2, Sarathy Nagar, 1st Main Road, Velachery, Chennai",Chennai,Very Good
+127,1,Rs.,That Madras Place,"European, Italian, Desserts","34/29, 2nd Main Road, Kasturibai Nagar, Adyar, Chennai",Chennai,Very Good
+128,1,Rs.,Palmshore,"North Indian, Mughlai, Chinese, South Indian","95, Jawaharlal Nehru Salai, Jafferkhanpet, Ashok Nagar, Chennai",Chennai,Very Good
+129,0,Rs.,AB's - Absolute Barbecues,"North Indian, European, Mediterranean","Velachery Tharamani Link Road, Opposite TCS, Velachery, Chennai",Chennai,Excellent
+130,1,Rs.,Bombay Brasserie,North Indian,"3, College Lane, Nungambakkam, Chennai",Chennai,Excellent
+131,0,Rs.,Fusilli Reasons,Italian,"1/9, Dr. Vasudevan Street, Ormes Road, Kilpauk, Chennai",Chennai,Excellent
+132,0,Rs.,Barbeque Nation,"North Indian, Continental","Shri Devi Park Hotel, 1, Hanumantha Road, North Usman Road, T. Nagar, Chennai",Chennai,Very Good
+133,1,Rs.,Palmshore,"North Indian, Mughlai, Chinese, South Indian","111/108, Santhome High Road, Foreshore Estate, Santhome, Chennai",Chennai,Very Good
+134,1,Rs.,Paradise,"Biryani, North Indian","392, Anjali Devi Towers Kandanchavadi, OMR, Perungudi, Chennai",Chennai,Good
+135,1,Rs.,Palmshore,"North Indian, Mughlai, Chinese, South Indian","Plot 8, Park Dugar, Mount Poonamallee High Road, Ramapuram, Chennai",Chennai,Very Good
+136,1,Rs.,Writer's Cafe,"Cafe, European","98, Peter's Road, Behind Philip's Service Centre, Gopalapuram, Chennai",Chennai,Very Good
+137,1,Rs.,Kaidi Kitchen,"Italian, Mexican, Chinese, Thai, North Indian","20/3, Bishop Wallers Avenue, Mylapore, Chennai",Chennai,Very Good
+138,0,Rs.,Ciclo Cafe,"Cafe, Continental","47, Gandhi Mandapam Road, Kotturpuram, Chennai",Chennai,Very Good
+139,1,Rs.,Pantry d'or,"Continental, Cafe, Italian, Desserts","21/11, J Block, 6th Avenue Main Road, Anna Nagar East, Chennai",Chennai,Very Good
+140,1,Rs.,L'amandier,"European, Cafe, Italian","57, 2nd Main Road, RA Puram, Chennai",Chennai,Very Good
+141,0,Rs.,Vintage Machine,"Italian, American, Lebanese","3/11 Patrakar Puram, Gomti Nagar, Lucknow",Lucknow,Very Good
+142,0,Rs.,Barbeque Nation,North Indian,"3rd Floor, Riverside Mall, Vipin Khand, Gomti Nagar, Lucknow",Lucknow,Excellent
+143,0,Rs.,Spice Caves,"North Indian, Chinese, Mughlai","Above Samsung TV Showroom, Patrakar Puram, Gomti Nagar, Lucknow",Lucknow,Very Good
+144,0,Rs.,Royal Sky,"North Indian, Mughlai, Chinese, Continental","31/37, 1st Floor, Opposite Halwasiya Market, Maqbara Road, Lalbagh, Lucknow",Lucknow,Very Good
+145,0,Rs.,The Cherry Tree Cafe,"Cafe, Bakery","11, Habibullah Estate, Hazratganj, Lucknow",Lucknow,Very Good
+146,0,Rs.,Grandson of Tunday Kababi,"Mughlai, Lucknowi","Naaz Cinema Road, Aminabad, Lucknow",Lucknow,Excellent
+147,0,Rs.,Bar Bar,"Cafe, Chinese, Thai, North Indian, Continental","4, Sapru Marg, Hazratganj, Lucknow",Lucknow,Very Good
+148,0,Rs.,Underdoggs Sports Bar & Grill,"Mediterranean, Italian, American","4th Floor, City Mall, Vipul Khand 4, Gomti Nagar, Lucknow",Lucknow,Very Good
+149,0,Rs.,Dastarkhwan,Mughlai,"U. P. Press Club, China Bazaar Gate Road, Hazratganj, Lucknow",Lucknow,Very Good
+150,0,Rs.,L 14 - Renaissance Lucknow Hotel,"North Indian, Continental, South Indian, Chinese, Thai, Asian","14th Floor, Renaissance Lucknow Hotel, Vipin Khand, Gomti Nagar, Lucknow",Lucknow,Very Good
+151,0,Rs.,The Chocolate Heaven,"Cafe, Italian, Desserts","3/553, Vivek Khand, Opposite Aryans, Gomti Nagar, Lucknow, Uttar Pradesh",Lucknow,Very Good
+152,0,Rs.,Colours by Royal Cafe - Royal Inn,"North Indian, Mughlai, Chinese","3rd Floor, 9/7 Royal Inn, Opposite Saharaganj Mall, Hazratganj, Lucknow",Lucknow,Very Good
+153,0,Rs.,Cappuccino Blast,"Cafe, Fast Food","12, Mall Avenue, Near, Sadar Bazaar, Lucknow",Lucknow,Very Good
+154,0,Rs.,Percussion,"Continental, North Indian, Asian","2/139, Vijay Khand, Next to Gomti Nagar Police Station, Gomti Nagar, Lucknow",Lucknow,Good
+155,0,Rs.,Free Spirit,"Cafe, Italian","Indira Gandhi Pratishthan-Kathauta Chauraha road, Near Shaheed Path Flyover, Vishesh Khand 2, Gomti Nagar, Lucknow",Lucknow,Very Good
+156,0,Rs.,Frozen Factory,"Desserts, Ice Cream","1/99, Near Tata Motors, Viram Khand, Patrkarpuram, Gomti Nagar, Lucknow",Lucknow,Excellent
+157,0,Rs.,Homeys Cafe,"Cafe, Fast Food","2/163, Vivek khand-2, Gomti Nagar Station Road, Gomti Nagar, Lucknow",Lucknow,Good
+158,0,Rs.,The Pebbles Bistro,European,"1/208 A, Vineet Khand, Opposite Jaipuria School, Gomti Nagar, Lucknow",Lucknow,Very Good
+159,0,Rs.,The Urban Terrace,"North Indian, Continental","Hotel Lineage, C 73, Viraj Khand, Opposite Sahara Hospital, Gomti Nagar, Lucknow",Lucknow,Good
+160,0,Rs.,Chemistry Café,"Cafe, Continental, Chinese","5/599, Vikas Khand, Near Dayal Paradise, Gomti Nagar, Lucknow",Lucknow,Good
+161,1,Rs.,Cafe 17,"Cafe, Continental, Italian","Ground Floor, Unisquare Building, Opposite Sreedhareeyam Eye Hospital, Kathrikadavu, Kaloor, Kochi",Kochi,Very Good
+162,0,Rs.,Paragon,"Kerala, South Indian, Continental, North Indian, Seafood, Chinese","F 82-83, Level 1, LuLu Mall, NH-17, Entrance Road, Edapally Junction, Edappally, Kochi",Kochi,Very Good
+163,0,Rs.,Tonico Cafe,Cafe,"Opposite CSEZ, Seaport Airport Road, Kakkanad, Kochi",Kochi,Very Good
+164,0,Rs.,Kashi Art Cafe,"European, Cafe","Burgher Street, Fort Kochi, Kochi",Kochi,Very Good
+165,0,Rs.,Cocoa Tree,"Italian, Seafood, Mediterranean, Desserts, Cafe","1st Floor, Above ICICI Bank, Next to Avenue Centre, Panampilly Nagar, Kochi",Kochi,Very Good
+166,1,Rs.,Slice of Spice,"Fast Food, Biryani","Market Road, Opposite Saritha Savitha Theatre, Kacheripady, Kochi",Kochi,Very Good
+167,0,Rs.,Grand Hotel Restaurant,"North Indian, Kerala, Chinese, Continental","Grand Hotel, MG Road, Kochi",Kochi,Very Good
+168,1,Rs.,Bloomsbury's Boutique Cafe and Artisan Bakery,"Cafe, Bakery, Desserts","S 74, Level 2, LuLu Mall, NH-17, Entrance Road, Edapally Junction, Edappally, Kochi",Kochi,Very Good
+169,1,Rs.,Mustake Multicuisine Restaurant,"Chinese, Thai, North Indian, South Indian","Near SEZ, Noel Focuz, Seaport-Airport Road, Kakkanad, Kochi",Kochi,Good
+170,0,Rs.,French Toast,"Continental, Cafe, Desserts, Bakery","8th Cross Street B, Ambikapuram Road, Panampilly Nagar, Panampilly Nagar, Kochi",Kochi,Very Good
+171,0,Rs.,ChaiCofi,"Cafe, Continental, Italian","Arammal Tower, Near Express Garden, KK Road, Kaloor, Kochi",Kochi,Very Good
+172,0,Rs.,Nawras Seafood Restaurant,Seafood,"Near Pullepadi Bus stop, Chittoor Road, Kochi",Kochi,Excellent
+173,0,Rs.,Aangan - Downtown Multicuisine Restaurant,"Chinese, Seafood, North Indian, Biryani","32/1180C, Civil Lane Road, Palarivattom, Kochi",Kochi,Very Good
+174,0,Rs.,Palaaram,"Kerala, Fast Food","Vallathol Junction, Thrikkakara, Kakkanad, Kochi",Kochi,Good
+175,0,Rs.,Chiyang,"Chinese, Continental","Mariyambika Building, Madhava Pharmacy Junction, Kacheripady, Kochi",Kochi,Good
+176,0,Rs.,Ali Baba & 41 Dishes,"Kerala, South Indian, Chinese, Biryani","Main Avenue, Opposite South Indian Bank, Panampilly Nagar, Kochi",Kochi,Good
+177,0,Rs.,Ifthar,Kerala,"KK Building, Opposite Pittappillil, Edappally, Kochi",Kochi,Good
+178,0,Rs.,Barbeque Nation,"European, North Indian, Mediterranean, American","6th Floor, Imperial Trade Centre, Mahatma Gandhi Road, Kacheripady, Kochi",Kochi,Excellent
+179,1,Rs.,Dhe Puttu,Kerala,"NH 47, Edapally Bypass, Edappally, Kochi",Kochi,Very Good
+180,0,Rs.,Thakkaaram,"Kerala, South Indian","Opposite Gold Souk Grande Mall, Vyttila, Kochi",Kochi,Good
+181,0,Rs.,Blackout,"North Indian, European, Continental, Finger Food","Hotel Golden Oak, 9th Floor, Ahinsa Circle, Landmark Building, C Scheme, Jaipur",Jaipur,Good
+182,0,Rs.,The Forresta Kitchen & Bar,"Continental, Mexican, Beverages, Desserts, North Indian, Chinese, Rajasthani","Devraj Niwas, Near Moti Mahal Cinema, Khasa Kothi Crossing, Gopalbari, Jaipur",Jaipur,Very Good
+183,0,Rs.,WTF,"Continental, Italian, North Indian, Lebanese, Thai","301, Man Upasna Mall, Chomu House, C Scheme, Jaipur",Jaipur,Very Good
+184,1,Rs.,Tapri Central,"Cafe, Fast Food, Street Food","B4 E, 3rd Floor, Surana Jewellers, Opposite Central Park, C Scheme, Jaipur",Jaipur,Excellent
+185,0,Rs.,Meraaki Kitchen,"Modern Indian, Asian","27, Madrampura, Civil Lines Metro Station, Opposite To Pillar 88, Civil Lines, Jaipur",Jaipur,Good
+186,0,Rs.,Replay,"North Indian, Continental, Chinese, Italian, Mexican","SB 57, 5th Floor, Ridhi Tower, Opposite SMS Stadium, Tonk Road, Jaipur",Jaipur,Very Good
+187,1,Rs.,Mutual's,"Cafe, Mexican, Italian, North Indian, Fast Food","1, Awadhpuri, Near Kailash Mall, Lal Kothi, Jaipur Lal Kothi",Jaipur,Very Good
+188,1,Rs.,On The House,"Italian, Continental, Mexican, Cafe, Bakery","E 145, Ramesh Marg, Behind Talwalkars, C Scheme, Jaipur",Jaipur,Very Good
+189,1,Rs.,Cafe LazyMojo,"Cafe, Mexican, Italian, Continental","H 1, Lal Bahadur Nagar, S.L Marg, Malviya Nagar, Jaipur",Jaipur,Very Good
+190,1,Rs.,Mamu's Infusion,"Italian, Chinese, Mexican, Thai, North Indian","101, D-46-B,First Floor, Mangalam Ambition Tower, Subhash Marg, Agresen Circle, C Scheme, Jaipur",Jaipur,Very Good
+191,0,Rs.,O2- The Plant Cafe,Continental,"C 29, 4th Floor, Pankaj Singhvi Marg, Lal Kothi, Jaipur",Jaipur,Very Good
+192,1,Rs.,Zolocrust - Hotel Clarks Amer,"Italian, Bakery, Continental","Hotel Clarks Amer, Jawaharlal Nehru Marg, Near Malviya Nagar, Malviya Nagar, Jaipur",Jaipur,Excellent
+193,1,Rs.,Decked Up By Garden Cafe,"Cafe, Fast Food, North Indian","320, Queens Road, Opposite Jharkhand Mahadev Temple, Vaishali Nagar, Jaipur",Jaipur,Good
+194,1,Rs.,Calzone- Dine & Rooftop Lounge,"Continental, Mexican, North Indian, Chinese","Natani Tower, R-6-B, 3rd Floor, Sector 1, Vidhyadhar Nagar, Jaipur",Jaipur,Good
+195,0,Rs.,Sky Beach,"North Indian, Continental, Chinese, Mexican, Italian, Desserts","328-329, Above Watch Factory, Queens Road, Vaishali Nagar, Jaipur",Jaipur,Average
+196,0,Rs.,Monarch Restaurant - Holiday Inn Jaipur City Centre,"North Indian, Chinese, Continental, Rajasthani","Holiday Inn Jaipur City Centre, Commercial Plot 1, Sardar Patel Road, Bais Godam, Jaipur",Jaipur,Excellent
+197,1,Rs.,Taruveda Bistro,"Cafe, Italian, Japanese, Continental","1st Floor, Sunraj Villa, 2 Mysore House, Jacob Road, Civil Lines, Jaipur",Jaipur,Very Good
+198,0,Rs.,Chao Chinese Bistro - Holiday Inn Jaipur City Centre,"Chinese, Asian","Holiday Inn Jaipur City Centre, Commercial Plot 1, Sardar Patel Road, Bais Godam, Jaipur",Jaipur,Very Good
+199,0,Rs.,Chokhi Dhani,Rajasthani,"Chokhi Dhani Village Resort, 12 Mile, Tonk Road, Jaipur",Jaipur,Very Good
+200,1,Rs.,Nibs Cafe,"Cafe, Italian, Continental","B-16 Durgadas Colony, Next to MGF Mall, Bhawani Singh Road, C Scheme, Jaipur",Jaipur,Very Good
+201,1,Rs.,Mocha,"Cafe, Continental, Desserts","6-9, Ground Floor, Devashish Business Park, Opposite Krishna Complex, Bodakdev, Ahmedabad",Ahmedabad,Very Good
+202,1,Rs.,Blue -  Rooftop Cafe Restaurant Bistro,"North Indian, Cafe, Italian, Mexican, Continental","10th Floor, Balaji Heights Buliding, Behind Tanishq Showroom, C G Road, Ahmedabad",Ahmedabad,Good
+203,1,Rs.,La Pino'z Pizza,"Pizza, Italian","Shop 10,  Circle B, Nyay Marg, Bodakdev, Ahmedabad",Ahmedabad,Very Good
+204,1,Rs.,Huber & Holly,"Ice Cream, Desserts, Continental","7 B, Circle  B, Opposite Rajpath Club, Sarkhej, Gandhinagar Highway, Bodakdev, Ahmedabad",Ahmedabad,Excellent
+205,0,Rs.,Yanki Sizzlers,"Continental, Italian, Chinese","4, Ground Floor, Binori Ambit, Next to Renault Showroom, Thaltej Circle, Thaltej, Ahmedabad",Ahmedabad,Very Good
+206,0,Rs.,Brick Kitchen,"North Indian, Chinese, Continental","At Five Petals Hotel & Banquets, Near Chanakyapuri Bridge, Ghatlodia, Ahmedabad",Ahmedabad,Very Good
+207,1,Rs.,Puffizza,"Italian, Fast Food","103, Kairos, Opposite Mahatma Gandhi Labour Institute, Drive In Road, Gurukul, Ahmedabad",Ahmedabad,Very Good
+208,1,Rs.,Nini's Kitchen,"North Indian, Continental, Beverages, Italian, Burger, Healthy Food, Mediterranean","12, First Floor, Camps Corner 2, Opposite Prahlad Nagar Garden, Prahlad Nagar, Ahmedabad",Ahmedabad,Excellent
+209,0,Rs.,@Mango,"North Indian, Continental, Mexican, Italian","Opposite Sindhu Bhawan, Bodakdev, Ahmedabad",Ahmedabad,Very Good
+210,1,Rs.,Fozzie's Pizzaiolo,"Pizza, Italian, Beverages, Desserts","Ground Floor, Maruti Crystal, Opposite Rajpath Club, Service Road, Bodakdev, Ahmedabad",Ahmedabad,Very Good
+211,1,Rs.,Mazzo,"Cafe, American, Continental, Armenian, Fast Food","27, Sunshine Villa, Sunrise Park Society, Vastrapur, Ahmedabad",Ahmedabad,Good
+212,0,Rs.,650 - The Global Kitchen,"Chinese, Italian, North Indian, Mexican, Mediterranean, Thai","Shreekunj Mandapam, Beside Golden Tulip Bunglows & Tulip Citadel, Manekbaug, Ambavadi, Ahmedabad",Ahmedabad,Very Good
+213,0,Rs.,Swati Snacks,"Fast Food, Street Food, South Indian","Near Law Garden, Ellis Bridge, Ahmedabad",Ahmedabad,Very Good
+214,0,Rs.,MoMo Café - Courtyard By Marriott,"North Indian, South Indian, Asian, Continental","Courtyard By Marriott, Ramdevnagar Cross Road, Satellite, Ahmedabad",Ahmedabad,Good
+215,0,Rs.,The Garden Cafe - The Fern,"North Indian, Italian, Asian, South Indian","The Fern, Near Sola Overbridge, S G Highway, Sola, Ahmedabad",Ahmedabad,Very Good
+216,1,Rs.,Kabir Restaurant,"North Indian, Chinese, Continental, Desserts, Fast Food, Sandwich","JB Tower, Opposite Doordarshan Kendra, Drive In Road, Gurukul, Ahmedabad",Ahmedabad,Good
+217,1,Rs.,Cafe Alfresco,"Cafe, Beverages, Desserts, Pizza","101, Dynamic House, Vijay Cross Road, Above HDFC Bank, Opposite Child Care Hospital, Navrangpura, Ahmedabad",Ahmedabad,Very Good
+218,0,Rs.,Cryo Lab,"Desserts, Ice Cream","Ground Floor, Arjun Avenue, Opposite Samartheshwar Mahadev, Law Garden, Ahmedabad",Ahmedabad,Excellent
+219,0,Rs.,Patang - The Revolving Restaurant,"Continental, Chinese, North Indian","Chinubhai Tower, Nehru Bridge Corner, Ashram Road, Ahmedabad",Ahmedabad,Good
+220,0,Rs.,Turquoise Villa,Continental,"Ground Floor, Shanay - 1, Near AMA, IIM Road, Vastrapur, Ahmedabad",Ahmedabad,Very Good
+221,0,Rs.,OvenFresh,"Cafe, Bakery","SCO 437 & 438, Sector 35 C, Sector 35, Chandigarh",Chandigarh,Very Good
+222,0,Rs.,TGI Friday's,"American, Tex-Mex","SCO 51, Madhya Marg, Sector 26, Chandigarh",Chandigarh,Very Good
+223,1,Rs.,Chili's,"Mexican, American, Italian","312 B, 3rd Floor, Elante Mall, Phase 1, Chandigarh Industrial Area, Chandigarh",Chandigarh,Very Good
+224,1,Rs.,The Night Factory,"North Indian, Chinese, Continental, Pizza","Phase 1, Chandigarh Industrial Area, Chandigarh",Chandigarh,Good
+225,0,Rs.,Uncle Jack's,"Desserts, American","Booth 11, Sector 8, Chandigarh",Chandigarh,Very Good
+226,0,Rs.,Karim's,"Mughlai, North Indian","SCO 33, Madhya Marg, Sector 7, Chandigarh",Chandigarh,Average
+227,0,Rs.,Barbeque Nation,"North Indian, Chinese","SCO 39, Madhya Marg, Sector 26, Chandigarh",Chandigarh,Excellent
+228,1,Rs.,Taco Bell,"Mexican, Fast Food","SCO 453-454, Sector 35C, Sector 35, Chandigarh",Chandigarh,Very Good
+229,0,Rs.,Pal Dhaba,North Indian,"SCO 151 & 152, Sector 28 D, Sector 28, Chandigarh",Chandigarh,Good
+230,0,Rs.,Brooklyn Central,"American, Cafe","Courtyard, Elante Mall, Phase 1, Chandigarh Industrial Area, Chandigarh",Chandigarh,Very Good
+231,0,Rs.,Virgin Courtyard,Italian,"Backside, SCO 1A, Madhya Marg, Sector 7, Chandigarh",Chandigarh,Very Good
+232,1,Rs.,Super Donuts,"Burger, Fast Food, Desserts, Beverages","SCO 446 Sector 35 C, Sector 35, Chandigarh",Chandigarh,Very Good
+233,1,Rs.,The Shooters Cafe,"Continental, North Indian","SCO 654,Himalaya Marg Road, Sector 70, Mohali, Chandigarh",Mohali,Very Good
+234,0,Rs.,Hops n Grains,"North Indian, Middle Eastern, Pizza","SCO 358, Sector 9, Panchkula",Panchkula,Very Good
+235,0,Rs.,Nik Baker's,"Bakery, Desserts, Cafe","SCO 441 & 442, Sector 35 C, Sector 35, Chandigarh",Chandigarh,Very Good
+236,1,Rs.,Burgrill,"Burger, Fast Food","Booth 70, Sector 8, Chandigarh",Chandigarh,Excellent
+237,0,Rs.,Pirates of Grill,"North Indian, Continental, Asian","313, Third Floor, Elante Mall, Phase 1, Chandigarh Industrial Area, Chandigarh",Chandigarh,Very Good
+238,0,Rs.,Kylin Experience,"Japanese, Chinese, Thai, Malaysian, Burmese, Asian","312 A, 3rd Floor, Elante Mall, Phase 1, Chandigarh Industrial Area, Chandigarh",Chandigarh,Very Good
+239,1,Rs.,Midnight Chef,"North Indian, Chinese, Continental, Italian, Burger","SCO 329-332, Sector 35B, Sector 35, Chandigarh",Chandigarh,Average
+240,0,Rs.,Mocha,"Continental, Italian, Thai, Finger Food","Ground Floor, Elante Mall, Phase 1, Chandigarh Industrial Area, Chandigarh",Chandigarh,Very Good
+241,0,Rs.,Britto's Bar & Restaurant,"North Indian, Continental, Chinese, Seafood","Baga Calangute, Bardez, Baga, Goa",Goa,Very Good
+242,0,Rs.,Antares,Seafood,"Small Vagator Beach, Ozran, Vagator, Goa",Goa,Very Good
+243,0,Rs.,Curlies,"Continental, North Indian, Italian, Seafood, Goan","Anjuna Beach, Anjuna, Goa",Goa,Good
+244,0,Rs.,Fat Fish,"North Indian, Continental, Goan","Agar Waddo, Calangute Arpora Road, Bardez, Baga, Goa",Goa,Very Good
+245,0,Rs.,Martin's Corner,"Goan, Seafood, Chinese, North Indian","Ranvaddo, Salcete, Betalbatim, Goa",Goa,Very Good
+246,0,Rs.,Souza Lobo,"North Indian, Continental, Goan","Calangute Beach, Calangute, Goa",Goa,Very Good
+247,0,Rs.,Ritz Classic,"Goan, Seafood, North Indian","1st Floor, Vagle Vision, 18th June Road, Panaji, Goa",Goa,Excellent
+248,0,Rs.,Infantaria,"Italian, Continental, Goan","5/181, Calangute Baga Junction, Calangute, Goa",Goa,Good
+249,0,Rs.,Burger Factory,Fast Food,"Anjuna Main Road, Opposite Paradise Guest House, Anjuna, Goa",Goa,Excellent
+250,0,Rs.,The Black Sheep Bistro,"Seafood, Continental, European, German","Swami Vivekanand Road, Near ICICI Bank, Panaji, Goa",Goa,Excellent
+251,0,Rs.,Baba Au Rhum,"Italian, French, Cafe","1054, Sim Vaddo, Anjuna, Goa",Goa,Excellent
+252,0,Rs.,Club Cubana,Finger Food,"82, Sim Waddo, Arpora Hill, Anjuna, Goa",Goa,Very Good
+253,0,Rs.,La Plage,"Seafood, French","Aswem Beach, Near Papa Jolly Hotel, Aswem Road, Morjim, Arambol, Goa",Goa,Excellent
+254,0,Rs.,St. Anthony's,"North Indian, Chinese, Continental, Goan, Seafood","Baga Beach, Calangute-Baga Road, Baga, Goa",Goa,Good
+255,0,Rs.,The Fisherman's Wharf,"Continental, Goan, Seafood, North Indian","Before The Leela, Mobor, Cavelossim, Goa",Goa,Excellent
+256,0,Rs.,Fisherman's Cove,"Goan, North Indian, Chinese","Main Candolim Road, Titos Vaddo, Candolim, Goa",Goa,Good
+257,0,Rs.,Calamari,"Goan, Seafood, Chinese","Dando Beach, Opposite Santana Beach Resort, Candolim, Goa",Goa,Very Good
+258,0,Rs.,The Fisherman's Wharf,"Continental, Goan, Seafood, North Indian","D. B. Bandodkar Road, Campal, Panaji, Goa",Goa,Very Good
+259,0,Rs.,Cafe Al Fresco by Cantina Bodega,Cafe,"Sunaparanta Centre For The Arts, Altinho, Panaji, Goa",Goa,Very Good
+260,0,Rs.,LPK Waterfront,Finger Food,"Near Bank Of India, Bhatiwado, Nerul, Goa",Goa,Good
+261,0,Rs.,Mocha,"Cafe, Continental, Italian, Street Food","G-1 & 2, Prakrati Corporate Building, Race Course Area, YN Road, Indore",Indore,Very Good
+262,0,Rs.,Just My Bakes,"Cafe, Bakery","5-B/F, Scheme 74C, Vijay Nagar, Indore",Indore,Good
+263,0,Rs.,KYRO,"North Indian, Chinese, Continental, Mediterranean, Asian","Fortune Aura Rooftop, 1,  Gurmeet Nagar, Bhawar Kuan Main Road, Bhawar Kuan, Indore",Indore,Good
+264,0,Rs.,Square - Sayaji Hotel,"North Indian, Chinese, Italian","Sayaji Hotel, H-1, Scheme 54, Vijay Nagar, Indore",Indore,Very Good
+265,0,Rs.,Oye24,"North Indian, Chinese, South Indian","HIG-LIG, Indore",Indore,Very Good
+266,0,Rs.,Cafe Terazza,"Cafe, Italian, Mexican, Chinese","10th Floor, Airen Heights, Opposite C 21 Mall, Vijay Nagar, Indore",Indore,Good
+267,0,Rs.,Cafe Palette,"Cafe, Lebanese, Italian","136, Saket, Old Palasia, Indore",Indore,Good
+268,0,Rs.,The Creative Kitchen - Radisson Blu Hotel,"North Indian, Continental, Mexican, Italian","Radisson Blu Hotel, 12, Scheme 94C, Ring Road, Vijay Nagar, Indore",Indore,Good
+269,0,Rs.,Waffle House,"Cafe, Fast Food","Shop 301, Satyaraj Building, Opposite Malhar Mall, A.B Road, Vijay Nagar, Indore",Indore,Very Good
+270,0,Rs.,JAL - A Jungle Restaurant,"North Indian, Chinese","Behind Pushp Kunj Hospital, Khandwa Road, Bhawar Kuan, Indore",Indore,Very Good
+271,0,Rs.,10 Downing Street,"North Indian, Chinese","Second Floor, Malhar Mega Mall, AB Road, Scheme 54, Vijay Nagar, Indore",Indore,Very Good
+272,0,Rs.,Mangosteen Cafe,"Cafe, Fast Food, Italian, Mexican","4/5, 5th Floor, Pushpratna Solitaire, New Palasia, Indore",Indore,Good
+273,0,Rs.,The Yellow Chilli,"North Indian, Mughlai, Seafood","Block B-3, Dhan Trident, Near Metro Tower, PU-4, Scheme 54, Vijay Nagar, Indore",Indore,Very Good
+274,0,Rs.,Vidorra,"North Indian, Chinese","1001, Rooftop, Shekhar Central, Palasia Square, New Palasia, Indore",Indore,Very Good
+275,0,Rs.,Mama Loca,"Greek, Lebanese","G-1, Princess Centre, 6/3, New Palasia, Indore",Indore,Very Good
+276,0,Rs.,Nafees Restaurant,"North Indian, Mughlai","30-B, Apollo Avenue, Old Palasia, Indore",Indore,Very Good
+277,0,Rs.,Cakesmith's Alley,"Bakery, Cafe, Fast Food","Shop 8, Scheme 78, Near Prestige College UG Campus, Vijay Nagar, Indore",Indore,Very Good
+278,0,Rs.,Freito,"Mexican, Italian","343-344, Rooftop, Scheme 54, Vijay Nagar, Indore",Indore,Average
+279,0,Rs.,Cafe Yolo,"Cafe, Fast Food","65, Scheme 78-II, Opposite Prestige College, Vijay Nagar, Indore",Indore,Good
+280,0,Rs.,Hobnob Gourmet Cafébar,"Italian, Continental","Infiniti Hotel, 1C/CA, Scheme 94, Vijay Nagar, Indore",Indore,Very Good
+281,0,Rs.,Al Arabian Express,Mughlai,"Near Big Bazar, College Road, Nashik",Nashik,Good
+282,0,Rs.,Sadhana Restaurant,Maharashtrian,"Hardev Bagh, Near Someshwar, Motiwala College Road, Gangapur Road, Near Satpur, Nashik",Nashik,Good
+283,0,Rs.,Barbeque Ville,North Indian,"Karambelkar Tower, Mumbai Agra Road, Cidco, Near Dutta Tyres, Parijat Nagar, Nashik",Nashik,Good
+284,0,Rs.,Spice Route,"North Indian, Maharashtrian","Gangapur Road, Navasha Ganpati, Sector C, Near Union Bank, Anand Wali Goan, Nashik",Nashik,Good
+285,0,Rs.,The Cafe Katta,Cafe,"Muktangan Apartment, Model Colony, College Road, Nashik",Nashik,Average
+286,0,Rs.,Barbeque Nation,"North Indian, European, Mediterranean, Asian","2nd Floor, City Centre Mall, Sambaji Chowk, Lawate Nagar, Banyan Square, Untwadi, Off Parijat Nagar, Parijat Nagar, Nashik",Nashik,Good
+287,0,Rs.,Soma at Sula,North Indian,"Survey 36/2, Govardhan, Off Gangapur-Ganghavare Road, Satpur, Nashik",Nashik,Average
+288,0,Rs.,Little Italy,Italian,"36/2, Govardhan Village, Off Gangapur-Savargaon Road, Satpur, Nashik",Nashik,Average
+289,0,Rs.,Curry Leaves,"North Indian, Chinese, Fast Food","Jehan Circle, Gangapur Road, College Road, Nashik",Nashik,Average
+290,0,Rs.,12212,Fast Food,"Shop 10, Ramrajya Building 7, Samarth Nagar, Next to Bhonsala Military school, College Road, Nashik",Nashik,Good
+291,0,Rs.,RiverDine Restaurant & Bar,"North Indian, Chinese","Opposite Asaram Bapu Ashram Bridge, Near Nandawan Lawns, Savarkar Nagar Extension, Off Gangapur Road, College Road, Nashik",Nashik,Good
+292,0,Rs.,Veg Aroma,North Indian,"Opposite Durga Gas Pump, Gangapur Road, Anand Wali, Nashik, Anand Wali Goan, Nashik",Nashik,Good
+293,0,Rs.,Chai Tapri,Cafe,"Shop 2, Chandan Apartments, Model Colony, College Road, Nashik",Nashik,Average
+294,0,Rs.,Divtya Budhlya Wada Restaurant,Maharashtrian,"Next to Dura Gas Pump, Gangapur Rd, Ganpati Nagar, Anand Wali Goan, Nashik",Nashik,Good
+295,0,Rs.,Enter The Dragon,Chinese,"4th Floor, Archit Arcade, Above Peter England, Near Big Bazar, College Road, Nashik",Nashik,Average
+296,0,Rs.,White X Sky Lounge,North Indian,"4th Floor, B Wing, Bosco Center, Prasad Circle, Gangapur Road, College Road, Nashik",Nashik,Average
+297,0,Rs.,Eastern Spice,North Indian,"Bon Vivant, Opposite Dongre Ground, College Road, Nashik",Nashik,Good
+298,0,Rs.,House Of Flavours,"North Indian, Chinese, Continental","SSK Solitaire, Ahilyabai Holkar Marg, Tidke Colony, Near Mumbai Naka, Satpur, Nashik",Nashik,Average
+299,0,Rs.,The Bake Studio,"Cafe, Desserts","Bon Vivant, Opposite Dongre Ground, College Road, Nashik",Nashik,Good
+300,0,Rs.,Hotel Radhakrishna,"Malwani, North Indian, Chinese, Seafood","P-35, MIDC, Satpur, Nashik Behind ITI, Trimbak Road,",Nashik,Good
+301,0,Rs.,Barbeque Nation,"North Indian, Chinese, Continental","2nd Floor, 2439/1 & 2, Dhanraj Singh Complex, Main Ferozpur Road, Rajguru Nagar, Ludhiana",Ludhiana,Good
+302,0,Rs.,Bistro 226,"Italian, Continental, North Indian, Cafe","226, Civil Street, Ghumar Mandi Chowk, Civil Lines, Ludhiana",Ludhiana,Very Good
+303,0,Rs.,Aman Chicken,"North Indian, Mughlai","Jagjit Nagar, Near Railway Crossing, Near Shastri Nagar, Ludhiana",Ludhiana,Excellent
+304,0,Rs.,Nik Bakers,"Cafe, Bakery, Desserts","SCF 43-44, Kipps Market, Sarabha Nagar, Ludhiana",Ludhiana,Very Good
+305,0,Rs.,The Yellow Chilli,"Mughlai, North Indian, Chinese","SCF 31 C, Main Market, Sarabha Nagar, Ludhiana",Ludhiana,Very Good
+306,0,Rs.,Bistro Flamme Bois,"Italian, Continental, Mexican, Lebanese","16-17, Green Park Avenue, Gurdev Nagar, Ludhiana",Ludhiana,Very Good
+307,0,Rs.,Hot Breads,"Continental, Chinese, Italian, Bakery","SCF 32, Main Market, Sarabha Nagar, Ludhiana",Ludhiana,Very Good
+308,0,Rs.,Pirates Of Grill,"North Indian, Mughlai","2nd Floor, Sandhu Tower 2, Near Ansal Mall, Gurdev Nagar, Ludhiana",Ludhiana,Good
+309,0,Rs.,Mocha,Cafe,"27 & 28 F, 1st Floor, Malhar Road, Gurdev Nagar, Ludhiana",Ludhiana,Good
+310,0,Rs.,Hawai Adda,"North Indian, Chinese, Continental","Verka Park, Ferozpur Road, Aggar Nagar, Ludhiana",Ludhiana,Good
+311,0,Rs.,Kitchen At 95 - Hyatt Regency,"Mediterranean, Chinese, Continental","Hyatt Regency, Site 4, Ferozepur Road, Rajguru Nagar, Ludhiana",Ludhiana,Very Good
+312,0,Rs.,The BrewMaster - The Mix Fine Dine,"North Indian, Continental","3rd Floor, Westend Mall, Rajguru Nagar, Ludhiana",Ludhiana,Good
+313,0,Rs.,Indian Summer,"North Indian, Chinese","SCF 13/14, F Block, BRS Nagar, Ludhiana",Ludhiana,Very Good
+314,0,Rs.,Belfrance Luxury Chocolates,"Cafe, Continental, Italian, Bakery","SCF 32 C Main Market, Sarabha Nagar, Ludhiana",Ludhiana,Very Good
+315,0,Rs.,Basant,"North Indian, Chinese, South Indian, Fast Food","Fountain Chowk, Civil Lines, Ludhiana",Ludhiana,Good
+316,0,Rs.,Basant Restaurant,"North Indian, Chinese, Fast Food","Urban Estate, Main Market, Phase 1, Dugri, Ludhiana",Ludhiana,Good
+317,0,Rs.,Nando's,"Portuguese, African","SCO 35 & 36, Main Market, Sarabha Nagar, Ludhiana",Ludhiana,Good
+318,0,Rs.,Spice Cube,"North Indian, Chinese, Continental","Near Gate 1, Kartar Bhawan, Ferozepur Road, PAU, Ludhiana",Ludhiana,Good
+319,0,Rs.,District 6,"European, Chinese","4th Floor, Silver Arch Mall, Ferozpur Road, Gurdev Nagar, Ludhiana",Ludhiana,Good
+320,0,Rs.,Domino's Pizza,"Pizza, Fast Food","SCF 21, Main Market, Sarabha Nagar, Ludhiana",Ludhiana,Good
+321,0,Rs.,Barbeque Nation,North Indian,"2nd Floor, Adityam Building, Ulubari, Guwahati",Guwahati,Excellent
+322,0,Rs.,Three Guys,"Continental, North Indian, Chinese, Arabian, Thai","R.G.B Road, Zonali, Near Jonali Bus Stop, Zoo Tiniali, Guwahati",Guwahati,Very Good
+323,0,Rs.,The Zouq : Resto-Cafe,"Cafe, North Indian, Italian","1st Floor, Royal Orchard, House 1, By Lane 2, Near Arohan and Passport Office, Dispur, Guwahati",Guwahati,Very Good
+324,0,Rs.,Brooklyn Blues,"Continental, European","4th Floor, Dona Planet Mall, G. S. Road, Christian Basti, Guwahati",Guwahati,Very Good
+325,0,Rs.,The Basement Café,Cafe,"R.G. Baruah Road, Near Guwahati Commerece College, Chandmari, Guwahati",Guwahati,Excellent
+326,0,Rs.,The Woking Mama,"Chinese, Thai, Japanese, Asian","4th Floor, Dona Planet Multiplex Mall, D. Neog Path, GS Road, Christian Basti, Guwahati",Guwahati,Very Good
+327,0,Rs.,Yo! China,Chinese,"1st Floor, Adityam Building,Borthakur Mall Road, Ulubari, Guwahati",Guwahati,Good
+328,0,Rs.,The Corner Cafe,"Cafe, Continental","Navin Bhawan, Lamb Road, Ambari, Uzan Bazaar Guwahti, Uzan Bazaar, Guwahati",Guwahati,Very Good
+329,0,Rs.,BrewBakes,"Cafe, Continental, Chinese","Near Six Mile Flyover, above Domino's Pizza, Six Mile, Guwahati G.S. Road",Guwahati,Very Good
+330,0,Rs.,Terra Mayaa Restaurant and Lounge,"North Indian, Continental, Italian, Chinese","6th Floor, Anil Plaza 2, G.S. Road, Christian Basti, Guwahati",Guwahati,Good
+331,0,Rs.,Mocha,"Cafe, Italian","Anil Plaza 2, G.S Road, Christian Basti, Guwahati",Guwahati,Excellent
+332,0,Rs.,Confucius,"Chinese, Thai","Near VLCC, G.S. Road, Christian Basti, Guwahati",Guwahati,Very Good
+333,0,Rs.,4 Seasons,"Chinese, North Indian","Opposite Institute of Social Science, Bhuban Road, Uzan Bazaar, Guwahati",Guwahati,Good
+334,0,Rs.,Café Riverrun,"Continental, Juices, Cafe, Desserts, Salad, Italian","47, Mahatma Gandhi Road, Uzan Bazaar, FabIndia Building, Guwahati ",Guwahati,Very Good
+335,0,Rs.,Shanghai Salsa,"Continental, Fast Food, Chinese, Charcoal Grill, Mexican","37, 1st Floor, Hatigarh Chariali, Mother Teresa Road, Zoo Tiniali Area, Zoo Tiniali, Guwahati",Guwahati,Very Good
+336,0,Rs.,Underdoggs Sports Bar & Grill,"North Indian, Continental","1st Floor, Central Mall, G.S. Road, Sree Nagar, Christian Basti, Guwahati",Guwahati,Very Good
+337,0,Rs.,Chung Fa,Chinese,"Zoo Narengi Road, Geetanagar, Zoo Tiniali Area, Guwahati, Zoo Tiniali, Guwahati",Guwahati,Very Good
+338,0,Rs.,Fat Belly,"Asian, Chinese, Tibetan","Opposite Rabindra Bhawan, GNB Road, Ambari, Dighalipukhuri East, Uzan Bazaar, Guwahati",Guwahati,Very Good
+339,0,Rs.,Strawberry Fields,Cafe,"Chakradhar Villa, Opposite All India Radio, Chandmari, Guwahati",Guwahati,Very Good
+340,0,Rs.,Ziya,"Continental, Chinese","Opposite 5th By-Lane, Mother Teresa Road, Zoo Road, Zoo Tiniali, Guwahati",Guwahati,Very Good
+341,0,Rs.,Makhan Fish and Chicken Corner,"North Indian, Chinese","21-A, Near Madaan Hospital, Majitha Road, Basant Nagar, Amritsar",Amritsar,Average
+342,0,Rs.,Bharawan Da Dhaba,"North Indian, Fast Food","Near Amritsar Municipal Corporation, Town Hall, Amritsar",Amritsar,Good
+343,0,Rs.,The Kulcha Land,"North Indian, Street Food","Opposite M.K Hotel, District Shopping Centre, Ranjit Avenue, Amritsar",Amritsar,Good
+344,0,Rs.,Brothers Dhaba,North Indian,"Golden Temple Out Road, Opposite Amritsar Municipal Corporation, Town Hall, Amritsar",Amritsar,Good
+345,0,Rs.,Charming Chicken,North Indian,"Shop 3, Opposite Nari Nikaten, Majithia Road, Near Basant Nagar, Amritsar",Amritsar,Good
+346,0,Rs.,Kanha Sweets,Fast Food,"Shop 1, Opposite Bijli Pehalwan Mandir, Lawrence Road, White Avenue, Amritsar",Amritsar,Very Good
+347,0,Rs.,Beera Chicken Corner,North Indian,"Opposite Bandari Hospital, Sehaj Avenue, Majitha Road, Near White Avenue, Amritsar",Amritsar,Good
+348,0,Rs.,Brothers' Amritsari Dhaba,North Indian,"Phawara Chowk, Town Hall, Amritsar",Amritsar,Good
+349,0,Rs.,La Roma Pizzeria,"Fast Food, Italian","SCO 6, District Shopping Complex, Ranjit Avenue, Amritsar",Amritsar,Good
+350,0,Rs.,Gurdas Ram Jalebi Wala,Mithai,"Near Golden Temple, Town Hall, Amritsar",Amritsar,Very Good
+351,0,Rs.,Bade Bhai Ka Brothers' Dhaba,"North Indian, Fast Food","Near Amritsar Municipal Corporation, Town Hall, Amritsar",Amritsar,Good
+352,0,Rs.,Crystal Restaurant,"North Indian, Mughlai","Crystal Chowk, Queens Road, INA Colony, Amritsar",Amritsar,Average
+353,0,Rs.,Surjit Food Plaza,North Indian,"Shop 4, Nehru Shopping Complex, Lawrence Road, White Avenue, Amritsar",Amritsar,Good
+354,0,Rs.,Brijwasi Chat Bhandar,Street Food,"Crystal Chowk, Cooper Road, Near INA Colony",Amritsar,Good
+355,0,Rs.,Shudh Restaurant,"North Indian, South Indian, Chinese, Fast Food","Opposite Gurudwara Saragarhi, Near Dharm Singh Market Chowk, Fuwara, Town Hall, Amritsar",Amritsar,Average
+356,0,Rs.,The Yellow Chilli,"North Indian, Mughlai, Chinese","108, GRD Towers, District Shopping Center, Ranjit Avenue, Amritsar",Amritsar,Average
+357,0,Rs.,Bubby Fish & Chicken Corner,North Indian,"Near Crystal Chowk, Cooper Road, INA Colony, Amritsar",Amritsar,Good
+358,0,Rs.,Bon Gateau,"Cafe, Bakery, Fast Food","SCF 27, C Block Market, Ranjit Avenue, Amritsar",Amritsar,Average
+359,0,Rs.,Sakhis Watz Kukin,"North Indian, Chinese","M 47, Green Avenue, opp Main Park, Amritsar",Amritsar,Good
+360,0,Rs.,Ahuja Milk Bhandar,Beverages,"Dhab Khatikan, Near Hindu College, Hathi Gate, Amritsar",Amritsar,Very Good
+361,0,Rs.,Upper Crust,"Bakery, Fast Food","112/368-F, Swaroop Nagar, Kanpur",Kanpur,Average
+362,0,Rs.,Mr Brown,"Bakery, Desserts, Fast Food","16/12, Phoolbagh, Mall Road, Kanpur",Kanpur,Good
+363,0,Rs.,Liquid,"Finger Food, North Indian, Continental, Italian, Mediterranean","The Terrace, Ratan Zone, Coca-Cola Crossing, Ashok Nagar, Kanpur",Kanpur,Very Good
+364,0,Rs.,Anaicha's Food Joint,"Chinese, North Indian, Continental","113/187, Swaroop Nagar, Kanpur",Kanpur,Good
+365,0,Rs.,Hucka,"Chinese, Fast Food","3rd Floor, SGM Plaza, Arya Nagar, Kanpur",Kanpur,Average
+366,0,Rs.,Verandah,"Chinese, Italian, Fast Food","Third Floor, 7/17, Parvati Bagla Road, Tilak Nagar, Kanpur",Kanpur,Good
+367,0,Rs.,UrbanCrave,"Cafe, Continental, Desserts, Ice Cream, Italian, Beverages","14/125, The Mall, Mall Road, Colonelganj, Parade, Kanpur",Kanpur,Good
+368,0,Rs.,Waterside - The Landmark Hotel,"North Indian, Chinese","The Landmark Hotel, Landmark Towers, 10, Near Naveen Market, Mall Road, Kanpur",Kanpur,Good
+369,0,Rs.,Gyan Vaishnav,North Indian,"Gumti 5,Kaushal Puri, Ashok Nagar, Kanpur",Kanpur,Good
+370,0,Rs.,Dunkin Donuts,"Desserts, Fast Food","Third Floor, Plot 1 & 1A, Z Square Mall, Mall Road, Kanpur",Kanpur,Very Good
+371,0,Rs.,Barbeque Nation,"North Indian, Mughlai, Lebanese, Arabian, Mediterranean","16/113, 3rd Floor, Z Square Mall, MG Marg, Mall Road, Kanpur",Kanpur,Very Good
+372,0,Rs.,Atmosphere Grill Cafe Sheesha,"Indian, Chinese, Continental","8th Floor, J.S. Tower, 16/106 - Mall Road, Kanpur, Mall Road, Kanpur",Kanpur,Good
+373,0,Rs.,Royal Dine - Hotel Royal Cliff,"North Indian, Chinese","Hotel Royal Cliff, 113 / 72, Near Motijheel Garden, Swaroop Nagar, Kanpur",Kanpur,Very Good
+374,0,Rs.,Little Chef,"North Indian, Fast Food","15/198- A, Near Civil Court, Civil Lines, Near, Mall Road, Kanpur",Kanpur,Very Good
+375,0,Rs.,Dhuaan,"North Indian, Mexican, Italian","Plot 58, Status Club, Cantonment Area, Tagore Road, Kanpur",Kanpur,Very Good
+376,0,Rs.,Chin Mi,Chinese,"Rave 3, Plot 11, Block 6 Parwati Bagla Road, Tilak Nagar, Kanpur",Kanpur,Good
+377,0,Rs.,Urban Crave Express,"Cafe, Italian","Shop No-8, New Shopping Complex, IIT Kanpur, Kanpur",Kanpur,Good
+378,0,Rs.,Aromas,Fast Food,"7/135, Opposite Indian Overses Bank, Swaroop Nagar, Kanpur",Kanpur,Very Good
+379,0,Rs.,The Zaffran,"North Indian, Continental, Asian","Ratan Zone, Coca-Cola Crossing, Ashok Nagar, Kanpur",Kanpur,Average
+380,0,Rs.,Tadka,North Indian,"117/K/13, Rave Moti, Gutaiya, Kanpur",Kanpur,Good
+381,0,Rs.,The Tamarind Tree,"South Indian, Chinese","60 C, Thornhill Road, Civil Lines, Allahabad",Allahabad,Average
+382,0,Rs.,Cafe El Chico,"Continental, Italian","24, Mahatma Gandhi, Civil Lines, Allahabad",Allahabad,Good
+383,0,Rs.,KFC,"American, Fast Food","P Square Mall, Civil Lines, Allahabad",Allahabad,Average
+384,0,Rs.,Hot Stuff,"North Indian, Fast Food","21 C, Lal Bhadhur Shastri Marg, Civil Lines, Allahabad",Allahabad,Good
+385,0,Rs.,Sagar Ratna,"South Indian, North Indian, Chinese, Continental","3/3, Near Balson Crossing, Hashimpur Road, Tagore Town, Allahabad",Allahabad,Good
+386,0,Rs.,Bean Here,"Cafe, Fast Food","Vinayak Pushp, 77 Elgin Road, Near Florista, Civil Lines, Allahabad",Allahabad,Average
+387,0,Rs.,Tandoor Restaurant,"North Indian, Chinese","17/33, Mahatama Gandhi Marg, Civil Lines, Allahabad",Allahabad,Average
+388,0,Rs.,Eat On,North Indian,"Palace Compound, Near Palace Cinema, MG Marg, Civil Lines, Allahabad",Allahabad,Good
+389,0,Rs.,Dewsis,"North Indian, Chinese","2, MG Marg, Opposite Hanuman Mandir, Civil Lines, Allahabad",Allahabad,Average
+390,0,Rs.,Friends Forever,"North Indian, Chinese","13/13, Sardar Patel Marg, Civil Lines, Allahabad",Allahabad,Average
+391,0,Rs.,The BrewMaster,"North Indian, Chinese, Italian","Near Vishal Megamart, Civil Lines, Allahabad",Allahabad,Average
+392,0,Rs.,Paradise,"Desserts, Fast Food","19/35, MG Marg, Civil Lines, Allahabad",Allahabad,Good
+393,0,Rs.,Subway,"Fast Food, American, Salad, Healthy Food","207/53, Mahatma Gandhi Marg, Civil Lines, Allahabad",Allahabad,Average
+394,0,Rs.,Bikanerwala,"North Indian, Street Food, Fast Food","2A, JMD Bhawan, Strachey Road, Civil Lines, Allahabad",Allahabad,Average
+395,0,Rs.,Pizza Hut,"Italian, Pizza","31/31, Sardar Patel Marg, Civil Lines, Allahabad",Allahabad,Average
+396,0,Rs.,Aryan Family's Delight,"North Indian, South Indian, Fast Food","Ground Floor, Vinayak City Centre, Sardar Patel Marg, Civil Lines, Allahabad",Allahabad,Average
+397,0,Rs.,Hotel Ravisha Continental,"North Indian, South Indian, Chinese","57 A, Purshottamdas Tandon Marg, Civil Lines, Allahabad",Allahabad,Average
+398,0,Rs.,Pind Balluchi,"North Indian, Mughlai","5-A, Sardar Patel Marg, Civil Lines, Allahabad",Allahabad,Average
+399,0,Rs.,Moti Mahal Delux,"Mughlai, North Indian, Chinese","Second Floor, Vinayak City Center Mall, SP Marg, Civil Lines, Allahabad",Allahabad,Average
+400,0,Rs.,McDonald's,Fast Food,"Shop 4, 34-B, M G Marg, Civil Lines, Allahabad",Allahabad,Average
+401,0,Rs.,Kream N Krunch,"North Indian, Chinese, Continental, Italian","2, Near Akashwani Circle, Mahesh Nagar, Jalna Road, Akashwani, Aurangabad",Aurangabad,Good
+402,0,Rs.,Bhoj Restaurant,North Indian,"First Floor, Bhau Pathak Smriti Kamgar Bhavan, CBS Road, Nirala Bazar, Aurangabad",Aurangabad,Good
+403,0,Rs.,Yalla Yalla,"North Indian, Hyderabadi","Near Gopal Tea Corner, Usmanpura Circle, Usmanpura, Aurangabad",Aurangabad,Average
+404,0,Rs.,Mokoholic Juice Bar,"Juices, Desserts","Opposite Municipal Car Parking, Paithan Gate, Near Mondha, Aurangabad",Aurangabad,Good
+405,0,Rs.,d' Curry House,"Continental, Chinese, Biryani, North Indian","Hotel Green Olive, Near Baba Petrol Pump, Nirala Bazar, Aurangabad",Aurangabad,Good
+406,0,Rs.,Mauj Restaurant,"Italian, Fast Food, North Indian, Chinese","31, Kailash Arcade, Opposite Bank of Baroda, Connaught Place, CIDCO, Aurangabad",Aurangabad,Average
+407,0,Rs.,Indiana Veg Restaurant,"South Indian, North Indian, Chinese, Fast Food","Plot 2, Near High Court, N-3, CIDCO, Aurangabad",Aurangabad,Average
+408,0,Rs.,Downside Up,"Cafe, Mughlai, North Indian","6&7 B, Kuber Avenue, Rana Nagar, Near Nyay Nagar, Aurangabad",Aurangabad,Average
+409,0,Rs.,Kailash Restaurant,"North Indian, Chinese, South Indian, Fast Food","Rachanakar colony, Railway Station Road, Usmanpura, Aurangabad",Aurangabad,Average
+410,0,Rs.,Madhuban Restaurant - Welcome Hotel Rama International,"North Indian, Chinese, Continental, Italian, Mexican","Welcome Hotel Rama International, Opposite High Court, CIDCO, Aurangabad",Aurangabad,Average
+411,0,Rs.,Great Sagar Restaurant,"North Indian, Mughlai","Near Bhadkal Gate, VIP Road, Shahgunj, Aurangabad",Aurangabad,Average
+412,0,Rs.,Ashoka's Veg Restaurant,"South Indian, Chinese, North Indian","31, Opposite Kohinoor Plaza, Near M P Law College, Nirala Bazar, Aurangabad",Aurangabad,Average
+413,0,Rs.,Domino's Pizza,Pizza,"8, Upper Ground Floor, City Pride Commercial Complex, Kali Bawdi, Jalna Road, CIDCO, Aurangabad",Aurangabad,Average
+414,0,Rs.,Naivedya,North Indian,"Sakal Office, Jalna Road, CIDCO, Aurangabad",Aurangabad,Average
+415,0,Rs.,Kareem's Fine Dining,"Mughlai, Biryani","A1-A3, Motiwala Complex, Below KFC Restaurant, Nirala Bazar, Aurangabad",Aurangabad,Average
+416,0,Rs.,Angeethi Restaurant,"North Indian, Chinese","Seven Hill Flyover, Jalna Road, Vidya Nagar, CIDCO, Aurangabad",Aurangabad,Average
+417,0,Rs.,Hotel Laadli,"North Indian, South Indian","Goodwill Complex, Opposite Cidco Busstand, N-2, CIDCO, Aurangabad",Aurangabad,Average
+418,0,Rs.,Balbeer's Kitchen & Bar,"Italian, Continental, Chinese, North Indian","Shendra, Near Cambridge School, Jalna Road, Chicalthana, Aurangabad",Aurangabad,Average
+419,0,Rs.,Kareem's Kabab & Biryani,Mughlai,"First Floor, Food Court, Prozone Mall, MIDC Industrial Area, Chicalthana, Aurangabad",Aurangabad,Average
+420,0,Rs.,That Baat,Maharashtrian,"Near Vivekanand College, Samarth Nagar, Nirala Bazar Road, Aurangabad",Aurangabad,Average
+421,0,Rs.,10 Downing Street,"North Indian, Chinese","Third Floor, DB City Mall, Maharana Pratap Nagar, Bhopal",Bhopal,Very Good
+422,0,Rs.,Bake N Shake,Fast Food,"Near Jyoti Cineplex, Zone 1, Maharana Pratap Nagar, Bhopal",Bhopal,Very Good
+423,0,Rs.,Papa Mexicano,"Fast Food, Mexican, Tex-Mex","R-24, Zone II, Maharana Pratap Nagar, Bhopal",Bhopal,Good
+424,0,Rs.,Da pizzeria,"Pizza, Italian, Fast Food","177, Zone 2, Maharana Pratap Nagar, Bhopal",Bhopal,Good
+425,0,Rs.,Bapu Ki Kutia,"North Indian, Chinese, South Indian, Fast Food","Behind Jyoti Cineplex, Zone 1, Maharana Pratap Nagar, Bhopal",Bhopal,Good
+426,0,Rs.,Kebabsville - Sayaji Hotel,North Indian,"A-3,Van Vihar Road, Prempura, TT Nagar, Bhopal",Bhopal,Very Good
+427,0,Rs.,Manohar Dairy And Restaurant,"North Indian, South Indian, Street Food, Bakery","132, Zone 1, Maharana Pratap Nagar, Bhopal",Bhopal,Very Good
+428,0,Rs.,Sagar Gaire Fast Food,Fast Food,"10, Number Market, Arera Colony, Bhopal",Bhopal,Excellent
+429,0,Rs.,Chi Kitchen,Chinese,"12-13, Food Court, DB City Mall, Maharana Pratap Nagar, Bhopal",Bhopal,Very Good
+430,0,Rs.,Maybe There,Cafe,"4th floor,10th Cross Road Building, Above Vishal Fitness Centre, 10 Main Road, Arera Colony, Bhopal",Bhopal,Average
+431,0,Rs.,Kafe Kulture,"Cafe, Fast Food","A-66A, Jai Bhawani Housing Society, Bawadiyan Kalan, Gulmohar Colony, Bhopal",Bhopal,Good
+432,0,Rs.,Violet Hour,Bakery,"Shop 3-4, Plot 5B, Sai Mehndi Appartment, B.D.A,  Kohefiza Main Road, Kohefiza, Bhopal",Bhopal,Good
+433,0,Rs.,The Kasbah,"North Indian, Chinese","110/7, Mandakini, Opposite Union Bank, Kolar Main Road, Arera Colony, Bhopal",Bhopal,Good
+434,0,Rs.,Black N White Cafe,"Cafe, Chinese, North Indian","G-1, Raksha Tower, Eden Garden, Arera Colony, Bhopal",Bhopal,Average
+435,0,Rs.,Manohar Dairy And Restaurant,"North Indian, South Indian, Street Food, Bakery","6, Hamidia Road, Opposite Alpana Cineplex, Peer Gate Area, Bhopal",Bhopal,Very Good
+436,0,Rs.,Pizza Hut,Pizza,"Third Floor, DB City Mall, Arera Hills, Maharana Pratap Nagar, Bhopal",Bhopal,Very Good
+437,0,Rs.,Bake N Shake,Fast Food,"B-1, GM Tower,  Stop No. 10, Arera Colony, Bhopal",Bhopal,Very Good
+438,0,Rs.,Bake N Shake,Fast Food,"Bhadbhada Road, Near Rang Mahal Talkies, TT Nagar, Bhopal",Bhopal,Very Good
+439,0,Rs.,The Urban Socialite,"Italian, Mexican, Chinese","Hotel Lake View Ashoka, 5th Floor, Shyamla Hills, TT Nagar, Bhopal",Bhopal,Good
+440,0,Rs.,Indian Coffee House,South Indian,"Near Apex Bank, TT Nagar, Bhopal",Bhopal,Good
+441,0,Rs.,Prana,"European, North Indian, Continental, Italian","6th Floor, RS Square, Near Vishal Mega Mart,Harmu Road, Ranchi",Ranchi,Good
+442,0,Rs.,Moti Mahal Delux Tandoori Trail,"North Indian, Chinese","Lower Ground Floor Karni Heights, Beside Milan Palace, Club Road, Kadru, Ranchi",Ranchi,Good
+443,0,Rs.,Kaveri Restaurant And Caterers,"North Indian, Chinese, South Indian, Chinese","GEL Church Shopping Complex, Main Road, Hindpiri, Ranchi",Ranchi,Very Good
+444,0,Rs.,KFC,Fast Food,"Sirham Toli Chowk, Opposite Yogoda Ashram, Old Hazaribagh Road, Kanka, Ranchi",Ranchi,Average
+445,0,Rs.,Aroma - The Royal Retreat,"North Indian, South Indian, Chinese","The Royal Retreat, Krishna Nagar, Booti, Bariatu, Ranchi",Ranchi,Good
+446,0,Rs.,Yo China Restaurant,Chinese,"2nd Floor, Citadel Building, Main Road, Ranchi",Ranchi,Average
+447,0,Rs.,The Urban Brava,"Cafe, Fast Food, North Indian","Circular Road, Near Lalpur Chowk, Lalpur, Ranchi",Ranchi,Good
+448,0,Rs.,Kaveri Restaurant And Caterers,"North Indian, Chinese, South Indian, Chinese","Circular Road, Near Lalpur Chowk, Lalpur, Ranchi",Ranchi,Average
+449,0,Rs.,Pizza Hut,Pizza,"Shop 101, Ground Floor, Spring City Mall, Beside Eyelex Cinema, Airport Road, Hinoo, Doranda, Ranchi",Ranchi,Good
+450,0,Rs.,The Kav's,"North Indian, Continental, Chinese","Near BJP Office, Harmu Bypass Road, Harmu, Ranchi",Ranchi,Average
+451,0,Rs.,Waterfront - Radisson Blu,"North Indian, Continental","Radisson Blu, Main Road, Hindpiri, Ranchi",Ranchi,Average
+452,0,Rs.,7th Heaven,"South Indian, North Indian, Chinese","1st Floor, Shrilok Complex, Near Santevita Hospital, H B Road, Lalpur, Ranchi",Ranchi,Good
+453,0,Rs.,Yellow Sapphire,"Continental, North Indian, European","Hotel Capitol Hill, Near Ratan Talkies, Main Road, Hindpiri, Ranchi",Ranchi,Good
+454,0,Rs.,Punjab Sweet House,Street Food,"Main Road, Kanka, Ranchi",Ranchi,Good
+455,0,Rs.,The Best,"North Indian, South Indian, Chinese","R.S.Tower, Circular Road, Lalpur, Ranchi",Ranchi,Average
+456,0,Rs.,Food Belle,"North Indian, Chinese","Bhaskar Anirudh Complex, Near Jail More, Karamtoli Road, Lalpur, Ranchi",Ranchi,Average
+457,0,Rs.,OMG Cafe,"Cafe, Italian, Mexican, Chinese, North Indian","301, 3rd Floor, R S Tower, Opposite Pantaloons, Circular Road, Lalpur, Ranchi",Ranchi,Average
+458,0,Rs.,Jungli Moon Dance Restaurant,"North Indian, South Indian, Chinese","4th Floor, Shree Nand Bhawan, Near Income Tax Office, Main Road, Kanka, Ranchi",Ranchi,Average
+459,0,Rs.,Kathi Kabab,"Fast Food, North Indian","Main Road, Hindpiri, Ranchi",Ranchi,Average
+460,0,Rs.,Hot Lips,"North Indian, Chinese","Near Chandini Chowk, Kanke Road, Gandhi Nagar, Ranchi",Ranchi,Average
+461,0,Rs.,The Square - Hotel Novotel,"Continental, North Indian","Hotel Novotel, Beach Road, Maharani Peta, Vizag",Vizag,Very Good
+462,0,Rs.,Flying Spaghetti Monster,Italian,"10-50-12/F2, Sai Dakshata Complex, Beside Lenovo Showroom,   Visakhapatnam, Waltair Uplands, Waltair Uplands, Vizag",Vizag,Very Good
+463,0,Rs.,Barbeque Nation,"North Indian, Chinese, Mediterranean","1st Floor, ATR Towers, Harbour Park Road,  Panduranga Puram, Near Harbour Park, Kirlampudi Layout, Vizag",Vizag,Excellent
+464,0,Rs.,Pizza Hut,"Pizza, Fast Food","Plot No 47- 10-23/3, 5th Floor, Isnar Khazana Towers, Dwaraka Nagar, Vizag",Vizag,Very Good
+465,0,Rs.,Kamat Restaurant,"Andhra, North Indian, Chinese, Seafood, Biryani","Beach Road, Near Santhi Ashram, Lawsons Bay, Visakhapatnam",Vizag,Good
+466,0,Rs.,Alpha Hotel,"North Indian, Biryani","28-10-33/6, Jagdamba Commercial Complex, Chitralaya Cinema Hall, Jagadamba Junction, Visakhapatnam, Jagadamba Junction, Vizag",Vizag,Good
+467,0,Rs.,Double Roti,"Cafe, Fast Food, American","Ground Floor, ATR Towers, Harbour Park Road, Pandurangapuram, Kirlampudi Layout, Vizag",Vizag,Good
+468,0,Rs.,Pizza Hut,"Pizza, Fast Food","52-1-35,36&38, CMR Mall, New Resapavanipalem, Maddilapalem, Vizag",Vizag,Excellent
+469,0,Rs.,Plot 17,"Burger, Pizza, Biryani","Plot 17, Gangapur Layout, Siripuram, Vizag",Vizag,Very Good
+470,0,Rs.,Six Degrees,"South Indian, Chinese, Continental, Italian, North Indian","1-83-29, Opposite Pollock Lotus School, MVP Double Road, Sector 5, MVP Colony, Vizag",Vizag,Very Good
+471,0,Rs.,Percolator Coffee House,"Mughlai, Chinese, Cafe, BBQ, Cajun","RK Beach, Maharani Peta, Vizag Visakhapatnam., Maharani Peta",Vizag,Good
+472,0,Rs.,My Restaurant,"Andhra, North Indian, Chinese","HB Colony, Isukathota, National Highway 5, Besides Honda Showroom, Maddilapalem, Vizag",Vizag,Good
+473,0,Rs.,Vista - The Park,"American, North Indian, Thai, Continental","The Park, Beach Road, Pedda Waltair, Lawsons Bay, Visakhapatnam, Lawsons Bay, Vizag",Vizag,Good
+474,0,Rs.,Bake My Wish,Fast Food,"4-70-4, Opposite NCC Canteen, Lawsons Bay, Vizag",Vizag,Good
+475,0,Rs.,Kaloreez,"Cafe, North Indian, Chinese","Plot 95, Opposite St. Lukes Nursing School, Daspalla Hills, Siripuram, Vizag",Vizag,Good
+476,0,Rs.,Sri Sairam Parlour,"South Indian, North Indian","Diamond Park, Railway New Colony Road, Dwaraka Nagar, Vizag",Vizag,Very Good
+477,0,Rs.,Sea Inn - Raju Gaari Dhaba,"Biryani, Andhra","Beach Road, Opposite Cyclone Shelter ,   Visakhapatnam, Rushikonda, Vizag",Vizag,Very Good
+478,0,Rs.,Tea Trails,Fast Food,"7-5-82, Sea Shore Apartments, Southern Portion Cellar Floor, R K Beach Road, Maharani Peta, Vizag",Vizag,Good
+479,0,Rs.,D Cabana,"Continental, Seafood, Chinese, North Indian, Biryani","Beach Road, Near Bus Stop, Sagar Nagar, Visakhapatnam",Vizag,Good
+480,0,Rs.,Mekong - Hotel GreenPark,"Chinese, Thai, Burmese, Vietnamese, Tibetan, Japanese","Hotel GreenPark, Waltair Main Road, Waltair Uplands, Vizag",Vizag,Very Good
+481,0,Rs.,Eram Rooftop,"Asian, Continental","206, 3rd Floor, Suryansh Enclave, Shastri Nagar, Unit 4, Bhubaneshwar",Bhubaneshwar,Good
+482,0,Rs.,Central Perk 7,"Cafe, Charcoal Grill, Steak","Plot 133/A, District Center, Chandrasekharpur, Bhubaneshwar",Bhubaneshwar,Excellent
+483,0,Rs.,Aangan Horizon,"North Indian, Chinese, Continental","Above Patia Pantaloons, Nandankanan Road, Patia, Bhubaneshwar",Bhubaneshwar,Very Good
+484,0,Rs.,Adda,"North Indian, Chinese, Mexican, Beverages","4th Floor, SJ Complex, KIIT College Road, Patia, Bhubaneshwar",Bhubaneshwar,Good
+485,0,Rs.,Tyre Patty,Cafe,"3rd Floor, BMC Bhawani Mall, Sahid Nagar, Bhubaneshwar",Bhubaneshwar,Good
+486,0,Rs.,JUGAAD JN.,"North Indian, Rajasthani","KIIT Road, Opposite SBI, Patia, Bhubaneshwar",Bhubaneshwar,Very Good
+487,0,Rs.,Cha cTea,"Cafe, Tea","797, Near Shivam Honda Showroom, Sahid Nagar, Bhubaneshwar",Bhubaneshwar,Good
+488,0,Rs.,The Chicken Dinesty,"Fast Food, North Indian, Chinese","District Center, Niladri Vihar Road, Chandrasekharpur, Bhubaneshwar",Bhubaneshwar,Good
+489,0,Rs.,Richard's Kitchen & Coffee Bar,"Cafe, Chinese, Fast Food, Seafood","Rooftop Bata Showroom, KIIT Square, Patia, Bhubaneshwar",Bhubaneshwar,Good
+490,0,Rs.,Silver Streak,Chinese,"Ground Floor, BMC Bhawani Mall, Sahid Nagar, Bhubaneshwar",Bhubaneshwar,Very Good
+491,0,Rs.,Chai Break,"Italian, Cafe, Chinese, Continental","KIIT Road, PS Plaza, Patia, Bhubaneshwar",Bhubaneshwar,Very Good
+492,0,Rs.,Lal Qila,"Mughlai, Chinese, North Indian","Sampark Vihar, Opposite Big Bazaar, KIIT Square, Patia, Bhubaneshwar",Bhubaneshwar,Good
+493,0,Rs.,Chill Ummm,"Chinese, North Indian, Cafe","DS Tower, 2nd Floor, Plot 516/1763/4177, Near Big Bazar, Patia, Bhubaneshwar",Bhubaneshwar,Good
+494,0,Rs.,Michael's Kitchen,"North Indian, Asian, European","7798, Sainik School Road, Gajapati Nagar, Bhubaneswar, Gajapati Nagar, Bhubaneshwar",Bhubaneshwar,Good
+495,0,Rs.,Taste Of China,Chinese,"139, District Center, Chandrasekharpur, Bhubaneshwar",Bhubaneshwar,Very Good
+496,0,Rs.,99 North Restaurant,"North Indian, Chinese","B36, Chandaka Industrial Estate, Near CTTC, Patia, Bhubaneshwar",Bhubaneshwar,Good
+497,0,Rs.,Brewberrys The Coffee Bar,Cafe,"3, Infocity Road, Patia, Bhubaneshwar",Bhubaneshwar,Very Good
+498,0,Rs.,Food Fever,"Chinese, North Indian","A-54, Opposite Law University, Sahid Nagar, Bhubaneshwar",Bhubaneshwar,Very Good
+499,0,Rs.,Mainland China,Chinese,"The Crown, A1, Near IRC Village, Nayapalli, Bhubaneshwar",Bhubaneshwar,Very Good
+500,0,Rs.,Mamma Mia - Mayfair Lagoon,"Cafe, Italian, Mexican, Bakery","Mayfair Lagoon, 8-B, Jayadev Vihar, Bhubaneshwar",Bhubaneshwar,Very Good
+501,0,Rs.,Batlivala & Khanabhoy,"Parsi, North Indian","122, 4th Floor, Appusamy Layout, Red Fields, Race Course, Coimbatore",Coimbatore,Very Good
+502,1,Rs.,Tim's Bistro,"North Indian, Continental","156, Race Course Road, Race Course, Coimbatore",Coimbatore,Good
+503,0,Rs.,Barbeque Nation,"North Indian, European, Mediterranean","6th Floor, Metro Park Inn, 1000, Raja Street, Near Clock Tower, Town Hall, Coimbatore",Coimbatore,Very Good
+504,1,Rs.,Kuchi n Kream,"Cafe, Continental, Fast Food","353/1, Hotel Landmark Complex, Bharathiaar Road, Gandhipuram, Coimbatore",Coimbatore,Excellent
+505,1,Rs.,Zucca Pizzeria,Pizza,"GRG College Road, Opposite Rajasree Ford Showroom, Peelamedu, Coimbatore",Coimbatore,Good
+506,0,Rs.,Valarmathi Kongunaatu Samayal,"South Indian, Biryani","207/A, CSI Compound, Opposite Photo Centre, Race Course, Coimbatore",Coimbatore,Excellent
+507,0,Rs.,Yari,"North Indian, Chinese, Street Food","69, Bharathi Park, 6th Cross, Saibaba Colony, Coimbatore",Coimbatore,Very Good
+508,0,Rs.,That's Y Food,"North Indian, Biryani","24/49, TV Swamy Road East, Opposite Emeral Building, RS Puram, Coimbatore",Coimbatore,Very Good
+509,0,Rs.,Burger Ka Baap,Fast Food,"Avinashi Road, Near PSG College Of Technology, Peelamedu, Coimbatore",Coimbatore,Very Good
+510,0,Rs.,On The Go,"Italian, North Indian, Desserts","167, Race Course Road, Gopalapuram, Race Course, Coimbatore",Coimbatore,Very Good
+511,1,Rs.,The Cascade Restaurant,Chinese,"479-B1, Avinashi Road, Near Suguna Kalyana Mandapam, Peelamedu, Coimbatore",Coimbatore,Very Good
+512,0,Rs.,Haribhavanam Hotel,"South Indian, Chettinad, North Indian","2, Bharathi Colony, Peelamedu, Coimbatore",Coimbatore,Good
+513,1,Rs.,Cafe Totaram,"Cafe, Fast Food","245/1, Near Veejay Hall, Raheja Apartment, Race Course, Coimbatore",Coimbatore,Very Good
+514,0,Rs.,24 Plus Cafe & Restaurant,"Continental, Fast Food, Desserts, Indian","1A, Pollachi Main Road, Eachanari, Podanur, Coimbatore",Coimbatore,Good
+515,0,Rs.,Cream Centre,"North Indian, Chinese, Italian, Mexican","128/180, Orbit Avenue, Thirugnanasambandam Road, Opposite Bishop Appasamy College, Gopalapuram, Race Course, Coimbatore",Coimbatore,Very Good
+516,0,Rs.,Sree Annapoorna,"South Indian, North Indian, Chinese","75, East Arokiasamy Road, RS Puram, Coimbatore",Coimbatore,Very Good
+517,0,Rs.,Cream Stone,"Desserts, Ice Cream","Creamstone , 1335, Avinashi Road, Opposite Bharath Petrol Bunk, Peelamedu, Coimbatore",Coimbatore,Very Good
+518,1,Rs.,CakeBee,"Bakery, Desserts","6/1, SRP Nagar, Saibaba Colony, Coimbatore",Coimbatore,Excellent
+519,0,Rs.,Bird On Tree,"Continental, Chinese, Thai, Malaysian, North Indian","28, Opposite Circuit House, Behind HDFC, Race Course, Coimbatore",Coimbatore,Good
+520,1,Rs.,Kites Cafe,Cafe,"267, B.R. Puram, Near Royal Enfield Showroom, Avinashi Road, Peelamedu, Coimbatore",Coimbatore,Good
+521,0,Rs.,Machali,Seafood,"Behind Ocean Pearl, Sharada Vidhyalaya Road, Kodailbail, Mangalore",Mangalore,Very Good
+522,0,Rs.,Kobe Sizzlers,"Continental, American","G-1, Parin Tower, Collectors Gate Circle, Balmatta Road, Balmatta, Mangalore",Mangalore,Good
+523,0,Rs.,Punjab Da Pind,"North Indian, Mughlai, Chinese, Mangalorean","3rd Floor, Excel Mischief Mall, KS Rao Road, Mangalore, KS Rao Nagar, Mangalore",Mangalore,Good
+524,0,Rs.,Gajalee Sea Food,"Seafood, North Indian","Circuit House Compound, Opposite Kadri Police Station, Kadri, Mangalore",Mangalore,Good
+525,0,Rs.,Diesel Cafe,"American, Italian","Ground Floor, Hotel Prestige, Near Collector's Gate, Balmatta, Mangalore",Mangalore,Good
+526,0,Rs.,Sizzler's Ranch,Continental,"Nehru Avenue Road, Behind City Corporation, Lalbagh, Mangalore",Mangalore,Good
+527,0,Rs.,Spindrift,"North Indian, Italian, Finger Food","5th Floor, Bharath Mall, Lalbagh, Mangalore",Mangalore,Good
+528,0,Rs.,Barbeque Nation,"North Indian, Chinese","3rd Floor, MAK Mall, Kankanady, Mangalore",Mangalore,Good
+529,0,Rs.,Brio Cafe and Grill,"Cafe, Continental","Sainik Bhavan, Next to St Aloysius College, Lighthouse Hill, Hampankatta, Mangalore",Mangalore,Good
+530,0,Rs.,Liquid Lounge,"Finger Food, Continental, North Indian","KMC Mercara Trunk Road, Near Hotel Woodside, Balmatta, Mangalore",Mangalore,Good
+531,0,Rs.,Giri Manja's,Seafood,"Near Kalikamba Temple, Gopalkrishna Temple Road, Bhavathi, Mangalore Bhavathi",Mangalore,Very Good
+532,0,Rs.,Maharaja Restaurant,"South Indian, North Indian","1st Floor, Trade Centre, Near Jyothi Circle, Bunts Hostel Road, Balmatta, Mangalore",Mangalore,Good
+533,0,Rs.,Village Restaurant,"Chinese, Continental, North Indian, Mughlai","Airport Road, Yeyyadi, Kadri, Mangalore",Mangalore,Good
+534,0,Rs.,#45,Cafe,"Ground Floor, Trinity Commercial Complex, Near Central Railway Station, Attavara Road, Attavar, Mangalore",Mangalore,Good
+535,0,Rs.,Froth On Top,"Chinese, Mangalorean","Silk House, Balmatta Arya Samaj Road, Balmatta, Mangalore",Mangalore,Good
+536,0,Rs.,Sagar Ratna,"South Indian, North Indian, Chinese","Hotel Ocean Pearl, KS Rao Road, Near PVS Circle, Kodailbail, Mangalore",Mangalore,Good
+537,0,Rs.,Smoke N Oven,"Pizza, Italian","Opposite Vijaya Bank, Bejai Main Road, Bejai, Mangalore",Mangalore,Good
+538,0,Rs.,Kabab Studio,"North Indian, Mughlai","Goldfinch Hotel, Bunts Hostel Road, Near Jyoti Circle, Balmatta, Mangalore",Mangalore,Good
+539,0,Rs.,Crave Desserts & Bakes,"Desserts, Bakery","Deepa Paradise, Balmatta, Mangalore",Mangalore,Good
+540,0,Rs.,Hao Ming,Chinese,"Yenepoya Chambers, Opposite Hotel Prestige, Balmatta, Mangalore",Mangalore,Good
+541,0,Rs.,Tomato's,"North Indian, Mughlai, Mexican, Thai","1st Floor, Aditi Plaza, Beside IDBI Bank, Race Course Road,  ., Vadiwadi, Vadodara",Vadodara,Very Good
+542,0,Rs.,Meraki,"North Indian, Continental, Italian, Asian","Opposite Kunj Society, Near Nilkanthvarni Jewellers, Alkapuri, Vadodara",Vadodara,Very Good
+543,0,Rs.,Kabir Kitchen,"North Indian, Chinese","R.C. Dutt Road,Opposite Concord Building, Alkapuri, Vadodara",Vadodara,Good
+544,0,Rs.,Coffee Culture,Cafe,"1-8, Opposite INOX Multiplex, Sharnam Fortune, Vadiwadi, Vadodara",Vadodara,Very Good
+545,0,Rs.,La Quello - Mediterranean Kitchen,"Mediterranean, Italian","1, Trivia, Natu Bhai Circle, Race Course Road, Vadiwadi, Vadodara",Vadodara,Excellent
+546,0,Rs.,Barbeque Nation,"Mughlai, North Indian","3rd Floor, Shreem Shalini Mall, R.C. Dutt Road, Alkapuri, Vadodara",Vadodara,Very Good
+547,0,Rs.,That Place,"Italian, Mexican, Continental","33, Sampatrao Colony, Alkapuri, Vadodara",Vadodara,Very Good
+548,0,Rs.,Wok On Fire,"Thai, Chinese, Asian","1, Olive Complex, Opposite ABS Tower, B/S ICICI Wealth Bank, Old Padra Road, Diwalipura, Diwalipura, Vadodara",Vadodara,Good
+549,0,Rs.,The Yellow Chilli,"North Indian, Mughlai","2nd Floor, 1-7, Sharnam Fortune, Opposite Inox Multiplex, Race Course Circle, Vadiwadi, Vadodara",Vadodara,Good
+550,0,Rs.,VarieTea,"Cafe, Fast Food","83/A, Alkapuri Society, Near Baroda High School, Alkapuri, Vadodara",Vadodara,Good
+551,0,Rs.,El Amigos Kitchen,"North Indian, Thai, Italian, Chinese, Mexican","Ground Floor, Prestige Building, Race Course Road, Race Course Circle, Vadiwadi, Vadodara",Vadodara,Good
+552,0,Rs.,Little Italy,Italian,"36, Alkapuri Society, Behind HDFC Bank, Alkapuri, Vadodara",Vadodara,Very Good
+553,0,Rs.,Gazebo Garden Restaurant,North Indian,"Opposite FGI, Near Iscon Harmony, Sevasi-Bhimpura Road, Near Panchvati, Vadodara",Vadodara,Good
+554,0,Rs.,22nd Parallel,South Indian,"1st Floor, Tapan Complex, Next To M Cube Mall, Alkapuri, Vadodara",Vadodara,Excellent
+555,0,Rs.,Freshco - The Health Café,Cafe,"Shop 2-3, Ground Floor, Opposite Natubhai Circle, Trivia Complex, Race Course, Vadiwadi, Vadodara",Vadodara,Very Good
+556,0,Rs.,Offside Lounge,"Continental, Chinese, Mexican, North Indian","1st Floor, Kanchanganga Apartments, Near Bird Circle, Race Course Road, Vadiwadi, Vadodara",Vadodara,Good
+557,0,Rs.,Mandap - Hotel Express Towers,Gujarati,"Hotel Express Towers, R.C. Dutt Road, Alkapuri, Vadodara",Vadodara,Very Good
+558,0,Rs.,Pizza Hut,"Pizza, Italian","51,Akashganga Complex,Race Course Road, Vadiwadi, Vadodara",Vadodara,Very Good
+559,0,Rs.,Mr Toasties,Fast Food,"2/8 MIG Flats, Opposite Indraprastha Complex, Near LG Showroom, Inox Road, Ellora Park, Vadiwadi, Vadodara",Vadodara,Good
+560,0,Rs.,Kaphi Pibama,"Cafe, Mexican, Italian, Fast Food","18-A, Nutan Bharat, Soc 002-Yogeshwar Apartment,  Near Reliance Fresh, Alkapuri, Vadodara",Vadodara,Good
+561,0,Rs.,Barbeque Nation,"North Indian, European, Mediterranean","2nd Floor, Eternity Mall, Amravati Road, Sitabuldi, Nagpur",Nagpur,Excellent
+562,1,Rs.,The B.A.W.A,Cafe,"Opposite VCA Stadium, Civil Lines, Nagpur",Nagpur,Very Good
+563,0,Rs.,The Breakfast Story,Cafe,"Opposite Transmitting Station, Hingna Road, Jaitala, Pratap Nagar, Nagpur",Nagpur,Excellent
+564,0,Rs.,House of Caffeine,Fast Food,"J 12, Besides Face & Figure Gym, WHC Road, Laxmi Nagar, Nagpur",Nagpur,Average
+565,1,Rs.,Mocha,"Cafe, Continental","202, Cement Road, Shankar Nagar, Dharampeth, Nagpur",Nagpur,Very Good
+566,1,Rs.,Checker's,"Fast Food, Chinese","23 to 25, VCA Complex, Civil Lines, Nagpur",Nagpur,Very Good
+567,1,Rs.,The Zuree Urban Kitchen,"North Indian, Italian, Continental","8A, AD Complex, Mount Road, Mohan Nagar, Nagpur",Nagpur,Very Good
+568,1,Rs.,KFC,"American, Fast Food","G1-G2, Ground Floor, Eternity Mall, Variety Square, Amravati Road, Sitabuldi, Nagpur",Nagpur,Poor
+569,0,Rs.,Moksh The Restro Lounge,"Seafood, Chinese, Thai","Panchshil Chowk, Sitabuldi, Nagpur",Nagpur,Very Good
+570,0,Rs.,NESCAFÉ Illusions,Cafe,"Oppsite Dharampeth High School, North Ambazari Road, Near ICICI Bank, Lad Apartment., Dharampeth, Nagpur",Nagpur,Good
+571,1,Rs.,Cafe Zinea,"Cafe, Chinese, Fast Food, Italian","56, Temple Road, Civil Lines, Nagpur",Nagpur,Good
+572,0,Rs.,Hide Out The Street Cafe,Cafe,"4, Plot No 54, Raghukul  Building, Bajaj Nagar, Nagpur",Nagpur,Good
+573,0,Rs.,FSB,"Continental, North Indian, Thai, Chinese","B/9, Orange City Towers, Opposite Tilak Patrakar Bhavan, Dhantoli, Nagpur",Nagpur,Very Good
+574,1,Rs.,Ashoka Restaurant,"North Indian, Chinese, Continental","60, Sadar Bazar Main Road, Sadar, Nagpur",Nagpur,Very Good
+575,0,Rs.,Mainland China,Chinese,"Deepika Hospitalities Private Ltd, Plot 19, Wardha Road, Vivekanand Nagar, Nagpur",Nagpur,Good
+576,0,Rs.,Ten Downing Street Restaurant & Bar,"Chinese, Continental, North Indian","5th Floor, Milestone Building, Wardha Road, Ramdaspeth, Nagpur",Nagpur,Very Good
+577,0,Rs.,Tapri The Chai Books Cafe,"Continental, Fast Food, Tea","75, Abhyankar Nagar, Near Bajaj Nagar, Nagpur",Nagpur,Good
+578,1,Rs.,Eat Street Express,"North Indian, Chinese","Shraddhanandpeth Square, Opposite A-Square Building, Abhyankar Road, Near, Bajaj Nagar, Nagpur",Nagpur,Very Good
+579,1,Rs.,Nineties,"Cafe, Fast Food","Opposite Traffice Park, Dharampeth, Nagpur",Nagpur,Good
+580,1,Rs.,Zaikart,"North Indian, Mughlai","Plot-17, Sneha Gayatri Nagar, IT Park, Gayatri Nagar, Near Bajaj Nagar, Nagpur",Nagpur,Very Good
+581,0,Rs.,Jahanpanah,"North Indian, Mughlai","E 23, Shopping Arcade, Sadar Bazaar, Agra Cantt, Agra",Agra,Good
+582,0,Rs.,Sheroes Hangout,"Cafe, North Indian, Chinese","Opposite The Gateway Hotel, Fatehabad Road, Tajganj, Agra",Agra,Excellent
+583,0,Rs.,Thaaliwala,"North Indian, Fast Food","Next To ITC Mughal Hotel, Fatehabad Road, Tajganj, Agra",Agra,Very Good
+584,0,Rs.,Pinch Of Spice,"North Indian, Chinese, Mughlai","23/453, Opposite Sanjay Cinema, Wazipura Road, Sanjay Place, Civil Lines, Agra",Agra,Very Good
+585,0,Rs.,Tea'se Me - Rooftop Tea Boutique,"Chinese, Italian, Continental, North Indian","Near Purani Mandi Crossing,Fatehabad Road, Tajganj, Agra",Agra,Very Good
+586,0,Rs.,Chapter 1 Cafe,"Cafe, Italian, Mexican, North Indian, Continental","1374 K/1375 K, 2nd floor, Dinesh Nagar, Fatehbad Road, Tajganj, Agra",Agra,Good
+587,0,Rs.,Pind Balluchi,"North Indian, Mughlai","Opposite Saga Emporium, Fatehabad Road, Tajganj, Agra",Agra,Good
+588,0,Rs.,The Latitude - Radisson Blu,"North Indian, Chinese, Continental","Radisson Blu, Taj East Gate Road, Tajganj, Agra",Agra,Good
+589,0,Rs.,Pizza Hut,"Italian, Pizza","8, Handicraft Nagar, Fatehabad Road, Tajganj, Agra",Agra,Very Good
+590,0,Rs.,Peshawri - ITC Mughal,"North Indian, Mughlai","ITC Mughal, Fatehabad Road, Tajganj, Agra",Agra,Very Good
+591,0,Rs.,Chokho Jeeman Marwari Jain Bhojanalya,Rajasthani,"1/48, Delhi Gate, Station Road, Raja Mandi, Civil Lines, Agra",Agra,Very Good
+592,0,Rs.,Rangrezz Restaurant,"North Indian, Mughlai","E-20, Shopping Arcade, Sadar Bazaar, Agra Cantt, Agra",Agra,Good
+593,0,Rs.,The Charcoal Chimney,"North Indian, Chinese, Continental, Mughlai","Hotel Samovar, Fatehabad Road, Tajganj, Agra",Agra,Average
+594,0,Rs.,Taj Bano - ITC Mughal,Mughlai,"ITC Mughal, Fatehabad Road, Tajganj, Agra",Agra,Very Good
+595,0,Rs.,Time2Eat - Mama Chicken,North Indian,"Main Market, Sadar Bazaar, Agra Cantt, Agra",Agra,Good
+596,0,Rs.,Dasaprakash Restaurant,"South Indian, Desserts","Meher Cinema Complex, Gwalior Road, Rakabganj, Agra",Agra,Very Good
+597,0,Rs.,Dawat-e-Nawab - Radisson Blu,"North Indian, Mughlai","Radisson Blu, Taj East Gate Road, Tajganj, Agra",Agra,Good
+598,0,Rs.,MoMo Cafe,"North Indian, European","Courtyard by Marriott Agra, Phase 2, Fatehabad Road, Tajganj, Agra",Agra,Very Good
+599,0,Rs.,Bon Barbecue,"North Indian, Chinese, Continental","Parador Hotel, 3A-3B, Phase 1, Fatehabad Road, Taj Nagri, Tajganj, Agra",Agra,Good
+600,0,Rs.,G Thal,"Rajasthani, Gujarati, Mughlai","3/20, KPS Tower, Near Tulsi Talkies, Bypass Road, Khandari, Agra",Agra,Good
+601,0,Rs.,Barbeque Nation,"North Indian, Mediterranean, Asian, Chinese","Chaudhary Plaza, Rajpur Road, Rajpur, Dehradun",Dehradun,Very Good
+602,0,Rs.,Kalsang Friends Corner,"Chinese, Thai, Tibetan","88 A, Opposite Osho, Chander Lok Colony, Rajpur Road, Hathibarkala Salwala, Dehradun",Dehradun,Very Good
+603,0,Rs.,Jalapenos,"Cafe, Mexican","Mussourie Diversion, Pacific Hills,Rajpur Road, Rajpur, Dehradun",Dehradun,Very Good
+604,0,Rs.,TBistro,"North Indian, Chinese","Saina Inn, 3, Old Survey Road, Karanpur, Dehradun",Dehradun,Good
+605,0,Rs.,Punjab Grill,"Mughlai, North Indian","Rajpur Road, Jakhan, Dehradun",Dehradun,Very Good
+606,0,Rs.,The Great Indian Pub,North Indian,"138/345, Rajpur Road, Jakhan, Dehradun",Dehradun,Excellent
+607,0,Rs.,Eddie's Patisserie,Bakery,"102 Yamuna Colony, Above Punjab National Bank, Chakrata Road, Dehradun",Dehradun,Very Good
+608,0,Rs.,Town Table Restaurant,"North Indian, Chinese, Continental","101, Rajpur Road, Hathibarkala Salwala, Dehradun",Dehradun,Good
+609,0,Rs.,Anandam,"Desserts, North Indian, Chinese, South Indian, Fast Food, Street Food","69, Krishna Tower, Rajpur Road, Hathibarkala Salwala, Dehradun",Dehradun,Good
+610,0,Rs.,Kalsang AMA Cafe,Cafe,"88, Opposite Osho, Chander Lok Colony, Rajpur Road, Rajpur, Dehradun",Dehradun,Very Good
+611,0,Rs.,Doon Darbar,"North Indian, Mughlai","43, Gandhi Road, Paltan Bazaar, Dehradun",Dehradun,Good
+612,0,Rs.,Black Pepper Restaurant,"North Indian, Chinese","3, Astley Hall, Rajpur Road, Rajpur, Dehradun",Dehradun,Very Good
+613,0,Rs.,Dunkin Donuts,"Burger, Desserts","UG 03, Pacific Mall, Rajpur Road, Jakhan, Dehradun",Dehradun,Good
+614,0,Rs.,First Gear Cafe,"Cafe, Chinese","Khala Gaon, Near Shiv Mandir, Malsi, Dehradun",Dehradun,Good
+615,0,Rs.,BMG - All Day Dining,"Chinese, North Indian, Fast Food","140 A, Rajpur Road, Jakhan, Dehradun",Dehradun,Very Good
+616,0,Rs.,Cafe Marigold,"Cafe, Chinese, Fast Food","Near Shehanshahi Ashram, Old Mussorie Road, Rajpur, Dehradun",Dehradun,Very Good
+617,0,Rs.,Razzmatazz,Cafe,"5, Pritam Road, Dalanwala, Near Race Course, Dehradun",Dehradun,Good
+618,0,Rs.,Tirupati Restaurant,"South Indian, North Indian, Chinese","27 B, Rajpur Road, Opposite St. Joseph's Academy, Chukkuwala, Dehradun",Dehradun,Good
+619,0,Rs.,Y Cafe & Restaurant,Cafe,"Hotel White House, Behind St. Joseph's Academy, Subhash Road, Karanpur, Dehradun",Dehradun,Very Good
+620,0,Rs.,The Punjabi Essence Restaurant,"North Indian, Chinese","27 B, Near Premier Plaza, Rajpur Road, Chukkuwala, Dehradun",Dehradun,Good
+621,0,Rs.,Empire Restaurant,"North Indian, Andhra, Mughlai","2820/1, 8th Cross, Kalidasa Road, Vani Vilas Mohalla, Gokulam, Mysore",Mysore,Good
+622,0,Rs.,Mezzaluna,"Continental, South Indian","First Floor, Kuvempu Trust Building, Near Chandrakala Hospital, New Kalidasa Road, Vijayanagar, Vijay Nagar, Mysore",Mysore,Good
+623,0,Rs.,Jalpaan Dining Saga,"North Indian, Chinese, Italian","366, 2nd & 3rd Floor, Near Ramaswamy Circle, Chamaraja Mohalla, Chamrajpura, Mysore",Mysore,Good
+624,0,Rs.,Pizza Hut,"Pizza, Italian","Opposite Loyal World Super Market, Temple Road,  Vani Vilas Mohalla, Jayalakhsmipuram, Mysore",Mysore,Very Good
+625,0,Rs.,Barbeque Nation,"North Indian, European, Mediterranean","Ground Floor, BM Habitat Mall, Gokulam Main Road, Jayalakhsmipuram, Mysore",Mysore,Very Good
+626,0,Rs.,Cafe Cornucopia,"Cafe, Continental, European, Beverages","22nd Cross, 14th Main, 3rd Stage, Block C, Vijay Nagar, Mysore",Mysore,Good
+627,0,Rs.,Pakva Lounge,"Italian, North Indian, South Indian","Livin Corner, Temple Road, Vani Vilas Mohalla, Gokulam, Mysore",Mysore,Good
+628,0,Rs.,The Old House,Italian,"451, Jhansi Rani Lakshmi Bai Road, Chamrajpura, Mysore",Mysore,Good
+629,0,Rs.,The Barge Restaurant,"Continental, Chinese, North Indian","Plot 440A, Hebbal Industrial Area, Near Infosys Campus, Vijay Nagar, Mysore",Mysore,Average
+630,0,Rs.,Vinayaka Mylari,South Indian,"79, Nazarbad Main Road, Near Police Station, Doora, Mysore",Mysore,Very Good
+631,0,Rs.,Jungle The Restaurant,"North Indian, Continental, Chinese","Pai Hotels, Bangalore Nilgiri Road, Opposite Suburban Bus Stand, Mysore, Doora, Mysore",Mysore,Good
+632,0,Rs.,By The Way,"North Indian, Chinese, South Indian","Next to Bhartat Cancer Hospital, Opposite Infosys Circle Ring Road, Vijay Nagar, Mysore",Mysore,Good
+633,0,Rs.,Spring - Radisson Blu Plaza,"Continental, North Indian, South Indian","Radisson Blu Plaza, 1, MG Road, Ittige Gudu, Mysore",Mysore,Good
+634,0,Rs.,Nanking,"Chinese, Thai","High Tension Double Road, Near Vidyavardhaka College,  2nd Stage, Vijay Nagar, Mysore",Mysore,Good
+635,0,Rs.,Oyster Bay,"North Indian, Asian, Continental","Kannada Parishath Road, 1st Stage, Vijay Nagar, Mysore",Mysore,Good
+636,0,Rs.,Hotel RRR Mysore,Andhra,"Gandhi Square, Chamrajpura, Mysore",Mysore,Average
+637,0,Rs.,Big Chicken,"North Indian, Chinese","2902/1, Temple Road, Opposite Post Office, Vani Vilas Mohalla, Jayalakhsmipuram, Mysore",Mysore,Good
+638,0,Rs.,Tandooriwala,North Indian,"26, 1st Stage, KHB, Nrupathunga Road, Kuvempunagar, Mysore",Mysore,Good
+639,0,Rs.,Green Leaf,"North Indian, Chinese, South Indian","Opposite Reebok Showroom, Kalidasa Road, Vani Vilas Mohalla, Gokulam, Mysore",Mysore,Good
+640,0,Rs.,Purple Haze,Finger Food,"129-131, High Tension Double Road, Mahadeswara Badavane, 2nd Stage, Vijay Nagar, Mysore",Mysore,Good
+641,0,Rs.,Baker Street,"Bakery, French","123, Bussy Street, MG Road, Puducherry",Puducherry,Very Good
+642,0,Rs.,Le Dupleix,"North Indian, French, Continental","5, Rue De La Caserne, White Town, Puducherry",Puducherry,Good
+643,0,Rs.,Villa Shanti,Continental,"Villa Shanti, 14, Suffren Street, White Town, Puducherry",Puducherry,Good
+644,0,Rs.,Zuka Choco-la,Desserts,"319, Mission Street, MG Road, Puducherry",Puducherry,Very Good
+645,0,Rs.,Le Cafe,Cafe,"Beach Road, Near Gandhi Statue, White Town, Puducherry",Puducherry,Average
+646,0,Rs.,Cafe des Arts,Cafe,"10, Suffren Street, White Town, Pondicherry",Puducherry,Good
+647,0,Rs.,The Indian Kaffe Express,Cafe,"3, Rue Dumas Street, Near IG Office, White Town, Puducherry",Puducherry,Good
+648,0,Rs.,Le Club,"French, Continental, North Indian","Hotel De Pondicherry, 38, Dumas Street, White Town, Puducherry",Puducherry,Good
+649,0,Rs.,#Dilliwaala6,North Indian,"6, Rue De La Marine, White Town, Puducherry",Puducherry,Good
+650,0,Rs.,Bay of Buddha -  The Promenade,"Chinese, Thai, Malaysian, Vietnamese, Korean, Indonesian, Asian","The Promenade, 23, Goubert Avenue, White Town, Puducherry",Puducherry,Good
+651,0,Rs.,Blueline - The Promenade,"North Indian, Seafood, South Indian, Italian","The Promenade, 23, Goubert Avenue, White Town, Puducherry",Puducherry,Good
+652,0,Rs.,The Pasta Bar Veneto,Italian,"248, Mission Street, MG Road, Puducherry",Puducherry,Good
+653,0,Rs.,Tanto Pizzeria,"Pizza, Italian","Main Road, Near Iyyanar Koil Kullapalyam, Auroville, Puducherry",Puducherry,Good
+654,0,Rs.,Rendezvous Cafe Restaurant,"Goan, Mangalorean, Continental, French","30, Rue Suffren, White Town, Puducherry",Puducherry,Good
+655,0,Rs.,Gelateria Montecatini Terme,Desserts,"Goubert Avenue, Next To Alliance Francaise, White Town, Puducherry",Puducherry,Very Good
+656,0,Rs.,Spice Route,"Continental, North Indian, Finger Food","6, Rue Bussy Street, Romain Rolland Street Cutting, White Town, Puducherry",Puducherry,Average
+657,0,Rs.,The Smoothie Bar,"Desserts, Beverages, Juices","26, Sri Aurobindo Street, Mission Street Crossing, Heritage Town, Puducherry",Puducherry,Good
+658,0,Rs.,Italize,"Pizza, Italian","137, 1st Floor, Mission Street (kosakadai street cutting), MG Road, Puducherry",Puducherry,Good
+659,0,Rs.,Cafe Ole,"Cafe, Continental","319, Mission Street, MG Road, Puducherry",Puducherry,Good
+660,0,Rs.,Auroville Bakery,Bakery,"Kuilapalayam, Auroville, Puducherry",Puducherry,Good
+661,0,Rs.,Level 5 - Terrace Restro & Cafe,"Chinese, North Indian, Italian, Mexican","5th floor, Royal Trade Centre, Opposite Star Bazaar, Adajan, Adajan Gam, Surat",Surat,Good
+662,0,Rs.,Thalaivaa,South Indian,"G-1, Aqua Corridor, Near Star Bazaar, Pal Road, Adajan Gam, Surat",Surat,Very Good
+663,0,Rs.,Global Local,Modern Indian,"Western Vesu Point, Near Reliance Market, Vesu, Surat",Surat,Average
+664,0,Rs.,Falafel Lovers,"Lebanese, Italian","LG-5/6/19, Megh Mayur Plaza, Parle Point, Surat, City Light, Surat",Surat,Very Good
+665,0,Rs.,Wok On Fire,"Chinese, Thai, Asian","G 6, Riddhi Shoppers, Opposite Star Bazaar, Pal Adajan Road, Adajan, Surat, Adajan Gam, Surat",Surat,Good
+666,0,Rs.,Leonardo Italian Mediterranean Dining,"Italian, Mexican, Mediterranean","Ground Floor, International Business Centre, Surat-Dumas Road, Piplod, Surat",Surat,Very Good
+667,0,Rs.,Coffee Culture - The Ristorante Lounge,"Cafe, Continental","Opposite Sargam Shopping Centre, Near Parle Point, City Light, Surat",Surat,Very Good
+668,0,Rs.,Black Pepper,"North Indian, Italian","8/9, International Business Center, Dumas Road, Piplod, Surat",Surat,Very Good
+669,0,Rs.,The Food Lab,"Italian, Lebanese, Mexican","G-1 Western Vesu Point, Vesu, Surat",Surat,Good
+670,0,Rs.,Wok On Fire,"Chinese, Thai, Asian","G 2, Golden Square, Near Sargam Shopping Center, Parle Point, Surat, Piplod, Surat",Surat,Good
+671,0,Rs.,The Hog Spot,"North Indian, Italian, Mexican, Asian","G-5, Trinity Cygnuss, Udhna Magdalla Road, Vesu, Surat",Surat,Good
+672,0,Rs.,The Creamery,"Ice Cream, Desserts","G 31, Someshwar Square, Opposite Aagam Bungalow, Vesu, Surat",Surat,Good
+673,0,Rs.,The Centre Court,"Italian, North Indian, Desserts, Continental","Near Ambica Niketan Bus Stand, Parle Point, City Light, Surat",Surat,Very Good
+674,0,Rs.,World Platter,"North Indian, Chinese, Thai, Mexican, Italian","Second Floor, Rajmal Lakhichand Jewellers Building, Ghod Dod Road, Athwa, Surat",Surat,Good
+675,0,Rs.,Golden Dragon,Chinese,"10-15, Second Floor, Rangila Park, Ghod Dod Road, Athwa, Surat",Surat,Very Good
+676,0,Rs.,Mysore Cafe,South Indian,"Daruwala Building, Athwalines, Athwa, Surat",Surat,Very Good
+677,0,Rs.,The Sizzling Salsa,"Italian, Continental, Chinese, Mexican","Opposite Iscon Mall, Surat Dumas Road, Piplod, Surat",Surat,Very Good
+678,0,Rs.,Pizza Hut,Pizza,"Akash Ganga, Opposite Croma, Dumas Road, Piplod, Surat",Surat,Very Good
+679,0,Rs.,The Haus,"Cafe, Desserts","3, Radhe Nagar Society, Opposite Sargam Shopping Centre, Piplod, Surat",Surat,Good
+680,0,Rs.,Kansar Gujarati Thali,Gujarati,"A Wing, President Plaza, Near RTO, Nanpura, Surat",Surat,Good
+681,0,Rs.,Baati Chokha,North Indian,"Anand Mandir Cinema, Telibagh, Dashaswmedh Road, Varanasi",Varanasi,Good
+682,0,Rs.,VNS Live Studio,"Chinese, North Indian","Hotel Varuna Ground Floor, 22 Gulab Bagh, Sigra, Varanasi",Varanasi,Good
+683,0,Rs.,Ming Garden,Chinese,"34-B, Ravindra Puri, Near Lanka,Varanasi",Varanasi,Good
+684,0,Rs.,Deena Chat Bhandar,Street Food,"D-47/184, Luxa Road, Dashaswmedh Road, Varanasi",Varanasi,Good
+685,0,Rs.,Pizzeria Vaatika Cafe,"Pizza, Chinese","B-1/178, Assi Ghat, Varanasi",Varanasi,Good
+686,0,Rs.,Kerala Cafe,South Indian,"Bhelupur Crossing, Bhelupur, Varanasi",Varanasi,Good
+687,0,Rs.,Kashi Chat Bhandar,Street Food,"D-37/49, Godaulia, Varanasi",Varanasi,Very Good
+688,0,Rs.,Open Hand Shop & Cafe,Cafe,"B1/128-3, Dumraun Bagh Colony, Assi Ghat, Varanasi",Varanasi,Average
+689,0,Rs.,3Cherryz Sky Lounge & Cafe,"Cafe, North Indian, Chinese","5th Floor Roof Top,(Above Big Bazaar) Sigra. Opp. IP Mall Sigra., Sigra, Varanasi",Varanasi,Average
+690,0,Rs.,I:ba Cafe & Restaurant,"Japanese, American, North Indian, Fast Food","B 3/335, Krimkund, Shivala, Varanasi",Varanasi,Good
+691,0,Rs.,Tandoor Villa,"North Indian, Mughlai","Near Sbi Atm, Main Road, Nadesar, Varanasi",Varanasi,Good
+692,0,Rs.,Blue Lassi,Beverages,"CK 12/1, Kachauri Gali Chowk, Near Rajbandhu Sweet, Bhelupur, Varanasi",Varanasi,Good
+693,0,Rs.,Chrystal Bowl Restaurant,North Indian,"34-B, Ravindra Puri, Near Lanka, Varanasi",Varanasi,Average
+694,0,Rs.,Flavours Cafe,"North Indian, Cafe","1st Floor, Swastik Plaza, Near Ravidas Gate, BHU Road, Lanka, Varanasi",Varanasi,Average
+695,0,Rs.,Singh's Delight Restaurant,"Chinese, North Indian","1st Floor, Nath Complex, Beside Life Line Hospital, Sunderpur, Varanasi",Varanasi,Good
+696,0,Rs.,Burger King,"North Indian, Fast Food","S 19/1 K, Mint House, Near Hotel Taj, Nai Bazar Cantt, Nadesar, Varanasi",Varanasi,Average
+697,0,Rs.,eastWEST - Radisson Hotel,"Cafe, North Indian, Continental","Radisson Hotel, The Mall Road, Nadesar, Varanasi",Varanasi,Average
+698,0,Rs.,Aman Restaurant,"Chinese, North Indian","Boradway Hotel, Near IP Vijaya Mall, Bhelupur, Varanasi",Varanasi,Average
+699,0,Rs.,Dosa Cafe,South Indian,"D 15/49, Maan Mandir, Dashaswmedh Road, Varanasi",Varanasi,Good
+700,0,Rs.,The Great Kabab Factory - Radisson Hotel,"North Indian, Mughlai","Radisson Hotel, The Mall Road, Nadesar, Varanasi",Varanasi,Average
+701,0,Rs.,Swaaddesh,"North Indian, Chinese","2nd floor, chandra complex, above manyavar, boring road, Sri Krishnapuri, Patna",Patna,Good
+702,0,Rs.,Genuine Broaster Chicken,"American, Chinese, North Indian, Italian","West Boring Canal Road, Opposite Zee Saheb Super Market, Anandpuri, Patna",Patna,Good
+703,0,Rs.,The Yellow Chilli,"North Indian, Chinese, Continental","1st Floor, Hira Place, Dak Bunglow Road, Chajju Bagh, Fraser Road Area, Patna",Patna,Good
+704,0,Rs.,Biryani Mahal,"Biryani, Mughlai","Near Buddha Marg, Kotwali Chauraha, Golambar, Patna",Patna,Good
+705,0,Rs.,Pind Balluchi,"North Indian, Chinese","16th-18th Floor, Biscomaun Tower, Gandhi Maidan, Lodipur, Patna",Patna,Average
+706,0,Rs.,Mainland China,Chinese,"5th Floor, Central Mall, Fraser Road Area, Patna",Patna,Good
+707,0,Rs.,17 Degrees,"North Indian, Chinese, Continental, Italian","6th Floor, P&M Mall, Patliputra Colony, Patna",Patna,Good
+708,0,Rs.,Red Chilli,"Chinese, North Indian, Mughlai","Opposite Allahabad Bank, Ramnagri Mor, Ashiana Digha Road, Khajpura, Patna",Patna,Good
+709,0,Rs.,Pukhtaan-The Royal Taste of India,"North Indian, Chinese","5th Floor, Nutan Plaza, Bander Bagicha, Fraser Road Area, Patna",Patna,Good
+710,0,Rs.,Bansi Vihar,"South Indian, Fast Food","New Market Beside Buddha Park, Fraser Road Area, Patna",Patna,Average
+711,0,Rs.,Indian Summer Cafe,"Continental, Cafe, Italian, Pizza, North Indian, Chinese, Bakery, Mughlai","Satya Narain Building, Exhibition Road, Golambar, Patna",Patna,Average
+712,0,Rs.,Kapil Dev's Eleven,"North Indian, Chinese, Finger Food","Lower Ground Floor, Dumraow Kothi, Frazer Road, Lodipur, Patna",Patna,Good
+713,0,Rs.,Roti Restaurant,"North Indian, South Indian, Chinese","Opposite A.N College, Boring Road, Sri Krishnapuri, Patna",Patna,Average
+714,0,Rs.,McDonald's,Fast Food,"BR Patna Elphinstone, Elphinstone Picture Palace , East Gandhi Maidan, Golambar, Patna",Patna,Average
+715,0,Rs.,Raj Rasoi,"North Indian, South Indian, Fast Food","Twin Tower Hathwa, South Gandhi Maidan, Lodipur, Patna",Patna,Average
+716,0,Rs.,Sri Basant Vihar,"North Indian, Fast Food","Maurya Lok Complex, Fraser Road Area, Patna",Patna,Good
+717,0,Rs.,Nirvana,"North Indian, Chinese","Bhagwathi Saran Enclave, Boring Road, Near JP Hospital, Boring Road Sri Krishnapuri, Sri Krishnapuri, Patna",Patna,Average
+718,0,Rs.,Spice Court - Hotel Maurya,"North Indian, Continental, Chinese, South Indian","Hotel Maurya, South Gandhi Maidan, Lodipur, Patna",Patna,Good
+719,0,Rs.,KFC,Fast Food,"Ground floor, Regent Theatre, Opposite East Gandhi Maidan, Golambar, Patna",Patna,Average
+720,0,Rs.,Angeethi,"North Indian, Mughlai, Chinese","101, Gharonda Complex, Jagdeo Path Crossing, Bailey Road, Khajpura, Patna",Patna,Average
+721,1,AED,Grand Barbeque Buffet Restaurant,"Indian, Asian","Al Mina Road, Next to Ibis Styles Jumeirah Hotel, Satwa, Dubai",Dubai,Very Good
+722,0,AED,Farzi Cafe,"International, Indian","CITY WALK, Al Safa & Al Wasl Road Intersection, Al Safa, Dubai",Dubai,Excellent
+723,0,AED,AB's Absolute Barbecues,"Continental, Indian","Mezzanaine Floor, Centurion Star Tower, Deira City Centre Area, Dubai",Dubai,Excellent
+724,0,AED,AB's Absolute Barbecues,"Indian, Continental","Shop G05, Sidra Tower, Near GEMS Wellington School, Exit 36, Sheikh Zayed Road, Dubai Media City, Dubai",Dubai,Excellent
+725,0,AED,SpiceKlub,"Indian, North Indian, Street Food","Opposite Aster Hospital, Near Sharaf DG, Kuwait Street, Mankhool, Dubai",Dubai,Very Good
+726,1,AED,Grub Shack,"Goan, Chinese, Indian, North Indian","Building 41, Next to Dubai Healthcare City Metro Station, Dubai Healthcare City, Umm Hurair, Dubai",Dubai,Very Good
+727,0,AED,The Farm,"Mediterranean, Italian, Thai, European","Al Barari Villas, Opposite Falcon City, Al Barari, Dubai",Dubai,Good
+728,0,AED,The Cheesecake Factory,"American, Desserts","Ground Level, Near Aquarium, The Dubai Mall, Downtown Dubai, Dubai",Dubai,Excellent
+729,0,AED,Tresind - Nassima Royal Hotel,Indian,"Level 2, Nassima Royal Hotel, Sheikh Zayad Road, Trade Centre Area, Dubai",Dubai,Excellent
+730,0,AED,Hard Rock Cafe,"American, Burger","Next to Marks & Spencer's, Festival City, Dubai",Dubai,Excellent
+731,0,AED,Red Lobster,"Seafood, American","Near the Fountain, Lower Ground Level, The Dubai Mall, Downtown Dubai, Dubai",Dubai,Average
+732,1,AED,The Coffee Club,Cafe,"Wasl Vita, Opposite Civil Defence Station, Near Emirates NBD, Al Wasl Road, Jumeirah 1, Dubai",Dubai,Excellent
+733,0,AED,SALT,"Fast Food, Burger","Kite Beach, Street 2D, Umm Suqeim, Dubai",Dubai,Very Good
+734,0,AED,Barbeque Nation,"Indian, North Indian","G1, Villa, Near HQ Fitness, Near Lulu Mall, Barsha 2, Dubai",Dubai,Excellent
+735,0,AED,Parker's,"Cafe, Burger","The Dubai Mall, Downtown Dubai, Dubai",Dubai,Very Good
+736,1,AED,Maharaja Bhog,"Indian, Rajasthani","Ground Level, Hamsah Mall, Next to Ansar Gallery, Al Karama, Dubai",Dubai,Very Good
+737,1,AED,Rasoi Ghar,Indian,"Zainal Mohebi Plaza, Sheikh Khalifa Bin Zayed Road, Opposite Centrepoint, Al Karama, Dubai",Dubai,Very Good
+738,1,AED,Applebee's,"American, Mexican, Burger","Sheikh Issa Tower, Sheikh Zayed Road, Trade Centre Area, Dubai",Dubai,Good
+739,0,AED,Carnival By Tresind,Indian,"Podium Level, Burj Daman, DIFC, Dubai",Dubai,Excellent
+740,0,AED,Din Tai Fung,"Asian, Chinese","Level 2 Expansion, Mall of the Emirates, Barsha 1, Dubai",Dubai,Very Good
+741,0,$,Artistry,"American, Bakery, European, Burger, Fusion",17 Jalan Pinang 199149,Singapore,Good
+742,0,$,Artichoke Cafe,"Cafe, Spanish, Turkish, Greek","161 Middle Road, Sculpture Square 188978",Singapore,Average
+743,0,$,Makansutra Gluttons Bay,"Singaporean, Chinese, Seafood, Malay, Indian","803 Raffles Avenue, #01-15 Esplanade Mall 039802",Singapore,Average
+744,0,$,Bitters & Love,Finger Food,118 Telok Ayer Street 068587,Singapore,Good
+745,0,$,Rhubarb Le Restaurant,French,"3 Duxton Hill, Duxton 089589",Singapore,Good
+746,0,$,Sky On 57,"Chinese, Continental, Singaporean","10 Bayfront Avenue, 57 Marina Bay Sands 018956",Singapore,Average
+747,0,$,I Am,"Western, Fusion, Fast Food","674 North Bridge Road, #01-01 Haji Lane 188804",Singapore,Average
+748,0,$,The Refinery Singapore,"American, Japanese, Singaporean","115 King George Avenue, #01-02 Ann Chuan Industrial Building 208561",Singapore,Average
+749,0,$,Super Loco,"American, Mexican","The Quayside
+60 Roberston Quay #01-13 238252",Singapore,Average
+750,0,$,Chye Seng Huat Hardware,Cafe,150 Tyrwhitt Road 207563,Singapore,Good
+751,0,$,Al'frank Cookies,Bakery,12 Haji Lane 189205,Singapore,Very Good
+752,0,$,Potato Head Folk,American,36 Keong Saik Road 089143,Singapore,Average
+753,0,$,Cut By Wolfgang Puck,"American, Steak","2 Bayfront Avenue, B1-71 Marina Bay Sands 018972",Singapore,Very Good
+754,0,$,Jaan,French,"2 Stamford Road, Level 70 Equinox Complex 178882",Singapore,Good
+755,0,$,The Lokal,"Singaporean, Australian, German",136 Neil Road 088865,Singapore,Average
+756,0,$,Fratini La Trattoria,Italian,"10 Greenwood Avenue, Hillcrest Park 289201",Singapore,Very Good
+757,0,$,Restaurant Andre,"French, Mediterranean, European",41 Bukit Pasoh Road 089855,Singapore,Good
+758,0,$,Boufe Boutique Cafe,"Italian, French, Bakery, Cafe","308 Tanglin Road,Phoenix Park #01-01  247974",Singapore,Average
+759,0,$,Summer Pavilion,"Chinese, Seafood, Cantonese, Dim Sum","The Ritz-Carlton, 7 Raffles Avenue,  Millenia Singapore,  039799",Singapore,Good
+760,0,$,Colony,"Asian, Continental, Seafood","7 Raffles Avenue, Ritz-carlton Millenia Singapore 039799",Singapore,Good
+761,0,AED,Rajasthan Al Malaki,"Indian, North Indian","Behind DPS Sharjah Primary School, Muwailih Commercial, Sharjah",Sharjah,Excellent
+762,0,AED,Derby,"Fast Food, American","Al Khan Street, Al Majaz 3, Al Majaz, Sharjah",Sharjah,Very Good
+763,0,AED,Crafted Blends,Cafe,"Next To Super Bonanza Hyper Market, Opposite Defence Camp, University City, Sharjah",Sharjah,Very Good
+764,1,AED,Najmat Lahore Restaurant,"Pakistani, Indian, Mughlai","Near Sharjah Animal Market, Al Mina Road, Al Mareija, Sharjah",Sharjah,Very Good
+765,1,AED,Saffron,"Pakistani, Chinese, Indian, Afghani","Mina Road, Opposite Bird Market, Al Mareija, Sharjah",Sharjah,Very Good
+766,1,AED,TGI Friday's,"American, Mexican","Majaz Waterfront, Buhairah Corniche, Al Majaz 3, Al Majaz, Sharjah",Sharjah,Good
+767,1,AED,Applebee's,"American, Mexican, Burger","Opposite Jumbo Electronics, Level 2, Sahara Centre, Al Nahda, Sharjah",Sharjah,Very Good
+768,0,AED,Pizza Hut,"Fast Food, Pizza","Next to Safeer Mall, Al Nahda, Sharjah",Sharjah,Poor
+769,1,AED,Nayaab Haandi,"Pakistani, Indian","Near Etisalat Business Center, Opposite ADNOC Petrol Station, Al Khan Street, Al Majaz 2, Al Majaz, Sharjah",Sharjah,Very Good
+770,0,AED,Aroos Damascus,"Arabian, Middle Eastern","Opposite Emirates NBD, Near First Gulf Bank, King Abdul Aziz Street, Al Nud, Sharjah",Sharjah,Very Good
+771,0,AED,Paper Fig,"Cafe, Bakery, Desserts","Near Dubai Islamic Bank, Muweilah, University City, Sharjah",Sharjah,Excellent
+772,1,AED,Nando's,"African, Portuguese","Ground level, Block D, Qanat Al Qasba, Al Khan, Sharjah",Sharjah,Very Good
+773,1,AED,Gazebo,"Indian, Mughlai, South Indian, Biryani","Opposite Safeer Market, Near E max, King Faisal Street, Abu Shagara, Sharjah",Sharjah,Very Good
+774,1,AED,Zaroob,Lebanese,"Al Buhaira Corniche Street, Al Majaz Water Front, Al Majaz, Sharjah",Sharjah,Good
+775,0,AED,Al Mukhtar Bakery,"Bakery, Arabian, Middle Eastern","Near Safeer Mall, Al Nahda, Sharjah",Sharjah,Very Good
+776,1,AED,Vadakkan Pepper,South Indian,"Near New City Center Supermarket, Abu Shagara, Sharjah",Sharjah,Good
+777,1,AED,Peking Chinese Restaurant,"Chinese, Thai","Opposite Spinneys Roundabout, Estiqlal Square, Halwan Suburb, Sharjah",Sharjah,Good
+778,0,AED,Katis Restaurant,"Indian, North Indian, Chinese","Opposite Safeer Market, Al Khan Street, Al Khan, Sharjah",Sharjah,Very Good
+779,1,AED,Kamat,"Indian, North Indian, South Indian, Chinese","Opposite HSBC, Near Emax, King Faisal Street, Abu Shagara, Sharjah",Sharjah,Good
+780,0,AED,Sis Burger,"Fast Food, Burger","Behind ADNOC Petrol Station,
+Univercity City Road, University City, Sharjah",Sharjah,Good
+781,1,AED,Famous Dave's Barbecue,American,"Near The One, Level 3, Abu Dhabi Mall, Tourist Club Area (Al Zahiyah), Abu Dhabi",Abu Dhabi,Excellent
+782,0,AED,Tamba,Indian,"6th Floor, World Trade Centre Mall, Al Markaziya, Abu Dhabi",Abu Dhabi,Excellent
+783,0,AED,Genghis Grill,Asian,"Level 2, Al Wahda Mall New Extension, Al Wahda, Abu Dhabi",Abu Dhabi,Excellent
+784,0,AED,Denny's,American,"Abu Dhabi Mall, Tourist Club Area (Al Zahiyah), Abu Dhabi",Abu Dhabi,Excellent
+785,0,AED,The Cheesecake Factory,"American, Desserts","Level 1, Yas Mall, Yas Leisure Dr, Yas Island, Abu Dhabi",Abu Dhabi,Excellent
+786,1,AED,Bait El Khetyar,"Lebanese, Arabian, Middle Eastern","Al Najda Street, Najda, Abu Dhabi",Abu Dhabi,Very Good
+787,1,AED,Cho Gao - Crowne Plaza Abu Dhabi,"Thai, Japanese, Chinese, Indonesian, Vietnamese","Crowne Plaza Abu Dhabi, Sheikh Hamdan Bin Mohammed Street, Al Markaziya, Abu Dhabi",Abu Dhabi,Very Good
+788,0,AED,Punjab Grill,"Indian, North Indian","Venetian Village, Ritz Carlton Abu Dhabi, Grand Canal, Al Maqtaa, Abu Dhabi",Abu Dhabi,Excellent
+789,1,AED,Via Delhi,"Indian, North Indian, Chinese","Near First Flight Couriers, Behind ADNOC Head Office, Salam Street, Najda Area, Najda, Abu Dhabi",Abu Dhabi,Very Good
+790,0,AED,Olive Garden,"Italian, Pizza","Level 3, Al Wahda Mall Extension, Al Wahda, Abu Dhabi",Abu Dhabi,Very Good
+791,1,AED,Indian By Nature,Indian,"Shop 2-3, Tolico Building, Behind Lebanese Roastery, Near National Hospital, Najda, Abu Dhabi",Abu Dhabi,Very Good
+792,1,AED,Applebee's,"American, Mexican, Seafood","Level 3, Mushrif Mall, Al Mushrif, Abu Dhabi",Abu Dhabi,Very Good
+793,1,AED,Pizza Di Rocco,"Italian, Pizza","Near Corner of Salam and Al Falah Street (9th Street), Salam Street, Al Dhafrah, Abu Dhabi",Abu Dhabi,Very Good
+794,0,AED,P.F. Chang's,Chinese,"Level 1, World Trade Center Mall, Central Market, Al Markaziya, Abu Dhabi",Abu Dhabi,Very Good
+795,1,AED,Tikka Tonight,"Pakistani, Afghani, Indian, Hyderabadi","Behind RAK Bank, Sanaiya ME11, Mussafah Sanaiya, Abu Dhabi",Abu Dhabi,Very Good
+796,1,AED,Sangeetha Vegetarian Restaurant,"Indian, South Indian","Opposite Cristal Hotel, Behind KM Trading, Electra Street, Madinat Zayed, Abu Dhabi",Abu Dhabi,Good
+797,1,AED,Gazebo,"Indian, North Indian, Mughlai, Biryani","Ground Level, Next to E-Max, Dalma Mall, Mussafah Sanaiya, Abu Dhabi",Abu Dhabi,Very Good
+798,1,AED,Hot Palayok,"Filipino, Japanese, Asian","Food Court, Level 2, Madinat Zayed Shopping Centre, Madinat Zayed, Abu Dhabi",Abu Dhabi,Excellent
+799,0,AED,Salt,"Fast Food, Burger","Inside Mushrif Park, Al Mushrif, Abu Dhabi",Abu Dhabi,Very Good
+800,0,AED,Sofra Istanbul,"Turkish, Arabian, Middle Eastern","Next to ADNOC Petrol Station, Muroor Road, Al Dhafrah, Abu Dhabi",Abu Dhabi,Very Good
+801,0,LKR,The Sizzle,"American, Fast Food, Steak, Beverages","32, Walukarama Road, Kollupitiya, Colombo 03",Colombo,Very Good
+802,0,LKR,Cricket Club Cafe,"Continental, American, Seafood","12 Flower Road, Kollupitiya, Colombo 03",Colombo,Very Good
+803,0,LKR,The Commons,"Cafe, Sri Lankan, Continental, American","39 A, Flower Road, Cinnamon Gardens, Colombo 07",Colombo,Very Good
+804,0,LKR,Cafe Beverly,"Continental, American","475/C, Sri Jayawardenapura Mawatha, Welikada, Rajagiriya, Colombo",Colombo,Very Good
+805,0,LKR,Carnival Ice Cream,"Desserts, Ice Cream","263, Galle Road, Near NSB ATM, Kollupitiya, Colombo 03",Colombo,Very Good
+806,0,LKR,Ministry of Crab,Seafood,"Old Colombo Dutch Hospital, Fort, Colombo 01",Colombo,Excellent
+807,0,LKR,Upali's,Sri Lankan,"65, C.W.W Kannangara Mawatha, Near Town Hall, Cinnamon Gardens, Colombo 07",Colombo,Very Good
+808,0,LKR,Burger's King,Fast Food,"1, Vellons Passage, Slave Island, Colombo 02",Colombo,Very Good
+809,0,LKR,CIOCONAT Lounge,"Italian, Cafe, Desserts","107, Barnes Place, Cinnamon Gardens, Colombo 07",Colombo,Good
+810,0,LKR,Elite Indian Restaurant,"North Indian, Chinese, Sri Lankan","124, New Bullers Road, Bambalapitiya, Colombo 04",Colombo,Poor
+811,0,LKR,Butter Boutique,"Desserts, Bakery","34, 27th Lane, Kollupitiya, Colombo 03",Colombo,Very Good
+812,0,LKR,The Paddington,"Cafe, Italian","36, Barnes Place, Cinnamon Gardens, Colombo 07",Colombo,Good
+813,0,LKR,Malay Restaurant,"Malaysian, North Indian, Sri Lankan","115, Hill Street, Dehiwala, Colombo",Colombo,Good
+814,0,LKR,Cafe Shaze,"Cafe, Fast Food, Beverages","65, Thimbirigasaya Road, Havelock Town, Colombo 05",Colombo,Good
+815,0,LKR,Simply Strawberries By Jagro,"Juices, Desserts","131, Vijaya Kumaratunge Mawathu, Havelock Town, Colombo 05",Colombo,Excellent
+816,0,LKR,Arabian Knights,"Middle Eastern, Arabian","377, Opposite Amana Bank, Galle Road, Kollupitiya, Colombo 03",Colombo,Very Good
+817,0,LKR,Queen's Cafe,"American, Chinese, North Indian","417, Duplication Road, Kollupitiya, Colombo 03",Colombo,Average
+818,0,LKR,The Manhattan Fish Market,"Seafood, Italian","31, Deal Place, Off R.A. De Mel Mawatha, Kollupitiya, Colombo 03",Colombo,Very Good
+819,0,LKR,T.G.I. Friday's,"American, Steak","23, Canal Row, Fort, Colombo 01",Colombo,Very Good
+820,0,LKR,Chinese Dragon Cafe,Chinese,"11, Milagiriya Avenue, Bambalapitiya, Colombo 04",Colombo,Average
+821,0,TL,Bayramoğlu Döner,Döner,"Rüzgarlıbahçe Mahallesi, G-69 Sokak, No 2, Beykoz, İstanbul",İstanbul,Excellent
+822,0,TL,Draft Gastro Pub,Bar Food,"Caddebostan Mahallesi, Bağdat Caddesi, No 349, Kat 1, Kadıköy, İstanbul",İstanbul,Excellent
+823,0,TL,Valonia,"Restaurant Cafe, Desserts","Türkali Mahallesi, Ihlamurdere Caddesi, No 40/B, Beşiktaş, İstanbul",İstanbul,Very Good
+824,0,TL,J'adore Chocolatier,Desserts,"Asmalımescit Mahallesi, İstiklal Caddesi, Emir Nevruz Sokak, No 2/H, Beyoğlu, İstanbul",İstanbul,Excellent
+825,0,TL,Karaköy Güllüoğlu,"Desserts, Börek","Kemankeş Karamustafa Paşa Mahallesi, Rıhtım Caddesi, Katlı Otopark Altı, No 4, Beyoğlu, İstanbul",İstanbul,Excellent
+826,0,TL,Ceviz Ağacı,"World Cuisine, Patisserie, Cafe","Koşuyolu Mahallesi, Muhittin Üstündağ Caddesi, No 85, Kadıköy, İstanbul",İstanbul,Very Good
+827,0,TL,Dem Karaköy,Cafe,"Kemankeş Karamustafa Paşa Mahallesi, Hoca Tahsin Sokak, No 17, Beyoğlu, İstanbul",İstanbul,Excellent
+828,0,TL,Huqqa,"Italian, World Cuisine","Kuruçeşme Mahallesi, Muallim Naci Caddesi, No 56, Beşiktaş, İstanbul",İstanbul,Good
+829,0,TL,Baltazar,"Burger, Izgara","Kemankeş Karamustafa Paşa Mahallesi, Kılıç Ali Paşa Mescidi Sokak, No 12/A, Beyoğlu, İstanbul",İstanbul,Very Good
+830,0,TL,Leman Kültür,Restaurant Cafe,"Caferağa Mahallesi, Neşet Ömer Sokak, No 9/A, Kadıköy, İstanbul",İstanbul,Good
+831,0,TL,Virginia Angus,"Steak, Burger","Halaskargazi Mahallesi, Valikonağı Caddesi, Kuyumcu İrfan Sokak, No 8, Şişli, İstanbul",İstanbul,Very Good
+832,0,TL,Eataly,"Italian, Pizza, Fresh Fish","Zorlu Center AVM, Köprü Katı, Levazım Mahallesi, Barbaros Bulvarı Kavşağı, Koru Sokak, No 2, Beşiktaş, İstanbul",İstanbul,Very Good
+833,0,TL,Big Chefs,World Cuisine,"Tarabya Mahallesi, Yeniköy Tarabya Caddesi, No 80, Sarıyer, İstanbul",İstanbul,Very Good
+834,0,TL,Filizler Köftecisi,"Izgara, Steak","Salacak Mahallesi, Üsküdar Harem Sahil Yolu, No 61, Üsküdar, İstanbul",İstanbul,Good
+835,0,TL,Emirgan Sütiş,"Restaurant Cafe, Turkish, Desserts","Emirgan Mahallesi, Sakıp Sabancı Caddesi, No 46, Sarıyer, İstanbul",İstanbul,Very Good
+836,0,TL,Aşşk Kahve,Restaurant Cafe,"Kuruçeşme Mahallesi, Muallim Naci Caddesi, No 64/B, Beşiktaş, İstanbul",İstanbul,Very Good
+837,0,TL,MOC İstanbul,Cafe,"Teşvikiye Mahallesi, Şakayık Sokak, No 4, Şişli, İstanbul",İstanbul,Excellent
+838,0,TL,Namlı Gurme,Turkish,"Kemankeş Karamustafa Paşa Mahallesi, Rıhtım Caddesi, No 1/1, Katlı Otopark Altı,  Beyoğlu, İstanbul",İstanbul,Very Good
+839,0,TL,Starbucks,Cafe,"Bebek Mahallesi, Cevdetpaşa Caddesi, No 30/A, Beşiktaş, İstanbul",İstanbul,Excellent
+840,0,TL,Walter's Coffee Roastery,Cafe,"Cafeağa Mahallesi, Bademaltı Sokak, No 21/B, Kadıköy, İstanbul",İstanbul,Very Good
+841,0,TL,Çukurağa Sofrası,"Kebab, Izgara","Emek Mahallesi, Bosna Hersek Caddesi, No 22/C, Çankaya, Ankara",Ankara,Very Good
+842,0,TL,Meşhur Tavacı Recep Usta,Kebab,"Güzeltepe Mahallesi, Dikmen Vadisi, Hoşdere Girişi, Çankaya, Ankara",Ankara,Excellent
+843,0,TL,Masabaşı Kebapçısı,"Kebab, Turkish Pizza","Balgat Mahallesi, Ziyabey Caddesi, No 35, Çankaya, Ankara",Ankara,Very Good
+844,0,TL,Hattena Hatay  Sofrası,Kebab,"Balgat Mahallesi, Osmanlı Caddesi, No 41/A, Çankaya, Ankara",Ankara,Excellent
+845,0,TL,Düveroğlu,"Kebab, Desserts, Turkish Pizza","Ümitköy Mahallesi, 2432. Cadde (8. Cadde), No 113, Çankaya, Ankara",Ankara,Very Good
+846,0,TL,Zigana Pide,Turkish Pizza,"Macun Mahallesi, Erciyes İşyerleri Sitesi, 201. Cadde, No 6, Yenimahalle, Ankara",Ankara,Very Good
+847,0,TL,Timboo Cafe,Cafe,"Armada AVM, Kat -1, Eskişehir Yolu, No 6, Yenimahalle, Ankara",Ankara,Very Good
+848,0,TL,Pizza İl Forno,Pizza,"Yıldızevler Mahallesi, 720. Sokak, No 2/B, Çankaya, Ankara",Ankara,Excellent
+849,0,TL,Nusr-Et,Steak,"Gaziosmanpaşa Mahallesi, Şehit Ömer Haluk Sipahioğlu Sokak, No 8, Çankaya, Ankara",Ankara,Very Good
+850,0,TL,Düveroğlu,"Kebab, Desserts, Turkish Pizza","Maltepe Mahallesi, Gençlik Caddesi, No 28, Çankaya, Ankara",Ankara,Very Good
+851,0,TL,Turta Home Cafe,"Cafe, Desserts","Mutlukent Mahallesi, 1944. Cadde, 1948. Sokak, No 15, Çankaya, Ankara",Ankara,Very Good
+852,0,TL,The Bigos,Cafe,"Mahallesi, Selanik 2 Caddesi, No 61/A, Çankaya, Ankara",Ankara,Good
+853,0,TL,Masabaşı,"Kebab, Turkish Pizza","Kocatepe Mahallesi, Mithatpaşa Caddesi, No 62/A, Çankaya, Ankara",Ankara,Very Good
+854,0,TL,Cafemiz,"World Cuisine, Mexican, Italian","Gaziosmanpaşa Mahallesi, Arjantin Caddesi, No 19, Çankaya, Ankara",Ankara,Very Good
+855,0,TL,Kebap 49,"Kebab, Turkish Pizza","Remzi Oğuz Arık Mahallesi, Tunalı Hilmi Caddesi, Bülten Sokak, No 5, Çankaya, Ankara",Ankara,Very Good
+856,0,TL,Liva,"Patisserie, Coffee and Tea","Çukurambar Mahallesi, Muhsin Yazıcıoğlu Caddesi, No 3, Çankaya, Ankara",Ankara,Average
+857,0,TL,Yıldız Aspava,"Kebab, Turkish Pizza, Döner","Küçük Esat Mahallesi, Esat Caddesi, No 110/25, Çankaya, Ankara",Ankara,Very Good
+858,0,TL,Timboo Cafe,Cafe,"Kentpark AVM, Kat -1, Mustafa Kemal Mahallesi, Eskişehir Yolu 7.km, No 164, Çankaya, Ankara",Ankara,Very Good
+859,0,TL,Meşhur Özçelik Aspava,"Kebab, Turkish Pizza","Küçük Esat Mahallesi, Esat Caddesi, No 110/C, Çankaya, Ankara",Ankara,Excellent
+860,0,TL,Gaga Manjero,World Cuisine,"Gazi Osman Paşa Mahallesi, Filistin Caddesi, No 21, Çankaya, Ankara",Ankara,Excellent
+861,0,£,Dishoom,"Indian, North Indian, Curry, Cafe","12 Upper St Martin's Lane, Covent Garden, London WC2H 9FB",London,Excellent
+862,0,£,Duck & Waffle,British,"Heron Tower, 110 Bishopsgate, City of London, London EC2N 4AY",London,Excellent
+863,0,£,Bao,"Taiwanese, Street Food","53 Lexington Street, Soho, London W1F 9AS",London,Excellent
+864,0,£,Roti Chai,"Indian, Street Food","3 Portman Mews South, Marble Arch, London W1H 6HS",London,Excellent
+865,0,£,Yauatcha,"Chinese, Dim Sum","15-17 Broadwick Street, Soho, London W1F 0DL",London,Excellent
+866,0,£,The Breakfast Club,"American, Burger","33 D'Arblay Street, Soho, London W1F 8EU",London,Excellent
+867,0,£,Flat Iron,Steak,"17 Beak Street, Soho, London W1F 9RW",London,Excellent
+868,0,£,sketch Gallery,"British, Contemporary","sketch, 9 Conduit Street, Mayfair, London W1S 2XG",London,Excellent
+869,0,£,Restaurant Gordon Ramsay,French,"68 Royal Hospital Road, Chelsea, London SW3 4HP",London,Excellent
+870,0,£,Gymkhana,"Indian, Pakistani, Curry","42 Albemarle Street, Mayfair, London W1S 4JH",London,Excellent
+871,0,£,Dishoom,"Indian, Cafe, Curry","7 Boundary Street, Shoreditch, London E2 7JE",London,Excellent
+872,0,£,Shake Shack,"American, Burger","24 Market Building, The Piazza, Covent Garden, London WC2E 8RD",London,Very Good
+873,0,£,Five Guys,"American, Burger","1-3 Long Acre, Covent Garden, London WC2E 9LH",London,Good
+874,0,£,Hakkasan,"Chinese, Dim Sum","17 Bruton Street, Mayfair, London W1J 6QB",London,Excellent
+875,0,£,Nobu,"Japanese, Sushi","15 Berkeley Street, Mayfair, London W1J 8DY",London,Very Good
+876,0,£,Jamie's Italian,Italian,"11 Upper St Martin's Lane, Covent Garden, London WC2H 9FB",London,Very Good
+877,0,£,Bone Daddies,"Ramen, Japanese","31 St. Peter Street, Soho, London W1F 0AR",London,Excellent
+878,0,£,Roka,"Japanese, Sushi","37 Charlotte Street, Fitzrovia, London W1T 1RR",London,Excellent
+879,0,£,Bocca Di Lupo,Italian,"12 Archer Street, Soho, London W1D 7BB",London,Excellent
+880,0,£,Masala Zone,"Indian, Curry","48 Floral Street, Covent Garden, London WC2E 9DA",London,Very Good
+881,0,QR,Roti & Boti,Indian,"Showroom #10, Al Emadi Suites, Ras Abu Aboud Street, Umm Ghuwailina, Doha",Doha,Good
+882,0,QR,7st by Mumbai Spices,"Indian, Street Food","Barwa Commercial Avenue, Near Thursday & Friday Market Building, Near F Ring Road, Main Industrial Area Road, Ain Khalid, Doha",Doha,Average
+883,0,QR,The Manhattan FISH MARKET,"Seafood, American","Mezzanine Floor, Ghanem Business Center, Opposite Ahli Bank, Fereej Bin Mahmoud, Doha",Doha,Very Good
+884,0,QR,Zaffran Dining Experience,Indian,"Al Emadi Financial Square, C Ring Road, Al Hilal, Doha",Doha,Excellent
+885,0,QR,Gymkhana,Indian,"Ground Floor, Al Jomrok Boutique Hotel, Souq Waqif, Doha",Doha,Excellent
+886,0,QR,Indian Coffee House,Indian,"Beside Le Mirage Suites, Fereej Abdul Aziz Street, Al Doha Al Jadeeda, Doha",Doha,Average
+887,0,QR,Vine - The St. Regis,International,"1st Floor, The St. Regis Hotel, Westbay, Doha",Doha,Very Good
+888,0,QR,Mainland China Restaurant,Chinese,"1st Floor, Barwa Towers, Suhaim Bin Hamad Street, Al Sadd, Doha",Doha,Excellent
+889,0,QR,Eatopia,"European, Arabian, Japanese, Bakery, Desserts","2nd Floor, The Gate Mall, Dafna, Doha",Doha,Good
+890,0,QR,MRA Bakery Sweets & Restaurant,"Kerala, Indian, Chinese, Bakery","Opposite Aster Pharmacy, Al Taei Street, Al Ghanim, Doha",Doha,Very Good
+891,0,QR,Zaoq,Pakistani,"Midmac Flyover, Salwa Road, Al Hilal, Doha",Doha,Very Good
+892,0,QR,Aalishan,"North Indian, Chinese, Turkish","Opposite Universal Cooling System, Ibn Seena Street, Al Muntazah, Doha",Doha,Good
+893,0,QR,Ponderosa,Steak,"Caravan Complex, Ramada Junction, Salwa Road, Al Hilal, Doha",Doha,Good
+894,0,QR,Coral - InterContinental Doha,International,"Lower Ground Floor, Hotel Intercontinental Doha, Al Isteqlal Road, Westbay, Doha",Doha,Good
+895,0,QR,Sabai Thai - The Westin Doha Hotel & Spa,Thai,"Ground Floor, The Westin Doha Hotel & Spa, Fereej Bin Mahmoud, Doha",Doha,Very Good
+896,0,QR,Gokul Gujarati Restaurant,Indian,"Opposite Masjid, Ibn Mahmoud Street, Fereej Bin Mahmoud, Doha",Doha,Very Good
+897,0,QR,Punjab Restaurant,Pakistani,"Near Kahramaa Office, Al Adhwaa Street, Musheireb, Doha",Doha,Good
+898,0,QR,Paper Moon,Italian,"Beside Jarir Bookstore, Jaidah Square, Al Matar Street, Umm Ghuwailina, Doha",Doha,Excellent
+899,0,QR,Texas Roadhouse,"Steak, American","Ground Floor, Mall Of Qatar, Dukhan Highway, Al Gharafa, Doha",Doha,Very Good
+900,0,QR,Applebee's,"American, Tex-Mex","Opposite La Cigale Hotel, C Ring Road, Al Nasr, Doha",Doha,Good
+901,0,P,Izakaya Kikufuji,Japanese,"Little Tokyo, 2277 Chino Roces Avenue, Legaspi Village, Makati City",Makati City,Excellent
+902,0,P,The Food Hall by Todd English,"American, Asian, Italian, Seafood","Fifth Floor, SM Aura Premier, C5 Corner 26th Street, Bonifacio Global City, Taguig City",Taguig City,Excellent
+903,0,P,Ooma,"Japanese, Sushi","Third Floor, Mega Fashion Hall, SM Megamall, Ortigas, Mandaluyong City",Mandaluyong City,Excellent
+904,0,P,Spiral - Sofitel Philippine Plaza Manila,"European, Asian, Indian","Plaza Level, Sofitel Philippine Plaza Manila, CCP Complex, Pasay City",Pasay City,Excellent
+905,0,P,NIU by Vikings,"Seafood, American, Mediterranean, Japanese","Sixth Floor, SM Aura Premier, C5 Road Corner 26th Street, Bonifacio Global City, Taguig City",Taguig City,Excellent
+906,0,P,Din Tai Fung,Chinese,"Ground Floor, Mega Fashion Hall, SM Megamall, Ortigas, Mandaluyong City",Mandaluyong City,Very Good
+907,0,P,Heat - Edsa Shangri-La,"Seafood, Asian, Filipino, Indian","Edsa Shangri-La, 1 Garden Way, Ortigas, Mandaluyong City",Mandaluyong City,Very Good
+908,0,P,Mad Mark's Creamery & Good Eats,"American, Ice Cream, Desserts","23 East Capitol Drive, Kapitolyo, Pasig City",Pasig City,Very Good
+909,0,P,Sambo Kojin,"Japanese, Korean","Third Floor, Mega Atrium, SM Megamall, Ortigas, Mandaluyong City",Mandaluyong City,Excellent
+910,0,P,Silantro Fil-Mex,"Filipino, Mexican","75 East Capitol Drive, Kapitolyo, Pasig City",Pasig City,Excellent
+911,0,P,Silantro Fil-Mex,"Filipino, Mexican","Second Floor, UP Town Center, Katipunan Avenue, Diliman, Quezon City",Quezon City,Excellent
+912,0,P,Locavore,Filipino,"Brixton Technology Center, 10 Brixton Street, Kapitolyo, Pasig City",Pasig City,Excellent
+913,0,P,Balay Dako,Filipino,"Aguinaldo Highway, Tagaytay City",Tagaytay City,Excellent
+914,0,P,Buffet 101,"Asian, European","Building K, SM By The Bay, Sunset Boulevard, Mall of Asia Complex (MOA), Pasay City",Pasay City,Very Good
+915,0,P,Sodam Korean Restaurant,Korean,"17 J. Abad Santos Drive, Little Baguio, San Juan City",San Juan City,Very Good
+916,0,P,Vikings,"Seafood, Filipino, Asian, European","Building B, By The Bay, Seaside Boulevard, Mall of Asia Complex (MOA), Pasay City",Pasay City,Very Good
+917,0,P,Le Petit Souffle,"French, Japanese, Desserts","Third Floor, Century City Mall, Kalayaan Avenue, Poblacion, Makati City",Makati City,Excellent
+918,0,P,Wildflour Cafe + Bakery,"Cafe, Bakery, American, Italian","Ground Floor, Netlima Building, 4th Avenue Corner 26th Street, Bonifacio Global City, Taguig City",Taguig City,Very Good
+919,0,P,Hobing Korean Dessert Cafe,"Cafe, Korean, Desserts","Third Floor, BGC Stopover Pavillion, Rizal Drive Corner 31st Street, Bonifacio Global City, Taguig City",Taguig City,Excellent
+920,0,P,Guevarra's,Filipino,"387 P. Guevarra Corner Argonne Street, Addition Hills, San Juan City",San Juan City,Very Good
+921,0,R,Jarryds,"Cafe, Burger","90 Regent Road, Sea Point, Cape Town",Cape Town,Excellent
+922,0,R,tashas,"Cafe, Mediterranean","Ground Level, Victoria Wharf, V & A Waterfront, Cape Town",Cape Town,Very Good
+923,0,R,Coco Safar,"Cafe, Patisserie","Ground Floor, Cavendish Square, Claremont, Cape Town",Cape Town,Very Good
+924,0,R,Beluga,"Seafood, Asian, Grill, Sushi","The Foundry, Prestwich Street, Green Point, Cape Town",Cape Town,Good
+925,0,R,Willoughby & Co.,"Seafood, Japanese, Sushi","Ground Level, Victoria Wharf, V & A Waterfront, Cape Town",Cape Town,Very Good
+926,0,R,Truth Coffee,Cafe,"36 Buitenkant Street, CBD, Cape Town",Cape Town,Very Good
+927,0,R,Gibson's Gourmet Burgers & Ribs,"Burger, American, Grill","Shop 157, Lower Level, Victoria Wharf, V & A Waterfront, Cape Town",Cape Town,Very Good
+928,0,R,My Sugar,"Cafe, Patisserie, Bakery, Desserts","77 Regent Road, Sea Point, Cape Town",Cape Town,Very Good
+929,0,R,Kloof Street House,Mediterranean,"30 Kloof Street, Gardens, Cape Town",Cape Town,Excellent
+930,0,R,Rocomamas,"Burger, Fast Food, Grill","107a Main Road, Green Point, Cape Town",Cape Town,Good
+931,0,R,The Creamery,"Desserts, Ice Cream","Newlands Quarter, Dean Street, Newlands, Cape Town",Cape Town,Excellent
+932,0,R,Salushi,"Japanese, Sushi, Asian","25 Protea Road, Claremont, Cape Town",Cape Town,Good
+933,0,R,Jerry's Burger Bar,"Burger, American","5 Park Road, Kloof Street, Gardens, Cape Town",Cape Town,Very Good
+934,0,R,Active Sushi,Sushi,"32 Hudson Street, Mirage Building, Green Point, Cape Town",Cape Town,Good
+935,0,R,La Parada,"Spanish, Tapas","107 Bree Street, CBD, Cape Town",Cape Town,Good
+936,0,R,The Butcher's Wife,"Pizza, Grill","15 Belgravia Road, Athlone, Cape Town",Cape Town,Good
+937,0,R,Nobu - One&Only,"Japanese, Asian, Seafood, Sushi","One & Only Hotel, Dock Road, V & A Waterfront, Cape Town",Cape Town,Very Good
+938,0,R,Grand Café & Beach,"Seafood, African, Sushi","Granger Bay Road, Granger Bay, V & A Waterfront, Cape Town",Cape Town,Good
+939,0,R,Origin Coffee Roasting,"Cafe, Bakery, Tea, Vegetarian","28 Hudson Street, De Waterkant, Cape Town",Cape Town,Very Good
+940,0,R,Jason Bakery,"Cafe, Bakery","185 Bree Street, CBD, Cape Town",Cape Town,Very Good
+941,0,R,Jamie's Italian,Italian,"Shop 00513, Building 13, High Street, Melrose Arch, Sandton",Sandton,Very Good
+942,0,R,Gemelli Cucina Bar,"Contemporary, Italian","13 Posthouse Link Centre, Corner Main & Posthouse Street, Bryanston, Johannesburg Sandton, Bryanston, Sandton",Sandton,Excellent
+943,0,R,Craft,"European, Pizza","33, 4th Avenue corner of 13th street, Parkhurst, Johannesburg",Johannesburg,Very Good
+944,0,R,Momo Baohaus,"Asian, Sushi, Tapas","139 Greenway, Greenside, Johannesburg",Johannesburg,Very Good
+945,0,R,The Big Mouth,"Grill, Steak, Burger, Sushi, Tapas","Nelson Mandela Square, Corner Maude & 5th Streets, Sandown, Sandton",Sandton,Very Good
+946,0,R,The Wolfpack,"American, Burger","21, 4th Avenue, Parkhurst, Johannesburg",Johannesburg,Very Good
+947,0,R,Marble,"Continental, South African, Beverages, Desserts, Seafood, Grill, Ice Cream, International","Corner Jan Smuts Avenue & Jellicoe Avenue, Rosebank, Johannesburg",Johannesburg,Excellent
+948,0,R,Urbanologi,Tapas,"1 Fox Street, Marshalltown, Inner City, Johannesburg",Inner City,Excellent
+949,0,R,Licorish Bistro,"European, South African","Nicolway Shopping Centre, William Nicol Drive, Bryanston, Sandton",Sandton,Excellent
+950,0,R,Hudsons,"Burger, Finger Food, Pizza","Corner 4th Avenue & 14th Street, Parkhurst, Johannesburg",Johannesburg,Very Good
+951,0,R,Cafe Del Sol Botanico,"Italian, Pizza, Beverages, Desserts, Grill, Seafood","Bryanston Shopping Centre, Corner of William Nicol & Ballyclare Dr, Bryanston, Sandton, Bryanston, Johannesburg",Sandton,Very Good
+952,0,R,Social on Main,"Contemporary, Burger, European","Shop 1, Posthouse Centre, Corner Main Road & Posthouse Street, Bryanston, Sandton 2021",Sandton,Very Good
+953,0,R,Perron,Mexican,"Illovo Junction, Corner Oxford Road and Corlett Drive, Illovo, Sandton",Sandton,Very Good
+954,0,R,Salsa Mexican Grill,Mexican,"Pineslopes Shopping Centre, Corner of Witkoppen Drive & The Straight, Fourways, Sandton",Sandton,Very Good
+955,0,R,The Smokehouse and Grill,Steak,"Pineslopes Shopping Centre, Corner of Witkoppen Drive & The Straight, Fourways, Sandton",Sandton,Very Good
+956,0,R,The National,American,"19, 4th Avenue, Parktown North, Johannesburg",Johannesburg,Very Good
+957,0,R,Escondido Tapas,Mediterranean,"Post Office Centre, Corner of Rudd Road and Otto Street, Illovo, Sandton",Sandton,Very Good
+958,0,R,Cube - Tasting Kitchen,"European, Contemporary","24 Albrecht Road, Maboneng Precinct, City and Suburban, Inner City",Inner City,Excellent
+959,0,R,Remo's Maximilliano,"Italian, Pizza","Waterfall Corner Mall, Corner of Maxwell & Woodmead Drives, Woodmead, Sandton",Sandton,Good
+960,0,R,The Whippet,Cafe,"Corner of 7th Street and 4th Avenue, Linden, Randburg 2195",Randburg,Very Good
+961,0,R$,Coco Bambu,International,"SCES, Trecho 2, Conjunto 13/36, Setor de Clubes Esportivos Sul, Brasília",Brasília,Excellent
+962,0,R$,Coco Bambu,International,"Brasília Shopping - Piso 2, SCN 5, Bloco A, Asa Norte, Brasília",Brasília,Very Good
+963,0,R$,Taypá,"Peruvian, Latin American","Fashion Park, Shis Ql 17, Bloco G, Loja 208, Lago Sul, Brasília",Brasília,Good
+964,0,R$,New Koto,Japanese,"SCS 212, Bloco B, Loja 26, Asa Sul, Brasília",Brasília,Good
+965,0,R$,Brazilian American Burgers,"American, Burger","CLSN 301, Bloco C, Loja 86, Sudoeste, Brasília",Brasília,Good
+966,0,R$,Taco Pep,"Mexican, Grill","Vila Malls, Avenida das Castanheiras, Lote 1060, Ãguas Claras, Brasília",Brasília,Very Good
+967,0,R$,Beirute,Arabian,"CLS 109, Bloco A, Loja 2/6, Asa Sul, Brasília",Brasília,Good
+968,0,R$,Pizza à Bessa,Pizza,"SCS 214, Bloco C, Loja 40, Asa Sul, Brasília",Brasília,Average
+969,0,R$,Sandubas Café,"Brazilian, Cafe","Edifício José Severo, SCS 6, Bloco A, Loja 99, Asa Sul, Brasília",Brasília,Not rated
+970,0,R$,Villa Tevere,Italian,"CLS 115, Bloco A, Loja 2, Asa Sul, Brasília",Brasília,Very Good
+971,0,R$,Chez Michou,"Fast Food, French","SCLN, 208, Bloco A, Loja 30, Asa Norte, Brasília",Brasília,Average
+972,0,R$,Rovereto,Pizza,"Rua 13 Norte, Lote 4, Águas Claras, Brasília",Brasília,Average
+973,0,R$,Buena Carne,"Bar Food, Brazilian","Avenida Araucárias, 1325, Loja 19, Águas Claras, Brasília",Brasília,Good
+974,0,R$,Manzuá,Seafood,"Pontão Lago Sul, SHIS 10, Lote 9, Lago Sul, Brasília",Brasília,Average
+975,0,R$,Sushi Loko,Japanese,"SCS 213, Bloco C, Loja 35, Asa Sul, Brasília",Brasília,Average
+976,0,R$,Casa do Biscoito Mineiro,Bakery,"SCLN 210, Bloco D, Loja 36/48, Asa Norte, Brasília",Brasília,Good
+977,0,R$,Outback Steakhouse,"American, Grill","ParkShopping - Piso 2, SAI/SO, Área 6580, Guará I, Brasília",Brasília,Very Good
+978,0,R$,Maori,Brazilian,"CLN 110, Bloco D, Loja 28, Asa Norte, Brasília",Brasília,Good
+979,0,R$,Gero,Italian,"Shopping Iguatemi - piso 1, SHIN CA 4, Lote A, Lago Norte, Brasília",Brasília,Average
+980,0,R$,Café Daniel Briand,Cafe,"SCLN 104, Bloco A, Loja 26, Asa Norte, Brasília",Brasília,Good
+981,0,R$,Templo da Carne - Marcos Bassi,"Steak, BBQ","Rua Treze de Maio, 668, Bela Vista, São Paulo 01327000",São Paulo,Very Good
+982,0,R$,Cantina Famiglia Mancini,"Italian, Pizza","Rua Avanhandava, 81, Bela Vista, São Paulo 10000",São Paulo,Excellent
+983,0,R$,Esquina Mocotó,"Brazilian, North Eastern","Avenida Nossa Senhora do Loreto, 1104, Vila Medeiros, Vila Maria, São Paulo",São Paulo,Very Good
+984,0,R$,Jiquitaia,Brazilian,"Rua Antônio Carlos, 268, Consolação, São Paulo",São Paulo,Very Good
+985,0,R$,Red Steak & Burger,"Brazilian, Grill","Rua Tabapuã, 1417, Itaim Bibi, São Paulo",São Paulo,Good
+986,0,R$,Super Grill,Brazilian,"Shopping Morumbi - Piso Lazer, Avenida Roque Petroni Júnior, 1089, Santo Amaro, São Paulo",São Paulo,Not rated
+987,0,R$,Skye - Hotel Unique,"Beverages, International","Hotel Unique, Avenida Brigadeiro Luís Antônio, 4700, Jardim Paulista, São Paulo",São Paulo,Excellent
+988,0,R$,Divino Fogão,"Brazilian, Mineira","Shopping Metrô Santa Cruz - Piso L2, Rua Domingos de Morais, 2564, Vila Mariana, São Paulo",São Paulo,Not rated
+989,0,R$,A Figueira Rubaiyat,"BBQ, Grill, Brazilian","Rua Haddock Lobo, 1738, Cerqueira César, Jardim Paulista, São Paulo 10000",São Paulo,Very Good
+990,0,R$,Terraço Itália,Italian,"Edifício Itália - 41° Andar, Avenida Ipiranga, 344, República, São Paulo",São Paulo,Very Good
+991,0,R$,Meats,"Gourmet Fast Food, Burger","Rua dos Pinheiros, 320, Pinheiros, São Paulo",São Paulo,Very Good
+992,0,R$,Kinoshita,Sushi,"Rua Jacques Félix, 405, Vila Nova Conceição, Moema, São Paulo",São Paulo,Good
+993,0,R$,Sainte Marie Gastronomia,"Lebanese, Arabian","Rua Dom João Batista da Costa, 70, Vila Sônia, São Paulo",São Paulo,Very Good
+994,0,R$,Paris 6 Classique,French,"Rua Haddock Lobo, 1240, Cerqueira César, Jardim Paulista, São Paulo",São Paulo,Average
+995,0,R$,Les 3 Brasseurs,"French, Brazilian, Beverages","Rua Jesuíno Arruda, 470, Itaim Bibi, São Paulo",São Paulo,Excellent
+996,0,R$,Paribar,"Brazilian, Italian","Praça Dom José Gaspar, 42, República, São Paulo 10000",São Paulo,Very Good
+997,0,R$,Kawa Sushi,"Sushi, Japanese","Alameda Lorena, 300, Jardim Paulista, São Paulo",São Paulo,Good
+998,0,R$,Veloso,"Brazilian, Bar Food, Beverages","Rua Conceição Veloso, 56, Vila Mariana, São Paulo",São Paulo,Excellent
+999,0,R$,Gopala Hari,Indian,"Rua Antonio Carlos, 429, Consolação, São Paulo",São Paulo,Average
+1000,0,R$,Cantinho da Gula,Brazilian,"Rua Pedroso Alvarenga, 522, Itaim Bibi, São Paulo, SP",São Paulo,Not rated
+1001,0,£,Santos,"Pizza, Fast Food","22 King Edward's Buildings, Bury Old Road, Cheetham Hill, Manchester M7 4QJ",Manchester,Average
+1002,0,£,Home Sweet Home,"British, Burger, Cafe","49-51 Edge Street, Northern Quarter, Manchester M4 1HW",Manchester,Very Good
+1003,0,£,Nawaab,"Pakistani, Indian, Afghani, Curry","1008 Stockport Road, Levenshulme, Manchester M19 3WN",Manchester,Good
+1004,0,£,San Carlo,Italian,"40-42 King Street West, Spinningfields, Manchester M3 2WY",Manchester,Very Good
+1005,0,£,Almost Famous Burgers,"Burger, American","100-102 High Street, Northern Quarter, Manchester M4 1HP",Manchester,Very Good
+1006,0,£,Archies,"Fast Food, American","72 Oxford Road, University District, Oxford Road, Manchester M1 5NH",Manchester,Average
+1007,0,£,Jamie's Italian,Italian,"100 King Street, Market Street, Manchester M2 4WU",Manchester,Good
+1008,0,£,Lahore,"Indian, Grill","14-18 Wilmslow Road, Rusholme, Manchester M14 5TQ",Manchester,Good
+1009,0,£,The Grill On The Alley,"Steak, Seafood, Grill","5 RIdgefield, Deansgate, Manchester M2 6EG",Manchester,Very Good
+1010,0,£,Solita,"American, Burger, Grill","37 Turner Street, Northern Quarter, Manchester M4 1DW",Manchester,Excellent
+1011,0,£,Mughli,"Indian, Curry","30 Wilmslow Road, Rusholme, Manchester M14 5TQ",Manchester,Excellent
+1012,0,£,The French by Simon Rogan - The Midland,French,"The Midland, Peter Street, Deansgate, Manchester M60 2DS",Manchester,Very Good
+1013,0,£,Mr Cooper's House & Garden - The Midland,"European, Mediterranean, Contemporary","The Midland, Peter Street, Deansgate, Manchester M60 2DS",Manchester,Very Good
+1014,0,£,Gaucho,"Argentine, American","2A St Mary's Street, Spinningfields, Manchester M3 2LB",Manchester,Excellent
+1015,0,£,Monolos Playhouse Restaurant,"American, Fast Food, Desserts, Steak","137 Cheetham Hill Road, Cheetham Hill, Manchester M8 8LY",Manchester,Average
+1016,0,£,Zouk Tea Bar & Grill,"Indian, Seafood","The Quadrangle, Chester Street, Oxford Road, Manchester M1 5QS",Manchester,Good
+1017,0,£,Manchester House,British,"Tower 12, 18-22 Bridge Street, Deansgate, Manchester M3 3BZ",Manchester,Very Good
+1018,0,£,Teacup,"British, Contemporary","55 Thomas Street, Northern Quarter, Manchester M4 1NA",Manchester,Very Good
+1019,0,£,Chaophraya,Thai,"19 Chapel Walks, City Center, Market Street, Manchester M2 1HN",Manchester,Very Good
+1020,0,£,Akbars,Indian,"73-83 Liverpool Road, Spinningfields, Manchester M3 4NQ",Manchester,Very Good
+1021,0,£,Tipu Sultan,"Indian, Pakistani","43 Alcester Road, Moseley, Birmingham B13 8AA",Birmingham,Very Good
+1022,0,£,Jamie's Italian,Italian,"Middle Mall, Bullring Shopping Centre, Bullring, Birmingham B5 4BU",Birmingham,Good
+1023,0,£,Chaophraya,Thai,"Middle Mall, Bullring Shopping Centre, Special street, Bullring, Birmingham B5 4BH",Birmingham,Good
+1024,0,£,Purnell's,Contemporary,"55 Cornwall Street, Colmore Business District, Birmingham B3 2DH",Birmingham,Excellent
+1025,0,£,Fiesta del Asado,"Latin American, Italian","229 Hagley Road, Edgbaston, Birmingham B16 9RP",Birmingham,Very Good
+1026,0,£,Pepe's Piri Piri,Fast Food,"254-256 Alum Rock Road, Alum Rock, Birmingham B8 3DD",Birmingham,Average
+1027,0,£,Bank,"British, Steak","4 Brindleyplace, Brindleyplace, Birmingham B1 2JB",Birmingham,Very Good
+1028,0,£,Ju Ju's Cafe,"Cafe, British","1 Canal Square, Brindleyplace, Birmingham B16 8EH",Birmingham,Good
+1029,0,£,The Warehouse Cafe,"British, Cafe","54-57 Allison Street, Digbeth, Birmingham B5 5TH",Birmingham,Good
+1030,0,£,Bodega,Latin American,"12 Bennetts Hill, City Centre, Birmingham B2 5RS",Birmingham,Excellent
+1031,0,£,Bar Estilo,Mexican,"110-114 Wharfside Street, The Mailbox, City Centre, Birmingham B1 1RF",Birmingham,Very Good
+1032,0,£,Istanbul Restaurant,Turkish,"2 Stockwell Road, Handsworth, Birmingham B21 9RJ",Birmingham,Good
+1033,0,£,Handmade Burger Co.,"Burger, American","Unit 3, St Martin Square, Bullring Shopping Centre, Bullring, Birmingham B5 4BU",Birmingham,Good
+1034,0,£,Chennai Dosa,"Indian, South Indian","445-447, Dudley Road, Birmingham, Smethwick, Birmingham B18 4HE",Birmingham,Good
+1035,0,£,Damascena Coffee House,"Greek, Mediterranean, Middle Eastern","133 Alcester Road, Moseley, Birmingham",Birmingham,Not rated
+1036,0,£,Lasan Restaurant,Indian,"3-4 Dakota Buildings, James Street, Saint Paul's Square, Jewellery Quarter, Birmingham B3 1SD",Birmingham,Very Good
+1037,0,£,The Plough,British,"21 High Street, Harborne, Birmingham B17 9NT",Birmingham,Very Good
+1038,0,£,Mughal E Azam,"Pakistani, Indian","Stratford Road, Sparkhill, Birmingham B11 4DA",Birmingham,Good
+1039,0,£,San Carlo,Italian,"4 Temple Street, City Centre, Birmingham B2 5BN",Birmingham,Very Good
+1040,0,£,Jamjar,"Ice Cream, Desserts, Cafe","418 Coventry Road, Small Heath, Birmingham B10 0TH",Birmingham,Average
+1041,0,NZ$,Eight - The Langham Hotel,European,"The Langham Hotel, 83 Symonds Street, Grafton, Auckland",Auckland,Excellent
+1042,0,NZ$,The Kimchi Project,"Asian Fusion, Cafe","20 Lorne Street, Auckland CBD, Auckland",Auckland,Very Good
+1043,0,NZ$,Baduzzi,Italian,"10-26 Jellicoe Street, Wynyard Quarter, Auckland CBD, Auckland 1010",Auckland,Excellent
+1044,0,NZ$,De Fontein Belgian Beer Cafe,European,"75-79 Tamaki Drive, Mission Bay, Auckland",Auckland,Poor
+1045,0,NZ$,Depot Eatery and Oyster Bar,"Seafood, Kiwi","86 Federal Street, Auckland CBD, Auckland, 1010",Auckland,Excellent
+1046,0,NZ$,Kiss Kiss,Thai,"1 Rocklands Avenue, Balmoral, Auckland",Auckland,Very Good
+1047,0,NZ$,Winona Forever,Cafe,"100 Parnell Road, Parnell, Auckland",Auckland,Very Good
+1048,0,NZ$,Eden Noodles Cafe 四川担担面,Chinese,"105 Dominion Road, Mt Eden, Auckland 1024",Auckland,Very Good
+1049,0,NZ$,Frasers,"Cafe, European","434 Mt Eden Road, Mt Eden, Auckland 1024",Auckland,Very Good
+1050,0,NZ$,PappaRich,Malaysian,"Sky City Metro,  Shop 2.01-2.03, 291-297 Queen Street, Auckland CBD, Auckland 1010",Auckland,Very Good
+1051,0,NZ$,Federal Delicatessen,"Cafe, American","86 Federal Street, Auckland CBD, Auckland 1010",Auckland,Excellent
+1052,0,NZ$,Orleans,American,"Roukai Lane, 48 Custom Street East, Britomart, Auckland CBD, Auckland 1010",Auckland,Very Good
+1053,0,NZ$,Milse,Desserts,"The Pavilions, 27 Tyler Street, Britomart, Auckland CBD, Auckland 1010",Auckland,Excellent
+1054,0,NZ$,Tucks and Bao,"Asian Fusion, Pub Food, Fusion, Asian, Filipino, Malaysian, Thai","19 Davis Cresent, Newmarket, Auckland 1023",Auckland,Good
+1055,0,NZ$,Big Fish Eatery,"Asian, Sushi, Seafood","Unit 3, 710 Great South Road, Corner Wilkinson Road, Penrose, Auckland 1061",Auckland,Excellent
+1056,0,NZ$,Miann,Desserts,"57 Fort Street, Auckland Auckland CBD",Auckland,Excellent
+1057,0,NZ$,The Garden Shed,"Kiwi, European","470 Mt Eden Road, Mt Eden, Auckland 1024",Auckland,Very Good
+1058,0,NZ$,Giapo,"Ice Cream, Desserts","12 Gore Street, Auckland CBD, Auckland",Auckland,Excellent
+1059,0,NZ$,Chinoiserie,"Taiwanese, Street Food","4 Owairaka Avenue, Mt Albert, Auckland",Auckland,Very Good
+1060,0,NZ$,Little Sister Cafe,Cafe,"91 Central Park Drive, Henderson, Auckland",Auckland,Excellent
+1061,0,NZ$,Loretta,"European, Cafe","181 Cuba Street, Te Aro, Wellington City",Wellington City,Very Good
+1062,0,NZ$,Fidel's,"Cafe, European, Mexican","234 Cuba Street, Te Aro, Wellington City",Wellington City,Very Good
+1063,0,NZ$,Caffe L'affare,Cafe,"27 College Street, Te Aro, Wellington City",Wellington City,Very Good
+1064,0,NZ$,Ombra,Italian,"199 Cuba Street, Te Aro, Wellington City",Wellington City,Excellent
+1065,0,NZ$,Burger Liquor,American,"129 Willis Street, Te Aro, Wellington City",Wellington City,Very Good
+1066,0,NZ$,The Crab Shack,"Seafood, Kiwi","15 Jervois Quay, Queens Wharf, Wellington Central, Wellington City",Wellington City,Very Good
+1067,0,NZ$,Floriditas,"Italian, Cafe","161 Cuba Street, Te Aro, Wellington City",Wellington City,Very Good
+1068,0,NZ$,Little Penang,Malaysian,"40 Dixon Street, Te Aro, Wellington City",Wellington City,Very Good
+1069,0,NZ$,The Hangar,Cafe,"171-177 Willis Street, Te Aro, Wellington City",Wellington City,Excellent
+1070,0,NZ$,Ekim Burgers,Fast Food,"257 Cuba Street, Te Aro, Wellington City",Wellington City,Excellent
+1071,0,NZ$,Enigma Cafe,"Cafe, Kiwi, Ice Cream, Desserts","128 Courtenay Place, Te Aro, Wellington City",Wellington City,Very Good
+1072,0,NZ$,Five Boroughs,American,"4 Roxburgh Street, Corner of Roxburgh and Majoribanks Street, Mt Victoria, Wellington City",Wellington City,Very Good
+1073,0,NZ$,wagamama,"Japanese, Asian","33 Customhouse Quay, Wellington Central, Wellington City 6011",Wellington City,Good
+1074,0,NZ$,Fisherman's Plate,"Vietnamese, Fish and Chips","12 Bond Street, Te Aro, Wellington City",Wellington City,Very Good
+1075,0,NZ$,Maranui Cafe,"Cafe, Kiwi","Maranui Surf Life Saving Club, 7 Lyall Parade, Lyall Bay, Wellington City",Wellington City,Very Good
+1076,0,NZ$,Olive,"Mediterranean, Cafe, European","170 Cuba Street, Te Aro, Wellington City",Wellington City,Very Good
+1077,0,NZ$,Hippopotamus - Museum Hotel,"French, Kiwi","Museum Hotel, Level 3, 90 Cable Street, Te Aro, Wellington City",Wellington City,Very Good
+1078,0,NZ$,Charley Noble Eatery & Bar,European,"Huddart Parker Building, Ground Floor, 1 Post Office Square, Wellington Central, Wellington City",Wellington City,Very Good
+1079,0,NZ$,Midnight Espresso,Cafe,"178 Cuba Street, Te Aro, Wellington City",Wellington City,Very Good
+1080,0,NZ$,Dragonfly,Asian,"70 Courtenay Place, Te Aro, Wellington City",Wellington City,Very Good
+1081,0,,The Golconda Bowl - hilton,"North Indian, Biryani","48, 1st Floor, Above CCD, JVPD Scheme, Vile Parle West, Mumbai, AAAA, Dummy",Dummy,Not rated
+1082,0,,Mc Donald,Fast Food,"Shop 20, Opposite Super Store, Basanti Highway, Dummy",Dummy,Not rated
+1083,0,,Daawat Restaurant,North Indian,"Shop 57, Huda Market, Sector 31, CBD, Dummy",Dummy,Not rated
+1084,0,,Salt Water Cafe,"North Indian, Chinese, Cafe","82, Nagin Mahal, Veer Nariman Road, Opposite Gaylords, Churchgate, Mumbai, AAAA, Dummy",Dummy,Not rated
+1085,0,,Bugilz,"Asian, Indian","Jl. Dewi Sartika, Tuban, Bali, Athlone, Dummy",Dummy,Not rated
+1086,0,,Zomato Gurgaon Office,"Mughlai, Fast Food, Asian","test yes, Basanti Highway, Dummy",Dummy,Not rated
+1087,0,,Arnold's,"Seafood, Continental, North Indian","60 Kloof Street, Gardens, Cape Town",Dummy,Not rated
+1088,0,,Simply Asia,"Chinese, Japanese","Ground Level, 20, Willow Bridge, Lifestyle Centre, Tygervalley, Melkbosstrand, Dummy",Dummy,Not rated
+1089,0,,Zomato Gurgaon Office new,"Mughlai, Fast Food, Asian","Test test CBD, Dummy",Dummy,Not rated
+1090,0,,China 1,"Chinese, Indian","G 05, Morya Landmark 1, Off Link Road, Andheri Lokhandwala, Andheri West, Mumbai, AAAA, Dummy",Dummy,Not rated
+1091,0,,Debonairs Pizza,"Pizza, Seafood, North Indian","27, Annandale Street, Engen Oranje Service Station, Gardens, Cape Town",Dummy,Not rated
+1092,0,,KFC,Fast Food,"Railway Station, Adderley Street, CBD, Cape Town",Dummy,Not rated
+1093,0,,KFC,Fast Food,"Food Court, Lower Level, Canal Walk Mall, Century City, Milnerton, Cape Town",Dummy,Not rated
+1094,0,,Galbi,"South Indian, Chinese, North Indian","210, Long Street, Gardens, Cape Town, gardens",Dummy,Not rated
+1095,0,,Bardelli's,South Indian,"18, Kloof Street, Gardens, Cape Town",Dummy,Not rated
+1096,0,,Toby's Estate,"Cafe, Italian","V Corporate Centre , 125 LP Leviste Street , Salcedo Village , Mekati City, AAAA, Dummy",Dummy,Not rated
+1097,0,,Caturra Coffee Bar,"Seafood, Continental, Italian","315, Main Road, Near Firmount, Sea Point, Cape Town, Hannover, Dummy",Dummy,Not rated
+1098,0,,D'Angelos,Pizza,"2 Deerpark Drive, Vredehoek, Cape Town",Dummy,Not rated
+1099,0,,Mcdonalds,"Italian, North Indian","Railway Station, Adderley Street, CBD2, Cape Town",Dummy,Not rated
+1100,0,,The Woodlands Eatery,"Continental, North Indian","Derry Street, Vredehoek, Cape Town 300",Dummy,Not rated
+1101,0,R$,Aprazível,Brazilian,"Rua Aprazível, 62, Santa Teresa, Rio de Janeiro",Rio de Janeiro,Excellent
+1102,0,R$,Garota de Ipanema,"Brazilian, Bar Food","Rua Vinicius de Moraes, 49, Ipanema, Rio de Janeiro",Rio de Janeiro,Excellent
+1103,0,R$,Confeitaria Colombo,"Desserts, Cafe","Rua Gonçalves Dias, 32, Centro, Rio de Janeiro",Rio de Janeiro,Excellent
+1104,0,R$,Garota de Ipanema,"Brazilian, Bar Food","Avenida João Alves, 56, Urca, Rio de Janeiro",Rio de Janeiro,Very Good
+1105,0,R$,Braseiro da Gávea,"Brazilian, Bar Food","Praça Santos Dumont, 116, Gávea, Rio de Janeiro",Rio de Janeiro,Excellent
+1106,0,R$,Bibi,"Juices, Healthy Food","Rua Santa Clara, 36, Copabana, Rio de Janeiro",Rio de Janeiro,Excellent
+1107,0,R$,Shirley,"Brazilian, Seafood","Rua Gustavo Sampaio, 610, Leme, Rio de Janeiro",Rio de Janeiro,Very Good
+1108,0,R$,Filé de Ouro,Brazilian,"Rua Jardim Botânico, 731, Jardim Botânico, Lagoa, Rio de Janeiro",Rio de Janeiro,Very Good
+1109,0,R$,Leme Light,Brazilian,"Rua Gustavo Sampaio, 798, Leme, Rio de Janeiro",Rio de Janeiro,Very Good
+1110,0,R$,Pesqueiro Eco Gourmet,"Seafood, Bar Food, Brazilian","Praia da Barra da Tijuca, Avenida Lúcio Costa, Ilha 25, Barra da Tijuca, Rio de Janeiro",Rio de Janeiro,Very Good
+1111,0,R$,Sushi Leblon,Japanese,"Rua Dias Ferreira, 256, Leblon, Rio de Janeiro",Rio de Janeiro,Excellent
+1112,0,R$,Balada Mix,"Brazilian, Healthy Food, Juices, Pizza","Rua Aníbal de Mendonça, 37, Ipanema, Rio de Janeiro",Rio de Janeiro,Excellent
+1113,0,R$,TT Burger,Burger,"Galeria River, Rua Francisco Otaviano, 67, Copacabana, Rio de Janeiro",Rio de Janeiro,Excellent
+1114,0,R$,Aconchego Carioca,"Brazilian, Bar Food","Rua Barão de Iguatemi, 379, Tijuca, Rio de Janeiro",Rio de Janeiro,Excellent
+1115,0,R$,Cervantes,"Beverages, Bar Food, Fast Food","Avenida Prado Junior, 335 B, Copacabana, Rio de Janeiro",Rio de Janeiro,Excellent
+1116,0,R$,Amir,Lebanese,"Rua Ronald de Carvalho, 55, Copacabana, Rio de Janeiro",Rio de Janeiro,Very Good
+1117,0,R$,Quiosque Chopp Brahma,"Bar Food, Brazilian","Madureira Shopping - Loja 289/290, Piso 2, Estrada do Portela, 222, Madureira, Rio de Janeiro, RJ",Rio de Janeiro,Not rated
+1118,0,R$,Talho Capixaba,"Bakery, Sandwich, Brazilian","Avenida Ataulfo de Paiva, 1022, Lojas A e B, Leblon, Rio de Janeiro",Rio de Janeiro,Very Good
+1119,0,R$,D.O.C Ristorante,Italian,"Le Monde, Bloco 3, Lojas A/B, Avenida das Américas, 3500, Barra da Tijuca, Rio de Janeiro",Rio de Janeiro,Very Good
+1120,0,R$,Zazá Bistrô Tropical,Brazilian,"Rua Joana Angélica, 40, Ipanema, Rio de Janeiro",Rio de Janeiro,Excellent
+1121,0,IDR,Fish Streat,"Seafood, Western","Jl. Tebet Timur Dalam Raya 44B, Tebet, Jakarta",Jakarta,Very Good
+1122,0,IDR,Talaga Sampireun,"Sunda, Indonesian",Jl. Lingkar Luar Barat,Jakarta,Excellent
+1123,0,IDR,Talaga Sampireun,"Sunda, Indonesian","Taman Impian Jaya Ancol, Jl. Lapangan Golf 7, Ancol, Jakarta",Jakarta,Excellent
+1124,0,IDR,Lucky Cat Coffee & Kitchen,"Cafe, Western","Plaza Festival, South Parking, Jl. HR Rasuna Said, Kuningan, Jakarta",Jakarta,Very Good
+1125,0,IDR,Satoo - Hotel Shangri-La,"Asian, Indonesian, Western","Hotel Shangri-La, Jl. Jend. Sudirman",Jakarta,Excellent
+1126,0,IDR,Sushi Masa,"Sushi, Japanese","Jl. Tuna Raya No. 5, Penjaringan",Jakarta,Excellent
+1127,0,IDR,Flip Burger,Burger,"Jl. Senopati No. 27, Senopati, Jakarta",Jakarta,Very Good
+1128,0,IDR,Lemongrass,"Peranakan, Indonesian","Jl. Raya Pajajaran No. 21, Bogor Utara, Bogor",Bogor,Very Good
+1129,0,IDR,Talaga Sampireun,"Sunda, Indonesian","Jl. Boulevard Bintaro Jaya Blok B7/N1, Bintaro Sektor 7, Pondok Aren, Tangerang",Tangerang,Excellent
+1130,0,IDR,3 Wise Monkeys,Japanese,"Jl. Suryo No. 26, Senopati, Jakarta",Jakarta,Very Good
+1131,0,IDR,Fish Streat,"Seafood, Western","Jl. Tanjung Duren Utara III, Blok M Kav. 32, Tanjung Duren, Jakarta",Jakarta,Average
+1132,0,IDR,Zenbu,"Japanese, Sushi, Ramen","Kota Kasablanka, Lantai Upper Ground, Food Society, Jl. Casablanca Raya, Tebet, Jakarta",Jakarta,Very Good
+1133,0,IDR,Onokabe,Indonesian,"Alam Sutera Town Center, Jl. Alam Utama, Serpong, Tangerang",Tangerang,Good
+1134,0,IDR,Toodz House,"Cafe, Italian, Coffee and Tea, Western, Indonesian","Jl. Cipete Raya No. 79, Fatmawati, Jakarta",Jakarta,Excellent
+1135,0,IDR,Union Deli,"Desserts, Bakery, Western","Grand Indonesia Mall, Lantai Ground, East Mall, Jl. MH Thamrin, Thamrin, Jakarta",Jakarta,Excellent
+1136,0,IDR,MONKS,"Western, Asian, Cafe","Komplek Graha Boulevard Timur, Summarecon Kelapa Gading Blok ND1/51, Kelapa Gading, Jakarta",Jakarta,Very Good
+1137,0,IDR,OJJU,Korean,"Gandaria City, Lantai Upper Ground, Jl. Sultan Iskandar Muda",Jakarta,Good
+1138,0,IDR,Momo Milk,"Cafe, Desserts, Beverages","Jl. Kantor Pos No. 6, Bogor Timur, Bogor",Bogor,Good
+1139,0,IDR,Skye,"Italian, Continental","Menara BCA, Lantai 56, Jl. MH. Thamrin, Thamrin, Jakarta",Jakarta,Very Good
+1140,0,IDR,Avec Moi Restaurant and Bar,"French, Western","Gedung PIC, Jl. Teluk Betung 43, Thamrin, Jakarta",Jakarta,Very Good
+1141,0,R,Old Town Italy,"Cafe, Italian, Pizza, European, Bakery, Deli","Shop 53, Menlyn Maine, Central Square, 180 Amarand Avenue, Waterkloof Glen, Pretoria",Pretoria,Good
+1142,0,R,The Belgian Triple,"Healthy Food, Seafood, Beverages, Belgian, Contemporary, Desserts, Finger Food, International","Olympus Village, Corner Olympus Dr And Achilles Road, Faerie Glen, Pretoria",Pretoria,Very Good
+1143,0,R,Brooklyn Brothers,"Burger, American, Beverages","Glenfair Boulevard, Corner Lynnwood & Daventry Road, Lynnwood Manor, Lynnwood, Pretoria",Pretoria,Good
+1144,0,R,Life Grand Cafe,"Italian, Mediterranean, Sushi, Desserts","The Club Centre, Corner of Pinaster Avenue & 18th Street, Hazelwood, Near, Waterkloof, Pretoria",Pretoria,Very Good
+1145,0,R,Restaurant Mosaic @ The Orient,French,"The Orient Boutique Hotel, Crocodile River Valley, Elandsfontein, Near West Park, Pretoria",Pretoria,Excellent
+1146,0,R,Kream,African,"570 Fehrsen Street, Brooklyn, Pretoria",Pretoria,Excellent
+1147,0,R,Geet Indian Restaurant,Indian,"541 Fehrsen Street, Nieuw Muckleneuk, Brooklyn, Pretoria",Pretoria,Very Good
+1148,0,R,El Pistolero,Mexican,"Corner Duvernoy and Chopin Street, Garsfontein, Pretoria",Pretoria,Very Good
+1149,0,R,23 On Hazelwood,"Street Food, Continental, Burger, Grill","23 Hazelwood Road, Menlo Park, Near, Waterkloof, Pretoria",Pretoria,Good
+1150,0,R,Harissa Bistro,"European, South African, Steak","The Club Centre, Corner of Pinaster Avenue & 18th Street, Hazelwood, Near Waterkloof, Pretoria",Pretoria,Excellent
+1151,0,R,Culture Club - Bar De Tapas,"Cafe, Tapas, South African, Beverages, Healthy Food, Desserts, Spanish","15, 16th Street, Waterkloof, Pretoria 0081",Pretoria,Excellent
+1152,0,R,Spice - The Indian Kitchen,"Indian, Asian, Durban, International, Desserts","Lynridge Mall, 1 Jacobson Drive, Lynnwood, Pretoria",Pretoria,Very Good
+1153,0,R,Blos Cafe,"Cafe, Burger, Tapas, South African, European, Grill","66 Olympus street, Faerie Glen, Pretoria",Pretoria,Good
+1154,0,R,Carbon Bistro,"Burger, Steak, Seafood","279 Dey Street, Brooklyn, Pretoria",Pretoria,Very Good
+1155,0,R,Baobab Cafe & Grill,"Cafe, Grill","Menlyn Shopping Centre, Level 1, Corner of Atterbury Road & Lois Avenue, Menlyn, Pretoria",Pretoria,Very Good
+1156,0,R,Capital Craft Beer Academy,"Street Food, Burger, American, Finger Food, German","Greenlyn Village, Shop 20, 13th Street, Menlo Park, Near, Lynnwood, Pretoria",Pretoria,Very Good
+1157,0,R,The Black Bamboo,Continental,"Menlyn Boutique Hotel, 209 Tugela Road, Ashlea Gardens, Near Menlyn, Menlyn, Pretoria",Pretoria,Very Good
+1158,0,R,Crawdaddy's,"Continental, Seafood, Burger, South African, Finger Food, Grill","Waterglen Shopping Centre, Corner of Garsfontein Road & January Masilela Drive, Waterkloof Glen, Pretoria",Pretoria,Very Good
+1159,0,R,Parrot's,"Contemporary, Sushi, Grill, Italian, Steak","Menlyn Shopping Centre, Corner of Atterbury Road & Lois Avenue, Menlyn, Pretoria",Pretoria,Average
+1160,0,R,Hogshead,"Grill, Burger","Corner Dely & Pinaster Roads, Hazelwood, Waterkloof, Pretoria",Pretoria,Very Good
+1161,0,£,Loudons Cafe & Bakery,"Cafe, Bakery","94b Fountainbridge, Fountainbridge, Edinburgh EH3 9QA",Edinburgh,Good
+1162,0,£,El Cartel,Mexican,"64 Thistle Street, New Town, Edinburgh EH2 1EN",Edinburgh,Good
+1163,0,£,Ting Thai Caravan,"Thai, Asian","8-9 Teviot Place, Old Town, Edinburgh EH1 2QZ",Edinburgh,Very Good
+1164,0,£,The Elephant House,Cafe,"21 George IV Bridge, Old Town, Edinburgh EH1 1EN",Edinburgh,Good
+1165,0,£,Love Crumbs,"Bakery, Cafe","155 West Port, Old Town, Edinburgh EH3 9DP",Edinburgh,Very Good
+1166,0,£,The Kitchin,"British, French","78 Commercial Street, Leith, Edinburgh EH6 6LX",Edinburgh,Very Good
+1167,0,£,Mimi's Bakehouse,"Cafe, Bakery, Desserts","63 Shore, Leith, Edinburgh EH6 6RA",Edinburgh,Excellent
+1168,0,£,Mother India's Cafe,Indian,"3-5 Infirmary Street, Old Town, Edinburgh EH1 1LT",Edinburgh,Very Good
+1169,0,£,10 To 10 In Delhi,"Indian, Cafe","67 Nicolson Street, Old Town, Edinburgh EH8 9BE",Edinburgh,Good
+1170,0,£,Hard Rock Cafe,American,"20 George Street, New Town, Edinburgh EH2 2PF",Edinburgh,Very Good
+1171,0,£,Tuk Tuk Indian Street Food,"Indian, Street Food","1 Leven Street, Tollcross, Edinburgh EH3 9NB",Edinburgh,Very Good
+1172,0,£,Chaophraya,Thai,"4th Floor, 33 Castle Street, New Town, Edinburgh EH2 3DN",Edinburgh,Very Good
+1173,0,£,Steak,"Steak, Scottish, British","14 Picardy Place, New Town, Edinburgh EH1 3JT",Edinburgh,Very Good
+1174,0,£,Bentoya,"Sushi, Japanese, Cantonese","15 Bread Street, Old Town, Edinburgh EH3 9AL",Edinburgh,Good
+1175,0,£,The Witchery & The Secret Garden,"British, Scottish, Seafood","Castlehill, The Royal Mile, Old Town, Edinburgh EH12NF",Edinburgh,Very Good
+1176,0,£,The Boozy Cow,"Burger, Grill","17 Frederick Street, New Town, Edinburgh EH2 2EY",Edinburgh,Very Good
+1177,0,£,La Favorita,Italian,"325-331 Leith Walk, Leith, Edinburgh EH6 8SA",Edinburgh,Excellent
+1178,0,£,Roseleaf Bar Cafe,"Scottish, Cafe","23-24 Sandport Place, Leith, Edinburgh EH6 6EW",Edinburgh,Excellent
+1179,0,£,Civerinos,"Pizza, Italian","5 Hunter Square, Royal Mile, Old Town, Edinburgh EH1 1QW",Edinburgh,Good
+1180,0,£,The Hanging Bat,American,"133 Lothian Road, Old Town, Edinburgh EH3 9AD",Edinburgh,Good
