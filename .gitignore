@@ -2,3 +2,6 @@
 *.DS_Store
 *.pyc
 __pycache__/
+*.sqlite3
+refs/
+Sesion-08/*.csv
